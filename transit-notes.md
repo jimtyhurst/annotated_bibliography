@@ -18,7 +18,7 @@ This article is a summary and review of Christof Spieler's book, "Trains, Buses,
 ---
 
 Graham Carey. 2006. "Bus Rapid Transit—The Eugene-Springfield,
-OR, USA, Experience". [PDF](https://pdfs.semanticscholar.org/890e/63aa773f8ec9cb50f1bd525fd47e0881ebab.pdf)
+OR, USA, Experience". [PDF](https://pdfs.semanticscholar.org/890e/63aa773f8ec9cb50f1bd525fd47e0881ebab.pdf).
 
 ---
 
@@ -27,7 +27,7 @@ OR, USA, Experience". [PDF](https://pdfs.semanticscholar.org/890e/63aa773f8ec9cb
 ---
 
 [Henry Grabar](http://www.henrygrabar.com/) (ed). 2019. [The Future of Transportation](https://www.som.com/ideas/publications/som_thinkers_the_future_of_transportation).  
-On order at [Multnomah County Library](https://multcolib.bibliocommons.com/item/show/1405438152).  
+On order at [Multnomah County Libraries](https://multcolib.bibliocommons.com/item/show/1405438152).  
 Contributions by:  
 
 * [Atossa Araxia Abrahamian](http://atossaaraxia.com/)
@@ -39,7 +39,8 @@ Contributions by:
 
 ---
 
-[Steven Higashide](https://transitcenter.org/team/steven-higashide-2/). 2019. [Better Buses, Better Cities: How to Plan, Run, and Win the Fight for Effective Transit](https://islandpress.org/books/better-buses-better-cities).
+[Steven Higashide](https://transitcenter.org/team/steven-higashide-2/). 2019. [Better Buses, Better Cities: How to Plan, Run, and Win the Fight for Effective Transit](https://islandpress.org/books/better-buses-better-cities).  
+Available at [Multnomah County Libraries](https://multcolib.bibliocommons.com/item/show/1385609152).
 
 [Steven Higashide](https://transitcenter.org/team/steven-higashide-2/). 201911-04. "[How to Win the Fight for Fair and Equitable Transit: Start by dismantling the systemic barriers that disproportionately penalize low-income bus riders](https://nextcity.org/features/view/how-to-win-the-fight-for-fair-and-equitable-transit)". This is an excerpt from [Better Buses, Better Cities: How to Plan, Run, and Win the Fight for Effective Transit](https://islandpress.org/books/better-buses-better-cities).
 
@@ -61,12 +62,12 @@ Discusses terms like:
 
 San Francisco County Transit Authority ([SFCTA](https://www.sfcta.org/)). [Congestion Management Program](https://www.sfcta.org/projects/congestion-management-program).
 
-San Francisco County Transit Authority ([SFCTA](https://www.sfcta.org/)). [Congestion in San Francisco](http://congestion.sfcta.org/): interactive tool to explore performance metrics for both automobiles and buses on major San Francisco streets and highways.  
+San Francisco County Transit Authority ([SFCTA](https://www.sfcta.org/)). [Congestion in San Francisco](http://congestion.sfcta.org/) is an interactive tool to explore performance metrics for both automobiles and buses on major San Francisco streets and highways.  
 [YouTube video](https://www.youtube.com/watch?v=mDkZtpLaUdE) explains how to use the [interactive application](http://congestion.sfcta.org/).
 
 ---
 
-[Christof Spieler](https://www.trainsbusespeople.org/christof-spieler). 2018. [Trains, Buses, People: An Opinionated Atlas of US Transit](https://islandpress.org/books/trains-buses-people). Available at [Multnomah Public Library](https://multcolib.bibliocommons.com/item/show/274953152).  
+[Christof Spieler](https://www.trainsbusespeople.org/christof-spieler). 2018. [Trains, Buses, People: An Opinionated Atlas of US Transit](https://islandpress.org/books/trains-buses-people). Available at [Multnomah Public Libraries](https://multcolib.bibliocommons.com/item/show/274953152), [Washington County Libraries](https://wccls.bibliocommons.com/item/show/3524075143), and [Clackamas County Libraries](https://lincc.ent.sirsi.net/client/en_US/lincc/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:974020/one?qu=Trains%2C+Buses%2C+People&rt=false%7C%7C%7CTITLE%7C%7C%7CTitle).  
 Includes maps of frequency of service against population density as a critical factor that affects ridership levels.  
 Recorded presentation on 2019-10-08: [YouTube video](https://www.youtube.com/watch?v=42Fx-2v6KC0) is a 47-minute presentation in Seattle followed by 11 minutes of questions.  
 Levels of ridership depend on:
@@ -94,13 +95,13 @@ Calls out Portland, OR for having poor land use with too much single house zonin
 
 
 [Anthony M. Townsend](http://www.anthonymobile.com/). 2013. [Smart Cities: Big Data, Civic Hackers, and the Quest for A New Utopia]().  
-Available at [Multnomah Public Library](https://multcolib.bibliocommons.com/item/show/1111905152).  
+Available at [Multnomah Public Libraries](https://multcolib.bibliocommons.com/item/show/1111905152), [Washington County Libraries](https://wccls.bibliocommons.com/item/show/2008084143), and [Clackamas County Libraries](https://lincc.ent.sirsi.net/client/en_US/lincc/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:716789/one?qu=Smart+Cities%3A+Big+Data%2C+Civic+Hackers&rt=false%7C%7C%7CTITLE%7C%7C%7CTitle).  
 Recorded presentation on 2013-10-09: [YouTube video](https://www.youtube.com/watch?v=z1evCV6_e8Q).
 
 ---
 
 [Transit Wiki](https://www.transitwiki.org/)  
-[headway](https://www.transitwiki.org/TransitWiki/index.php/Headway) is the amount of time between transit vehicle arrivals at a stop. Headways have a significant impact on how desirable a transit service is because they effect:
+"[headway](https://www.transitwiki.org/TransitWiki/index.php/Headway)" is the amount of time between transit vehicle arrivals at a stop. Headways have a significant impact on how desirable a transit service is because they effect:
 
 * The time penalty for missing a train or bus
 * The amount of planning and preparation needed to use transit and stay on schedule
@@ -110,8 +111,8 @@ Recorded presentation on 2013-10-09: [YouTube video](https://www.youtube.com/wat
 ---
 
 [Jarrett Walker](https://humantransit.org/). 2012. [Human Transit: How Clearer Thinking About Public Transit Can Enrich Our Communities and Our Lives](https://humantransit.org/book).  
-Available at [Multnomah Public Library](https://multcolib.bibliocommons.com/item/show/236687152) and [Washington County Libraries](https://wccls.bibliocommons.com/item/show/1774137143).  
-Recorded presentation on 2012-07-12: [YouTube video](https://www.youtube.com/watch?v=pg2kE5m4exk) is a 57-minute presentation at the University of Oregon followed by 19 minutes of questions.  
+Available at [Multnomah Public Libraries](https://multcolib.bibliocommons.com/item/show/236687152), [Washington County Libraries](https://wccls.bibliocommons.com/item/show/1774137143), and [Clackamas County Libraries](https://lincc.ent.sirsi.net/client/en_US/lincc/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:897360/ada?qu=Human+Transit&rt=false%7C%7C%7CTITLE%7C%7C%7CTitle).  
+Recorded presentation on 2012-07-12 on [YouTube video](https://www.youtube.com/watch?v=pg2kE5m4exk) is a 57-minute presentation at the University of Oregon followed by 19 minutes of questions.  
 
 * The essential task of transit: "Abundant access without personal vehicles, over distances too far to walk."  
 * What if we could see our own access and mobility? Discusses maps by [walkscore.com](https://www.walkscore.com/) with isochrones for what you can reach in 15 or 30 minutes from a particular point. Note: See also [OpenTransit](https://github.com/trynmaps/metrics-mvp)'s implementation of [isochrones](https://muni.opentransit.city/isochrone).
