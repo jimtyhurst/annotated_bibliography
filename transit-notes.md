@@ -6,7 +6,9 @@ Sorted alphabetically by author's last name, then in descending chronological or
 
 [Laura Bliss](https://www.laurablisswrites.com/). 2019-11-12. "[Navigation Apps Changed the Politics of Traffic](https://www.citylab.com/transportation/2019/11/future-of-transportation-traffic-navigation-apps-google-maps/601684/)".
 
-[Laura Bliss](https://www.laurablisswrites.com/). 2018-11-28. "[A U.S. Transit Atlas That Ranks the Best (and Worst) Cities for Bus and Rail](https://www.citylab.com/transportation/2018/11/best-transit-american-cities-bus-rail-subway-service/576739/)".
+[Laura Bliss](https://www.laurablisswrites.com/). 2018-11-28. "[A U.S. Transit Atlas That Ranks the Best (and Worst) Cities for Bus and Rail](https://www.citylab.com/transportation/2018/11/best-transit-american-cities-bus-rail-subway-service/576739/)".  
+This article is a summary and review of Christof Spieler's book, "Trains, Buses, People: An Opinionated Atlas of U.S. Transit".  
+"Spieler's atlas illustrates how high-performing public transportation boils down to a handful of key tenets: the density and walkability of an area, and the connectivity, frequency, and reliability of the service. Finding the proper capacity to meet demand matters, too, as do speed and legible tools for navigating the system, he writes."
 
 ---
 
