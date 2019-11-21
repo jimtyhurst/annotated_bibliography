@@ -46,7 +46,17 @@ Available at [Multnomah County Libraries](https://multcolib.bibliocommons.com/it
 
 ---
 
+[Paul Mees](https://en.wikipedia.org/wiki/Paul_Mees). 2009. [Transport for Suburbia: Beyond the Automobile Age](https://www.routledge.com/Transport-for-Suburbia-Beyond-the-Automobile-Age-1st-Edition/Mees/p/book/9781849774659).  
+Available at [Multnomah County Libraries](https://multcolib.bibliocommons.com/item/show/1400467152).  
+This book argues that the secret of 'European-style' public transport lies in a generalizable model of network planning that has worked in places as diverse as rural Switzerland, the Brazilian city of Curitiba and the Canadian cities of Toronto and Vancouver. It shows how this model can be adapted to suburban, exurban and even rural areas to provide a genuine alternative to the car, and outlines the governance, funding and service planning policies that underpin the success of the world's best public transport systems.
+
+---
+
 [Pittsburghers for Public Transit](https://www.pittsburghforpublictransit.org/). 2018. "[Riders’ Vision Campaign for Public Transit](https://www.pittsburghforpublictransit.org/riders-vision-campaign-for-public-transit/)".
+
+--- 
+
+Gabriel Roth, George G. Wynne. 1982. Free Enterprise Urban Transportation.
 
 ---
 
@@ -97,6 +107,21 @@ Calls out Portland, OR for having poor land use with too much single house zonin
 [Anthony M. Townsend](http://www.anthonymobile.com/). 2013. [Smart Cities: Big Data, Civic Hackers, and the Quest for A New Utopia]().  
 Available at [Multnomah Public Libraries](https://multcolib.bibliocommons.com/item/show/1111905152), [Washington County Libraries](https://wccls.bibliocommons.com/item/show/2008084143), and [Clackamas County Libraries](https://lincc.ent.sirsi.net/client/en_US/lincc/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:716789/one?qu=Smart+Cities%3A+Big+Data%2C+Civic+Hackers&rt=false%7C%7C%7CTITLE%7C%7C%7CTitle).  
 Recorded presentation on 2013-10-09: [YouTube video](https://www.youtube.com/watch?v=z1evCV6_e8Q).
+
+---
+
+[Transit Alliance Miami](https://transitalliance.miami/)  
+Transit Alliance is a non-profit organization advocating for walkable streets, bikeable neighborhoods and better public transit. Our campaigns combine data-driven research, community engagement and policy advocacy to get Miami moving safer, faster and happier.
+
+---
+
+[TransitCenter](https://transitcenter.org/)  
+TransitCenter works to improve transit in order to make cities more just and environmentally sustainable.
+
+---
+
+[Transit Drives Indy (TDI) Coalition](https://www.transitdrivesindy.com/)  
+The Transit Drives Indy (TDI) Coalition, comprised of organizations across Marion County, seeks to educate voters in Marion County on the benefits of public transportation and advocate in support of the Marion County Transit referendum.
 
 ---
 
