@@ -24,3 +24,9 @@ Johanna Rothman, Mark Kirby. 2019. [From Chaos to Successful Distributed Agile T
 [Remo](https://remotehub.io/). video-first workspace for remote teams.
 
 [Nureva](https://www.nureva.com/). visual collaboration tools.
+
+## Remote Job Search
+[Pangian](https://pangian.com/)
+
+[YourDreamRemoteJobNow.com](https://yourdreamremotejobnow.com/)
+
