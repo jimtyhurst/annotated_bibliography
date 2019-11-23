@@ -1,6 +1,19 @@
 # Transit Resources
 
+* [Books and Articles](#books-and-articles)
+* [Advocacy and Research Groups](#advocacy-and-research-groups)
+* [Professional Organizations](#professional-organizations)
+* [Transit Agencies](#transit-agencies)
+
+## Books and Articles
 Sorted alphabetically by author's last name, then in descending chronological order.
+
+---
+
+[Simon J. Berrebi, Ph.D.](http://berrebi.net/).
+
+* "Identifying the Underlying Causes of Transit Ridership". [30 minute webinar summarizing the project](https://www.enotrans.org/event/webinar-analyzing-bus-ridership-decline/)
+* Invented a [dynamic dispatching algorithm](http://www.berrebi.net/research) that replaces schedules and helps minimize passenger waiting time on frequent transit routes.
 
 ---
 
@@ -22,10 +35,6 @@ OR, USA, Experience". [PDF](https://pdfs.semanticscholar.org/890e/63aa773f8ec9cb
 
 ---
 
-[CityLab Transportation](https://www.citylab.com/transportation/)
-
----
-
 [Henry Grabar](http://www.henrygrabar.com/) (ed). 2019. [The Future of Transportation](https://www.som.com/ideas/publications/som_thinkers_the_future_of_transportation).  
 On order at [Multnomah County Libraries](https://multcolib.bibliocommons.com/item/show/1405438152).  
 Contributions by:  
@@ -41,8 +50,8 @@ Contributions by:
 
 [Steven Higashide](https://transitcenter.org/team/steven-higashide-2/). 2019. [Better Buses, Better Cities: How to Plan, Run, and Win the Fight for Effective Transit](https://islandpress.org/books/better-buses-better-cities).  
 Available at [Multnomah County Libraries](https://multcolib.bibliocommons.com/item/show/1385609152).
-
-[Steven Higashide](https://transitcenter.org/team/steven-higashide-2/). 201911-04. "[How to Win the Fight for Fair and Equitable Transit: Start by dismantling the systemic barriers that disproportionately penalize low-income bus riders](https://nextcity.org/features/view/how-to-win-the-fight-for-fair-and-equitable-transit)". This is an excerpt from [Better Buses, Better Cities: How to Plan, Run, and Win the Fight for Effective Transit](https://islandpress.org/books/better-buses-better-cities).
+[Video discussion of the book](https://nextcity.org/webinars/view/steven-higashide-on-better-buses-better-cities). 2019-11-20.  
+Excerpt: "[How to Win the Fight for Fair and Equitable Transit: Start by dismantling the systemic barriers that disproportionately penalize low-income bus riders](https://nextcity.org/features/view/how-to-win-the-fight-for-fair-and-equitable-transit)". 2019-11-04.
 
 ---
 
@@ -51,10 +60,6 @@ Available at [Multnomah County Libraries](https://multcolib.bibliocommons.com/it
 This book argues that the secret of 'European-style' public transport lies in a generalizable model of network planning that has worked in places as diverse as rural Switzerland, the Brazilian city of Curitiba and the Canadian cities of Toronto and Vancouver. It shows how this model can be adapted to suburban, exurban and even rural areas to provide a genuine alternative to the car, and outlines the governance, funding and service planning policies that underpin the success of the world's best public transport systems.
 
 ---
-
-[Pittsburghers for Public Transit](https://www.pittsburghforpublictransit.org/). 2018. "[Riders’ Vision Campaign for Public Transit](https://www.pittsburghforpublictransit.org/riders-vision-campaign-for-public-transit/)".
-
---- 
 
 Gabriel Roth, George G. Wynne. 1982. Free Enterprise Urban Transportation.
 
@@ -67,13 +72,6 @@ Discusses terms like:
 * system-optimized vs user-optimized
 * price of anarchy
 * "Bayen believes that navigation apps are creating more problems than they're solving in many crowded cities."
-
----
-
-San Francisco County Transit Authority ([SFCTA](https://www.sfcta.org/)). [Congestion Management Program](https://www.sfcta.org/projects/congestion-management-program).
-
-San Francisco County Transit Authority ([SFCTA](https://www.sfcta.org/)). [Congestion in San Francisco](http://congestion.sfcta.org/) is an interactive tool to explore performance metrics for both automobiles and buses on major San Francisco streets and highways.  
-[YouTube video](https://www.youtube.com/watch?v=mDkZtpLaUdE) explains how to use the [interactive application](http://congestion.sfcta.org/).
 
 ---
 
@@ -110,6 +108,59 @@ Recorded presentation on 2013-10-09: [YouTube video](https://www.youtube.com/wat
 
 ---
 
+[Jarrett Walker](https://humantransit.org/). 2012. [Human Transit: How Clearer Thinking About Public Transit Can Enrich Our Communities and Our Lives](https://humantransit.org/book).  
+Available at [Multnomah Public Libraries](https://multcolib.bibliocommons.com/item/show/236687152), [Washington County Libraries](https://wccls.bibliocommons.com/item/show/1774137143), and [Clackamas County Libraries](https://lincc.ent.sirsi.net/client/en_US/lincc/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:897360/ada?qu=Human+Transit&rt=false%7C%7C%7CTITLE%7C%7C%7CTitle).  
+Recorded presentation on 2012-07-12 on [YouTube video](https://www.youtube.com/watch?v=pg2kE5m4exk) is a 57-minute presentation at the University of Oregon followed by 19 minutes of questions.  
+
+* The essential task of transit: "Abundant access without personal vehicles, over distances too far to walk."  
+* What if we could see our own access and mobility? Discusses maps by [walkscore.com](https://www.walkscore.com/) with isochrones for what you can reach in 15 or 30 minutes from a particular point. Note: See also [OpenTransit](https://github.com/trynmaps/metrics-mvp)'s implementation of [isochrones](https://muni.opentransit.city/isochrone).
+* Five essential aspects of transit:
+    * Frequency
+    * Span
+    * Speed
+    * Reliability
+    * Capacity
+
+## Advocacy and Research Groups
+
+[Bus Riders Unite](http://www.opalpdx.org/bus-riders-unite/)!  
+A membership organization that represents transit-dependent people in the Portland Metropolitan region.  
+Twitter: [@OPALEJOR](https://twitter.com/OPALEJOR)
+
+---
+
+[Center for Transportation Excellence](https://cfte.org/) (CFTE).  
+The Center for Transportation Excellence (CFTE) is a clearinghouse for information in support of quality transportation choices. CFTE is committed to two main objectives: (1) defending the merits of transit and (2) equipping local leaders with the information they need to be successful with their public transportation initiatives and ballot measures.
+
+---
+
+[CityLab Transportation](https://www.citylab.com/transportation/)
+
+---
+
+[Getting There Together Coalition](http://www.gettingtheretogether.org/)  
+The Getting There Together Coalition was formed in 2017 in response to growing concerns that the Portland metropolitan region wasn’t adequately planning to build the comprehensive infrastructure and transportation system that will alleviate growing freeway congestion, empower working Oregonians to get to jobs, and ensure all the region’s residents prosper from an equitable, sustainable, and climate-smart investment in our future.  
+Twitter: [@ThereTogether](https://twitter.com/ThereTogether)
+
+---
+
+[Pittsburghers for Public Transit](https://www.pittsburghforpublictransit.org/). 2018. "[Riders’ Vision Campaign for Public Transit](https://www.pittsburghforpublictransit.org/riders-vision-campaign-for-public-transit/)".
+
+--- 
+
+San Francisco County Transit Authority ([SFCTA](https://www.sfcta.org/)). [Congestion Management Program](https://www.sfcta.org/projects/congestion-management-program).
+
+San Francisco County Transit Authority ([SFCTA](https://www.sfcta.org/)). [Congestion in San Francisco](http://congestion.sfcta.org/) is an interactive tool to explore performance metrics for both automobiles and buses on major San Francisco streets and highways.  
+[YouTube video](https://www.youtube.com/watch?v=mDkZtpLaUdE) explains how to use the [interactive application](http://congestion.sfcta.org/).
+
+---
+
+[The Street Trust](https://www.thestreettrust.org/)  
+The Street Trust works in classrooms, on the streets, in city hall and the state legislature encouraging and advocating for safe and convenient walking, biking, and transit options in Portland, Oregon.  
+Twitter: [@thestreettrust](https://twitter.com/thestreettrust)
+
+---
+
 [Transit Alliance Miami](https://transitalliance.miami/)  
 Transit Alliance is a non-profit organization advocating for walkable streets, bikeable neighborhoods and better public transit. Our campaigns combine data-driven research, community engagement and policy advocacy to get Miami moving safer, faster and happier.
 
@@ -133,17 +184,29 @@ The Transit Drives Indy (TDI) Coalition, comprised of organizations across Mario
 * The amount of time lost when transit schedules do not directly conform to work, school, or activity schedules
 * Average wait times
 
+
+## Professional Organizations
+
+[American Public Transportation Association](https://www.apta.com/) (APTA).  
+APTA is the only association in North America that represents all modes of public transportation, including bus, paratransit, light rail, commuter rail, subways, waterborne services, and intercity and high-speed passenger rail. More than 90 percent of the people using public transportation in the United States and Canada ride APTA member systems
+
 ---
 
-[Jarrett Walker](https://humantransit.org/). 2012. [Human Transit: How Clearer Thinking About Public Transit Can Enrich Our Communities and Our Lives](https://humantransit.org/book).  
-Available at [Multnomah Public Libraries](https://multcolib.bibliocommons.com/item/show/236687152), [Washington County Libraries](https://wccls.bibliocommons.com/item/show/1774137143), and [Clackamas County Libraries](https://lincc.ent.sirsi.net/client/en_US/lincc/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:897360/ada?qu=Human+Transit&rt=false%7C%7C%7CTITLE%7C%7C%7CTitle).  
-Recorded presentation on 2012-07-12 on [YouTube video](https://www.youtube.com/watch?v=pg2kE5m4exk) is a 57-minute presentation at the University of Oregon followed by 19 minutes of questions.  
+[Oregon ITE](https://www.oregonite.org/).  
+Transportation professionals in Oregon.  
+Twitter: [@ITEOregon](https://twitter.com/ITEOregon)
 
-* The essential task of transit: "Abundant access without personal vehicles, over distances too far to walk."  
-* What if we could see our own access and mobility? Discusses maps by [walkscore.com](https://www.walkscore.com/) with isochrones for what you can reach in 15 or 30 minutes from a particular point. Note: See also [OpenTransit](https://github.com/trynmaps/metrics-mvp)'s implementation of [isochrones](https://muni.opentransit.city/isochrone).
-* Five essential aspects of transit:
-    * Frequency
-    * Span
-    * Speed
-    * Reliability
-    * Capacity
+---
+
+[Students in Transportation Engineering & Planning](https://itestep.weebly.com/) (STEP).  
+[Portland State University](https://www.pdx.edu/)'s [ITE](https://www.ite.org/) student chapter.  
+Twitter: [@STEPatPSU](https://twitter.com/STEPatPSU)
+
+---
+
+
+## Transit Agencies
+
+[San Francisco Municipal Transit Authority](https://www.sfmta.com/) (SFMTA).
+
+[TriMet](https://trimet.org/), Portland, Oregon.
