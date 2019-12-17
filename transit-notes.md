@@ -4,6 +4,7 @@
 * [Advocacy and Research Groups](#advocacy-and-research-groups)
 * [Professional Organizations](#professional-organizations)
 * [Transit Agencies](#transit-agencies)
+* [Legislation](#legislation)
 
 ## Books and Articles
 Sorted alphabetically by author's last name, then in descending chronological order.
@@ -121,6 +122,12 @@ Recorded presentation on 2012-07-12 on [YouTube video](https://www.youtube.com/w
     * Reliability
     * Capacity
 
+---
+
+[TriMet](https://trimet.org/). 2019-11-26. [Bus lanes speed up trips on 10 TriMet lines](https://www.masstransitmag.com/bus/vehicles/press-release/21116130/trimet-bus-lanes-speed-up-trips-on-10-trimet-lines).  
+Delays have decreased by as much as 76 percent after PBOT added a bus and bike-only lane on SW Madison Street and a bus-priority lane on NW Everett Street.
+
+
 ## Advocacy and Research Groups
 
 [Bus Riders Unite](http://www.opalpdx.org/bus-riders-unite/)!  
@@ -210,3 +217,17 @@ Twitter: [@STEPatPSU](https://twitter.com/STEPatPSU)
 [San Francisco Municipal Transit Authority](https://www.sfmta.com/) (SFMTA).
 
 [TriMet](https://trimet.org/), Portland, Oregon.
+
+---
+
+
+## Legislation
+Keep Oregon Moving Act. [HB 2017](https://www.oregon.gov/ODOT/Pages/HB2017.aspx).
+
+* 79th Oregon Legislative Assembly - 2017 Regular Session. [Enrolled House Bill 2017](https://olis.oregonlegislature.gov/liz/2017R1/Measures/Overview/HB2017). 146-page text of the measure [PDF](https://olis.leg.state.or.us/liz/2017R1/Downloads/MeasureDocument/HB2017).
+
+* Oregon Department of Transportation. 2018-02-27. Highlights of HB 2017. 2-page [PDF](https://www.oregon.gov/ODOT/Documents/HB2017_FactSheet_lettersize.pdf).
+
+* Oregon Department of Transportation. 2017-08-11. Keep Oregon Moving (HB 2017) Frequently Asked Questions. 7-page [PDF](https://www.oregon.gov/ODOT/Documents/HB2017-FAQ.pdf).
+
+* TriMet. Oct. 2018. Tri-County Public Transportation Improvement Plan. 117-page [PDF](https://trimet.org/meetings/hb2017/pdfs/public-transportation-improvement-plan.pdf).
