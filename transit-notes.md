@@ -32,6 +32,19 @@ This article is a summary and review of [Christof Spieler](https://www.trainsbus
 
 ---
 
+Ricky Burdett, Philipp Rode (eds). 2018. Shaping Cities in an Urban Age.  
+Available at [Multnomah County Libraries](https://multcolib.bibliocommons.com/item/show/172236152).  
+Public transport requirements leading to investment in high-capacity transport:
+
+* Greater access to employment.
+* Reduced commuting times.
+* Reduced congestion.
+* Better control of carbon emissions.
+
+For example, Hong Kong: 79% of residents take public transport to work. Despite a 28% growth in population, commuting times have reduced by 50%. [p. 54]
+
+---
+
 Graham Carey. 2006. "Bus Rapid Transit—The Eugene-Springfield,
 OR, USA, Experience". [PDF](https://pdfs.semanticscholar.org/890e/63aa773f8ec9cb50f1bd525fd47e0881ebab.pdf).
 
@@ -81,21 +94,49 @@ Discusses terms like:
 
 [Christof Spieler](https://www.trainsbusespeople.org/christof-spieler). 2018. [Trains, Buses, People: An Opinionated Atlas of US Transit](https://islandpress.org/books/trains-buses-people). Available at [Multnomah Public Libraries](https://multcolib.bibliocommons.com/item/show/274953152), [Washington County Libraries](https://wccls.bibliocommons.com/item/show/3524075143), and [Clackamas County Libraries](https://lincc.ent.sirsi.net/client/en_US/lincc/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:974020/one?qu=Trains%2C+Buses%2C+People&rt=false%7C%7C%7CTITLE%7C%7C%7CTitle).  
 Includes maps of frequency of service against population density as a critical factor that affects ridership levels.  
-Recorded presentation on 2019-10-08: [YouTube video](https://www.youtube.com/watch?v=42Fx-2v6KC0) is a 47-minute presentation in Seattle followed by 11 minutes of questions.  
-Levels of ridership depend on:
+Basics of successful transit:
 
 * Density
+    * Put transit in densely populated places.
+    * Increase population density where transit is.
 * Activity
+    * Serve all trips.
+    * Connect centers.
 * Walkability
+    * Optimize the quarter mile.
+    * Create complete networks.
+    * Create a great pedestrian environment.
+    * Turn front doors to the pedestrian.
 * Connectivity
+    * Design networks to create connections.
+    * Build hubs.
+    * Unify fares.
 * Frequency
+    * Provide all-day frequent service.
 * Travel Time
+    * Measure access, not distance.
+    * Optimize trip time, not speed.
+    * Provide express service.
 * Reliability
+    * Minimize unreliability due to traffic.
+    * Minimize unreliability due to boarding.
 * Capacity
+    * Provide enough capacity to meet demand.
 * Legibility
+    * Brand the network.
+    * Identify lines.
+    * Identify frequency.
+    * Identify stops.
+    * Clarify transfers.
+    * Simplify networks.
+    * Create a legible experience.
+
+Recorded presentation on 2019-10-08: [YouTube video](https://www.youtube.com/watch?v=42Fx-2v6KC0) is a 47-minute presentation in Seattle followed by 11 minutes of questions.  
+Added one more dependency for increasing levels of ridership:
+
 * Inclusivity
 
-Calls out Portland, OR for having poor land use with too much single house zoning, which limits the number of people who can use transit.
+Calls out Portland, Oregon for having poor land use with too much single house zoning, which limits the number of people who can use transit.
 
 ---
 
@@ -105,11 +146,11 @@ Calls out Portland, OR for having poor land use with too much single house zonin
 
 [Anthony M. Townsend](http://www.anthonymobile.com/). 2020. [Ghost Road: Beyond the Driverless Car](https://wwnorton.com/books/9781324001522).
 
-
 [Anthony M. Townsend](http://www.anthonymobile.com/). 2013. [Smart Cities: Big Data, Civic Hackers, and the Quest for A New Utopia]().  
 Available at [Multnomah Public Libraries](https://multcolib.bibliocommons.com/item/show/1111905152), [Washington County Libraries](https://wccls.bibliocommons.com/item/show/2008084143), and [Clackamas County Libraries](https://lincc.ent.sirsi.net/client/en_US/lincc/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:716789/one?qu=Smart+Cities%3A+Big+Data%2C+Civic+Hackers&rt=false%7C%7C%7CTITLE%7C%7C%7CTitle).  
 
-[Anthony M. Townsend](http://www.anthonymobile.com/). 2013-10-09. "Smart Cities: Big Data, Civic Hackers, and the Quest for A New Utopia". [Recorded discussion](https://www.youtube.com/watch?v=z1evCV6_e8Q) of the book of the same title.
+[Anthony M. Townsend](http://www.anthonymobile.com/). 2013-10-09. "Smart Cities: Big Data, Civic Hackers, and the Quest for A New Utopia". [Recorded discussion](https://www.youtube.com/watch?v=z1evCV6_e8Q) of the book of the same title.  
+pp. 236-243 "Build Locally, Spread Nationally" in Chapter 8 "A Planet of Civic Laboratories" describes the beginnings of [Code for America](https://www.codeforamerica.org/) to help cities share working code, models, and data.
 
 ---
 
