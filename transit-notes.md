@@ -2,9 +2,12 @@
 
 * [Books and Articles](#books-and-articles)
 * [Advocacy and Research Groups](#advocacy-and-research-groups)
+    * [Portland, Oregon](#portland-oregon-advocacy-and-research-groups)
+    * [Non-Portland](#non-portland-advocacy-and-research-groups)
 * [Professional Organizations](#professional-organizations)
 * [Transit Agencies](#transit-agencies)
 * [Legislation](#legislation)
+* [Glossary](#glossary)
 
 ---
 
@@ -65,6 +68,18 @@ Contributions by:
 
 [Steven Higashide](https://transitcenter.org/team/steven-higashide-2/). 2019. [Better Buses, Better Cities: How to Plan, Run, and Win the Fight for Effective Transit](https://islandpress.org/books/better-buses-better-cities).  
 Available at [Multnomah County Libraries](https://multcolib.bibliocommons.com/item/show/1385609152).  
+
+[p. 10] More people choose buses when they are a useful option for them -- when it's reasonably fast, affordable, and convenient. Decades of research by academics and public agencies show that this is determined mostly by factors such as how often the bus runs, how fast it is compared with alternatives, how reliable it is, and how safe riders feel.
+
+[p. 17] Transit service that is useful to most people satisfies seven basic criteria:
+
+* The service goes where you want to go.
+* The service runs frequently enough that you don't have to think about it.
+* The service is reasonably fast.
+* The service is reliable (you don't have to worry about major delays).
+* You can conveniently walk from the service to your final destination.
+* The service is comfortable and feels safe.
+* The service is affordable.
 
 [Steven Higashide](https://transitcenter.org/team/steven-higashide-2/). 2019-11-20. "Better Buses, Better Cities". [Video discussion](https://nextcity.org/webinars/view/steven-higashide-on-better-buses-better-cities) of the book of the same title.  
 
@@ -131,12 +146,11 @@ Basics of successful transit:
     * Simplify networks.
     * Create a legible experience.
 
-Recorded presentation on 2019-10-08: [YouTube video](https://www.youtube.com/watch?v=42Fx-2v6KC0) is a 47-minute presentation in Seattle followed by 11 minutes of questions.  
-Added one more dependency for increasing levels of ridership:
+Recorded presentation on 2019-10-08: [YouTube video](https://www.youtube.com/watch?v=42Fx-2v6KC0) is a 47-minute presentation in Seattle followed by 11 minutes of questions. This presentation added one more dependency for increasing levels of ridership:
 
 * Inclusivity
 
-Calls out Portland, Oregon for having poor land use with too much single house zoning, which limits the number of people who can use transit.
+The book calls out Portland, Oregon for having poor land use with too much single house zoning, which limits the number of people who can use transit.
 
 ---
 
@@ -155,7 +169,41 @@ pp. 236-243 "Build Locally, Spread Nationally" in Chapter 8 "A Planet of Civic L
 ---
 
 [Jarrett Walker](https://humantransit.org/). 2012. [Human Transit: How Clearer Thinking About Public Transit Can Enrich Our Communities and Our Lives](https://humantransit.org/book).  
-Available at [Multnomah Public Libraries](https://multcolib.bibliocommons.com/item/show/236687152), [Washington County Libraries](https://wccls.bibliocommons.com/item/show/1774137143), and [Clackamas County Libraries](https://lincc.ent.sirsi.net/client/en_US/lincc/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:897360/ada?qu=Human+Transit&rt=false%7C%7C%7CTITLE%7C%7C%7CTitle).  
+Available at [Multnomah Public Libraries](https://multcolib.bibliocommons.com/item/show/236687152), [Washington County Libraries](https://wccls.bibliocommons.com/item/show/1774137143), and [Clackamas County Libraries](https://lincc.ent.sirsi.net/client/en_US/lincc/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:897360/ada?qu=Human+Transit&rt=false%7C%7C%7CTITLE%7C%7C%7CTitle).
+
+[p. 24] seven broad expectations that potential riders have of a transit service that they would consider riding:
+
+1. It takes me _where_ I want to go.
+2. It takes me _when_ I want to go.
+3. It is a good use of my _time_.
+4. It is a good use of my _money_.
+5. It _respects_ me in the level of safety, comfort, and amenity it provides.
+6. I can _trust_ it.
+7. It give me _freedom_ to change my plans.
+
+[p. 26-33] specific things that transit agencies need to provide and measure to meet the seven demands (see Figure 2-1 on p. 27 of the book):
+
+* Stops/Stations: Does it stop near me and my destination?
+* Connectivity: Can I get there from here?
+* Frequency: What is the maximum waiting time?
+* Span: Is it running when I need it?
+* Speed or Delay: How much time will we lose along the way?
+* Fare: What will it cost?
+* Civility: Safety, security, amenity, courtesy, cleanliness, etc.
+* Reliability: Doe it run predictably day after day?
+* Simplicity: Is the network easy to remember?
+* Presentation: Is it easy to learn what I need to know?
+
+[p. 34] 7 phases of a trip:
+
+1. _Understanding_ the service, frequency, and fare.
+2. _Accessing (at the origin)_ where you will board the service.
+3. _Waiting_ both in terms of time and the quality of the waiting environment.
+4. _Paying_ and the form of fare collection.
+5. _Riding_ in terms of length of time and quality of time.
+6. _Connecting_, which involves repeating steps 1-5.
+7. _Accessing (at the destination)_ from the transit stop to your actual destination.
+
 Recorded presentation on 2012-07-12 on [YouTube video](https://www.youtube.com/watch?v=pg2kE5m4exk) is a 57-minute presentation at the University of Oregon followed by 19 minutes of questions.  
 
 * The essential task of transit: "Abundant access without personal vehicles, over distances too far to walk."  
@@ -177,11 +225,37 @@ Delays have decreased by as much as 76 percent after PBOT added a bus and bike-o
 
 ## Advocacy and Research Groups
 
+### Portland, Oregon: Advocacy and Research Groups
+
 [Bus Riders Unite](http://www.opalpdx.org/bus-riders-unite/)!  
 A membership organization that represents transit-dependent people in the Portland Metropolitan region.  
 Twitter: [@OPALEJOR](https://twitter.com/OPALEJOR)
 
 ---
+
+[Cascade Policy Institute](https://cascadepolicy.org/category/transportation/), Portland, Oregon  
+Cascade's mission is to develop and promote public policy alternatives that foster individual liberty, personal responsibility, and economic opportunity. Their blog argues strongly against public transit projects:
+
+* [T2020 is the transportation measure that Metro wants -- not Portland residents](https://cascadepolicy.org/transportation/t2020-is-the-transportation-measure-that-metro-wants-not-portland-residents/)
+* [No More Failed Rail](https://cascadepolicy.org/projects/no-more-failed-rail/)
+
+while favoring projects to support individuals driving cars.
+
+---
+
+[Getting There Together Coalition](http://www.gettingtheretogether.org/), Portland, Oregon  
+The Getting There Together Coalition was formed in 2017 in response to growing concerns that the Portland metropolitan region wasn’t adequately planning to build the comprehensive infrastructure and transportation system that will alleviate growing freeway congestion, empower working Oregonians to get to jobs, and ensure all the region’s residents prosper from an equitable, sustainable, and climate-smart investment in our future.  
+Twitter: [@ThereTogether](https://twitter.com/ThereTogether)
+
+---
+
+[The Street Trust](https://www.thestreettrust.org/), Portland, Oregon  
+The Street Trust works in classrooms, on the streets, in city hall and the state legislature encouraging and advocating for safe and convenient walking, biking, and transit options in Portland, Oregon.  
+Twitter: [@thestreettrust](https://twitter.com/thestreettrust)
+
+---
+
+### Non-Portland Advocacy and Research Groups
 
 [Center for Transportation Excellence](https://cfte.org/) (CFTE).  
 The Center for Transportation Excellence (CFTE) is a clearinghouse for information in support of quality transportation choices. CFTE is committed to two main objectives: (1) defending the merits of transit and (2) equipping local leaders with the information they need to be successful with their public transportation initiatives and ballot measures.
@@ -189,12 +263,6 @@ The Center for Transportation Excellence (CFTE) is a clearinghouse for informati
 ---
 
 [CityLab Transportation](https://www.citylab.com/transportation/)
-
----
-
-[Getting There Together Coalition](http://www.gettingtheretogether.org/)  
-The Getting There Together Coalition was formed in 2017 in response to growing concerns that the Portland metropolitan region wasn’t adequately planning to build the comprehensive infrastructure and transportation system that will alleviate growing freeway congestion, empower working Oregonians to get to jobs, and ensure all the region’s residents prosper from an equitable, sustainable, and climate-smart investment in our future.  
-Twitter: [@ThereTogether](https://twitter.com/ThereTogether)
 
 ---
 
@@ -214,14 +282,10 @@ San Francisco County Transit Authority ([SFCTA](https://www.sfcta.org/)). [Conge
 
 ---
 
-[The Street Trust](https://www.thestreettrust.org/)  
-The Street Trust works in classrooms, on the streets, in city hall and the state legislature encouraging and advocating for safe and convenient walking, biking, and transit options in Portland, Oregon.  
-Twitter: [@thestreettrust](https://twitter.com/thestreettrust)
-
----
-
 [Transit Alliance Miami](https://transitalliance.miami/)  
 Transit Alliance is a non-profit organization advocating for walkable streets, bikeable neighborhoods and better public transit. Our campaigns combine data-driven research, community engagement and policy advocacy to get Miami moving safer, faster and happier.
+
+Higashide ([2019](https://transitcenter.org/team/steven-higashide-2/)) [p. 20-22] speaks highly of such a small group of volunteers affecting significant change through data visualization and good storytelling.
 
 ---
 
@@ -275,6 +339,8 @@ Twitter: [@STEPatPSU](https://twitter.com/STEPatPSU)
 
 [San Francisco Municipal Transit Authority](https://www.sfmta.com/) (SFMTA), San Francisco, California, United States.
 
+---
+
 [TriMet](https://trimet.org/), Portland, Oregon, United States.
 
 ---
@@ -292,4 +358,9 @@ Keep Oregon Moving Act. [HB 2017](https://www.oregon.gov/ODOT/Pages/HB2017.aspx)
 
 * TriMet. Oct. 2018. Tri-County Public Transportation Improvement Plan. 117-page [PDF](https://trimet.org/meetings/hb2017/pdfs/public-transportation-improvement-plan.pdf).
 
+
 ---
+
+## Glossary
+
+[headway](https://www.transitwiki.org/TransitWiki/index.php/Headway) is the amount of time between transit vehicle arrivals at a stop.
