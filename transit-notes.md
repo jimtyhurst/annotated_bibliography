@@ -173,29 +173,32 @@ The book calls out Portland, Oregon for having poor land use with too much singl
 
 [Anthony M. Townsend](http://www.anthonymobile.com/). 2020. [Ghost Road: Beyond the Driverless Car](https://wwnorton.com/books/9781324001522).
 
-[Anthony M. Townsend](http://www.anthonymobile.com/). 2013. [Smart Cities: Big Data, Civic Hackers, and the Quest for A New Utopia]().  
+[Anthony M. Townsend](http://www.anthonymobile.com/).<a name="townsend-2013-smart-cities"></a> 2013. [Smart Cities: Big Data, Civic Hackers, and the Quest for A New Utopia]().  
 Available at [Multnomah Public Libraries](https://multcolib.bibliocommons.com/item/show/1111905152), [Washington County Libraries](https://wccls.bibliocommons.com/item/show/2008084143), and [Clackamas County Libraries](https://lincc.ent.sirsi.net/client/en_US/lincc/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:716789/one?qu=Smart+Cities%3A+Big+Data%2C+Civic+Hackers&rt=false%7C%7C%7CTITLE%7C%7C%7CTitle).  
 
-[Anthony M. Townsend](http://www.anthonymobile.com/). 2013-10-09. "Smart Cities: Big Data, Civic Hackers, and the Quest for A New Utopia". [Recorded discussion](https://www.youtube.com/watch?v=z1evCV6_e8Q) of the book of the same title.  
 pp. 236-243 "Build Locally, Spread Nationally" in Chapter 8 "A Planet of Civic Laboratories" describes the beginnings of [Code for America](https://www.codeforamerica.org/) to help cities share working code, models, and data.
+
+[Anthony M. Townsend](http://www.anthonymobile.com/). 2013-10-09. "Smart Cities: Big Data, Civic Hackers, and the Quest for A New Utopia". [Recorded discussion](https://www.youtube.com/watch?v=z1evCV6_e8Q) of the [book](#townsend-2013-smart-cities) of the same title.
 
 ---
 
 [Nick Van Mead](https://www.theguardian.com/profile/nickmead). "Riding the Bus in Dar Es Salaam"<a name="van-mead-2019-bus"></a> in Henry Grabar ([2019](#grabar-2019)).  
-Despite the title, this chapter reviews bus rapid transit ([BRT](#brt-def)) in cities across the world. Five features are needed to receive a [gold ranking](https://www.itdp.org/publication/the-brt-standard/) from the non-profit Institute for Transportation and Development Policy ([ITDP](https://www.itdp.org/)):
+Despite the title, this chapter reviews bus rapid transit ([BRT](#brt-def)) in cities across the world.
 
-* bus-only lanes separated from other traffic
-* bus lanes in the middle of the road, rather than on the edge
-* ticket payment and control at stations, rather than on board
-* general traffic kept clear of intersections
-* level boarding between the bus and station platform
+[p. 67] Five features are needed to receive a [gold ranking](https://www.itdp.org/publication/the-brt-standard/) from the non-profit Institute for Transportation and Development Policy ([ITDP](https://www.itdp.org/)):
+
+1. bus-only lanes separated from other traffic
+2. bus lanes in the middle of the road, rather than on the edge
+3. ticket payment and control at stations, rather than on board
+4. general traffic kept clear of intersections
+5. level boarding between the bus and station platform
 
 ---
 
 [Jarrett Walker](https://humantransit.org/). 2012. [Human Transit: How Clearer Thinking About Public Transit Can Enrich Our Communities and Our Lives](https://humantransit.org/book).  
 Available at [Multnomah Public Libraries](https://multcolib.bibliocommons.com/item/show/236687152), [Washington County Libraries](https://wccls.bibliocommons.com/item/show/1774137143), and [Clackamas County Libraries](https://lincc.ent.sirsi.net/client/en_US/lincc/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:897360/ada?qu=Human+Transit&rt=false%7C%7C%7CTITLE%7C%7C%7CTitle).
 
-[p. 24] seven broad expectations that potential riders have of a transit service that they would consider riding:
+[p. 24] Seven broad expectations that potential riders have of a transit service that they would consider riding:
 
 1. It takes me _where_ I want to go.
 2. It takes me _when_ I want to go.
