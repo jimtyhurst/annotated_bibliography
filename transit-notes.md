@@ -287,7 +287,7 @@ The Center for Transportation Excellence (CFTE) is a clearinghouse for informati
 
 ---
 
-Institute for Transportation and Development Policy ([ITDP](https://www.itdp.org/).  
+Institute for Transportation and Development Policy ([ITDP](https://www.itdp.org/)).  
 Specified "[The BRT Standard](https://www.itdp.org/publication/the-brt-standard/)" as a scoring system to recognize high quality bus rapid transit (BRT) systems around the world.
 
 For more information about BRT, see also the [Federal Transit Administration](#federal-transit-administration)'s [BRT](https://www.transit.dot.gov/research-innovation/bus-rapid-transit) page and their [Bus Rapid Transit Resources](https://www.transit.dot.gov/research-innovation/bus-rapid-transit-resources).
