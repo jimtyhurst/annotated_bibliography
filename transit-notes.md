@@ -3,7 +3,7 @@
 Copyright &copy; 2019 [Jim Tyhurst, Ph.D.](https://www.jimtyhurst.com)  
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>. <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a>
 
-I use these personal notes to help me remember articles that I have read. I also hope that it will be a helpful summary and introduction for others. However, it is _not_ intended to be an exhaustive annotated bibliography nor a complete academic review of the current status of research. These are just my personal notes of material that I have already read or references to material that I hope to read soon.
+I use these personal notes to help me remember articles that I have read. I also hope that they might be a helpful summary and introduction for others. However, these notes are _not_ intended to be an exhaustive annotated bibliography nor a complete academic review of the current status of research. These are just my personal notes of material that I have already read or references to material that I hope to read soon.
 
 ---
 
@@ -26,7 +26,7 @@ Sorted alphabetically by author's last name, then in descending chronological or
 
 [Simon J. Berrebi, Ph.D.](http://berrebi.net/)
 
-* "Identifying the Underlying Causes of Transit Ridership". [30 minute webinar summarizing the project](https://www.enotrans.org/event/webinar-analyzing-bus-ridership-decline/)
+* "Identifying the Underlying Causes of Transit Ridership". [30 minute webinar summarizing the project](https://www.enotrans.org/event/webinar-analyzing-bus-ridership-decline/).
 * Invented a [dynamic dispatching algorithm](http://www.berrebi.net/research) that replaces schedules and helps minimize passenger waiting time on frequent transit routes.
 
 ---
@@ -40,13 +40,13 @@ Explains how individual smart phone apps that suggest alternate routes to avoid 
 Discusses "the risk of maps that de-center the larger context in favor of the individual. ... When a group of drivers veers off a jammed highway on an app's recommendation, it can thicken congestion for surrounding commuters, even if a few drivers succeed in shaving a few minutes off their individual journeys."
 
 [Laura Bliss](https://www.laurablisswrites.com/). 2018-11-28. "[A U.S. Transit Atlas That Ranks the Best (and Worst) Cities for Bus and Rail](https://www.citylab.com/transportation/2018/11/best-transit-american-cities-bus-rail-subway-service/576739/)".  
-This article is a summary and review of [Christof Spieler](https://www.trainsbusespeople.org/christof-spieler)'s book, "[Trains, Buses, People: An Opinionated Atlas of US Transit](https://islandpress.org/books/trains-buses-people)".  
+This article is a summary and review of Christof Spieler's book, "[Trains, Buses, People: An Opinionated Atlas of US Transit](#spieler-2018-trains-buses)".  
 "Spieler's atlas illustrates how high-performing public transportation boils down to a handful of key tenets: the density and walkability of an area, and the connectivity, frequency, and reliability of the service. Finding the proper capacity to meet demand matters, too, as do speed and legible tools for navigating the system, he writes."
 
 ---
 
 [Laramie Bowron](https://blog.goswift.ly/@laramie_44230). 2019-09-12. "[The Case for Revising Headways Policies](https://blog.goswift.ly/the-case-for-revising-headways-policies-7ddfb5ca1898)".  
-"There's currently no standard in how most transit agencies measure the reliability of their [headways](https://www.transitwiki.org/TransitWiki/index.php/Headway), and it's hurting the rider experience."
+"There's currently no standard in how most transit agencies measure the reliability of their [headways](#headway-def), and it's hurting the rider experience."
 
 ---
 
@@ -73,13 +73,13 @@ Available at [Multnomah County Libraries](https://multcolib.bibliocommons.com/it
 Chapters that I found most interesting:  
 
 * [Darran Anderson](https://www.txdot.gov/inside-txdot/administration/strategy-innovation.html). "The Getaway".
-* [Laura Bliss](https://www.laurablisswrites.com/). "[Shortcuts](#bliss-2019-shortcuts)"
+* [Laura Bliss](https://www.laurablisswrites.com/). "[Shortcuts](#bliss-2019-shortcuts)".
 * [Alison Griswold](https://qz.com/author/agriswoldqz/). "Fair Share".
 * [Nick Van Mead](https://www.theguardian.com/profile/nickmead). "[Riding the Bus in Dar Es Salaam](#van-mead-2019-bus)".
 
 ---
 
-[Steven Higashide](https://transitcenter.org/team/steven-higashide-2/). 2019. [Better Buses, Better Cities: How to Plan, Run, and Win the Fight for Effective Transit](https://islandpress.org/books/better-buses-better-cities).  
+[Steven Higashide](https://transitcenter.org/team/steven-higashide-2/). 2019<a name="higashide-2019-better-buses"></a>. [Better Buses, Better Cities: How to Plan, Run, and Win the Fight for Effective Transit](https://islandpress.org/books/better-buses-better-cities).  
 Available at [Multnomah County Libraries](https://multcolib.bibliocommons.com/item/show/1385609152).  
 
 [p. 10] More people choose buses when they are a useful option for them -- when it's reasonably fast, affordable, and convenient. Decades of research by academics and public agencies show that this is determined mostly by factors such as how often the bus runs, how fast it is compared with alternatives, how reliable it is, and how safe riders feel.
@@ -94,9 +94,9 @@ Available at [Multnomah County Libraries](https://multcolib.bibliocommons.com/it
 * The service is comfortable and feels safe.
 * The service is affordable.
 
-[Steven Higashide](https://transitcenter.org/team/steven-higashide-2/). 2019-11-20. "Better Buses, Better Cities". [Video discussion](https://nextcity.org/webinars/view/steven-higashide-on-better-buses-better-cities) of the book of the same title.  
+[Steven Higashide](https://transitcenter.org/team/steven-higashide-2/). 2019-11-20. "Better Buses, Better Cities". [Video discussion](https://nextcity.org/webinars/view/steven-higashide-on-better-buses-better-cities) of the [book](#higashide-2019-better-buses) of the same title.  
 
-[Steven Higashide](https://transitcenter.org/team/steven-higashide-2/). 2019-11-04. "[How to Win the Fight for Fair and Equitable Transit: Start by dismantling the systemic barriers that disproportionately penalize low-income bus riders](https://nextcity.org/features/view/how-to-win-the-fight-for-fair-and-equitable-transit)". This is an excerpt from the book, "[Better Buses, Better Cities: How to Plan, Run, and Win the Fight for Effective Transit](https://islandpress.org/books/better-buses-better-cities)".
+[Steven Higashide](https://transitcenter.org/team/steven-higashide-2/). 2019-11-04. "[How to Win the Fight for Fair and Equitable Transit: Start by dismantling the systemic barriers that disproportionately penalize low-income bus riders](https://nextcity.org/features/view/how-to-win-the-fight-for-fair-and-equitable-transit)". This is an excerpt from his 2019 [book](#higashide-2019-better-buses)".
 
 ---
 
@@ -120,7 +120,7 @@ Discusses terms like:
 
 ---
 
-[Christof Spieler](https://www.trainsbusespeople.org/christof-spieler). 2018. [Trains, Buses, People: An Opinionated Atlas of US Transit](https://islandpress.org/books/trains-buses-people). Available at [Multnomah Public Libraries](https://multcolib.bibliocommons.com/item/show/274953152), [Washington County Libraries](https://wccls.bibliocommons.com/item/show/3524075143), and [Clackamas County Libraries](https://lincc.ent.sirsi.net/client/en_US/lincc/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:974020/one?qu=Trains%2C+Buses%2C+People&rt=false%7C%7C%7CTITLE%7C%7C%7CTitle).  
+[Christof Spieler](https://www.trainsbusespeople.org/christof-spieler). 2018<a name="spieler-2018-trains-buses"></a>. [Trains, Buses, People: An Opinionated Atlas of US Transit](https://islandpress.org/books/trains-buses-people). Available at [Multnomah Public Libraries](https://multcolib.bibliocommons.com/item/show/274953152), [Washington County Libraries](https://wccls.bibliocommons.com/item/show/3524075143), and [Clackamas County Libraries](https://lincc.ent.sirsi.net/client/en_US/lincc/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:974020/one?qu=Trains%2C+Buses%2C+People&rt=false%7C%7C%7CTITLE%7C%7C%7CTitle).  
 Includes maps of frequency of service against population density as a critical factor that affects ridership levels.  
 Basics of successful transit:
 
@@ -182,7 +182,7 @@ pp. 236-243 "Build Locally, Spread Nationally" in Chapter 8 "A Planet of Civic L
 ---
 
 [Nick Van Mead](https://www.theguardian.com/profile/nickmead). "Riding the Bus in Dar Es Salaam"<a name="van-mead-2019-bus"></a> in Henry Grabar ([2019](#grabar-2019)).  
-Despite the title, this chapter reviews bus rapid transit (BRT) in cities across the world. Five features are needed to receive a [gold ranking](https://www.itdp.org/publication/the-brt-standard/) from the non-profit Institute for Transportation and Development Policy ([ITDP](https://www.itdp.org/)):
+Despite the title, this chapter reviews bus rapid transit ([BRT](#brt-def)) in cities across the world. Five features are needed to receive a [gold ranking](https://www.itdp.org/publication/the-brt-standard/) from the non-profit Institute for Transportation and Development Policy ([ITDP](https://www.itdp.org/)):
 
 * bus-only lanes separated from other traffic
 * bus lanes in the middle of the road, rather than on the edge
@@ -251,7 +251,7 @@ Delays have decreased by as much as 76 percent after PBOT added a bus and bike-o
 
 ### Portland, Oregon: Advocacy and Research Groups
 
-[Bus Riders Unite](http://www.opalpdx.org/bus-riders-unite/)!  
+[Bus Riders Unite](http://www.opalpdx.org/bus-riders-unite/)! Portland, Oregon  
 A membership organization that represents transit-dependent people in the Portland Metropolitan region.  
 Twitter: [@OPALEJOR](https://twitter.com/OPALEJOR)
 
@@ -268,25 +268,28 @@ while favoring projects to support individuals driving cars.
 ---
 
 [Getting There Together Coalition](http://www.gettingtheretogether.org/), Portland, Oregon  
-The Getting There Together Coalition was formed in 2017 in response to growing concerns that the Portland metropolitan region wasn’t adequately planning to build the comprehensive infrastructure and transportation system that will alleviate growing freeway congestion, empower working Oregonians to get to jobs, and ensure all the region’s residents prosper from an equitable, sustainable, and climate-smart investment in our future.  
-Twitter: [@ThereTogether](https://twitter.com/ThereTogether)
+Twitter: [@ThereTogether](https://twitter.com/ThereTogether)  
+The Getting There Together Coalition was formed in 2017 in response to growing concerns that the Portland metropolitan region was not adequately planning to build the comprehensive infrastructure and transportation system that will alleviate growing freeway congestion, empower working Oregonians to get to jobs, and ensure all the region’s residents prosper from an equitable, sustainable, and climate-smart investment in our future.  
 
 ---
 
 [The Street Trust](https://www.thestreettrust.org/), Portland, Oregon  
-The Street Trust works in classrooms, on the streets, in city hall and the state legislature encouraging and advocating for safe and convenient walking, biking, and transit options in Portland, Oregon.  
-Twitter: [@thestreettrust](https://twitter.com/thestreettrust)
+Twitter: [@thestreettrust](https://twitter.com/thestreettrust)  
+The Street Trust works in classrooms, on the streets, in city hall and the state legislature encouraging and advocating for safe and convenient walking, biking, and transit options in Portland, Oregon.
 
 ---
 
 ### Non-Portland Advocacy and Research Groups
 
 [Center for Transportation Excellence](https://cfte.org/) (CFTE).  
+Twitter: [@CFTEnews](https://twitter.com/CFTEnews)  
 The Center for Transportation Excellence (CFTE) is a clearinghouse for information in support of quality transportation choices. CFTE is committed to two main objectives: (1) defending the merits of transit and (2) equipping local leaders with the information they need to be successful with their public transportation initiatives and ballot measures.
 
 ---
 
-[CityLab Transportation](https://www.citylab.com/transportation/)
+[CityLab Transportation](https://www.citylab.com/transportation/)  
+Twitter: [@CityLab](https://twitter.com/CityLab)  
+"CityLab is committed to telling the story of the world's cities: how they work, the challenges they face, and the solutions they need."
 
 ---
 
@@ -297,13 +300,24 @@ The Center for Transportation Excellence (CFTE) is a clearinghouse for informati
 ---
 
 Institute for Transportation and Development Policy ([ITDP](https://www.itdp.org/)).  
-Specified "[The BRT Standard](https://www.itdp.org/publication/the-brt-standard/)" as a scoring system to recognize high quality bus rapid transit (BRT) systems around the world.
+Twitter: [@ITDPUS](https://twitter.com/ITDPUS) and [@ITDP_HQ](https://twitter.com/ITDP_HQ)
+
+ITDP specified "[The BRT Standard](https://www.itdp.org/publication/the-brt-standard/)" as a scoring system to recognize high quality bus rapid transit (BRT) systems around the world.
 
 For more information about BRT, see also the [Federal Transit Administration](#federal-transit-administration)'s [BRT](https://www.transit.dot.gov/research-innovation/bus-rapid-transit) page and their [Bus Rapid Transit Resources](https://www.transit.dot.gov/research-innovation/bus-rapid-transit-resources).
 
 ---
 
+[National Alliance of Public Transportation Advocates](https://www.publictransportation.org/)  
+Twitter: [@PublicTransportation](https://twitter.com/APTA_Transit)  
+A national organization representing grassroots transit coalitions, grassroots transit rider organizations and advocates that support increasing investment in public transportation.  
+
+It is not clear to me how [NAPTA](https://www.publictransportation.org/) differs from [APTA](https://www.apta.com/), since the [Member Directory](https://www.apta.com/research-technical-resources/public-transportation-links/) link on the [NAPTA](https://www.publictransportation.org/napta/) site leads to a page on the [APTA](https://www.apta.com/research-technical-resources/public-transportation-links/) site.
+
+---
+
 [Next City](https://nextcity.org/topic/infrastructure).  
+Twitter: [@NextCityOrg](https://twitter.com/NextCityOrg)  
 Next City is a nonprofit organization with a mission to inspire social, economic and environmental change in cities through journalism and events around the world.
 
 ---
@@ -327,22 +341,24 @@ Higashide ([2019](https://transitcenter.org/team/steven-higashide-2/)) [p. 20-22
 ---
 
 [TransitCenter](https://transitcenter.org/)  
+Twitter: [@TransitCenter](https://twitter.com/TransitCenter)  
 TransitCenter works to improve transit in order to make cities more just and environmentally sustainable.
 
 ---
 
 [Transit Drives Indy (TDI) Coalition](https://www.transitdrivesindy.com/)  
-The Transit Drives Indy (TDI) Coalition, comprised of organizations across Marion County, seeks to educate voters in Marion County on the benefits of public transportation and advocate in support of the Marion County Transit referendum.
+The Transit Drives Indy (TDI) Coalition, comprised of organizations across Marion County, seeks to educate voters in Marion County, Indiana on the benefits of public transportation and advocate in support of the Marion County Transit referendum.
 
 ---
 
 [Transit Wiki](https://www.transitwiki.org/)  
-"[headway](https://www.transitwiki.org/TransitWiki/index.php/Headway)" is the amount of time between transit vehicle arrivals at a stop. Headways have a significant impact on how desirable a transit service is because they effect:
+Twitter: [@TransitWiki](https://twitter.com/TransitWiki)  
+"The goal of the site is to facilitate information transfer among transit agencies to accelerate the successful implementation of cost-effective strategies to improve transit service."
 
-* The time penalty for missing a train or bus
-* The amount of planning and preparation needed to use transit and stay on schedule
-* The amount of time lost when transit schedules do not directly conform to work, school, or activity schedules
-* Average wait times
+I thought a couple of their visualizations are especially interesting:
+
+* [Transit Ridership](https://www.transitwiki.org/TransitWiki/index.php/TransitWiki:Ridership_Visualization), especially the "Year Over Year Trend by Month" for Los Angeles, Long Beach, Anaheim Urbanized Area.
+* [Bus Speeds and Performance in California](https://www.transitwiki.org/TransitWiki/index.php/TransitWiki:Speed_Visualization)
 
 ---
 
@@ -360,25 +376,27 @@ APTA is the only association in North America that represents all modes of publi
 ---
 
 [Oregon ITE](https://www.oregonite.org/).  
-Transportation professionals in Oregon.  
-Twitter: [@ITEOregon](https://twitter.com/ITEOregon)
+Twitter: [@ITEOregon](https://twitter.com/ITEOregon)  
+Transportation professionals in Oregon.
 
 ---
 
 [Students in Transportation Engineering & Planning](https://itestep.weebly.com/) (STEP).  
-[Portland State University](https://www.pdx.edu/)'s [ITE](https://www.ite.org/) student chapter.  
-Twitter: [@STEPatPSU](https://twitter.com/STEPatPSU)
+Twitter: [@STEPatPSU](https://twitter.com/STEPatPSU)  
+[Portland State University](https://www.pdx.edu/)'s [ITE](https://www.ite.org/) student chapter.
 
 ---
 
 
 ## Transit Agencies
 
-[San Francisco Municipal Transit Authority](https://www.sfmta.com/) (SFMTA), San Francisco, California, United States.
+[San Francisco Municipal Transit Authority](https://www.sfmta.com/) (SFMTA), San Francisco, California, United States.  
+Twitter: [@sfmta_muni](https://twitter.com/sfmta_muni)
 
 ---
 
-[TriMet](https://trimet.org/), Portland, Oregon, United States.
+[TriMet](https://trimet.org/), Portland, Oregon, United States.  
+Twitter: [@trimet](https://twitter.com/trimet)
 
 ---
 
@@ -400,6 +418,11 @@ Keep Oregon Moving Act. [HB 2017](https://www.oregon.gov/ODOT/Pages/HB2017.aspx)
 
 ## Glossary
 
-[BRT](https://www.itdp.org/library/standards-and-guides/the-bus-rapid-transit-standard/what-is-brt/) : Bus Rapid Transit.
+[BRT](https://www.itdp.org/library/standards-and-guides/the-bus-rapid-transit-standard/what-is-brt/)<a name="brt-def"></a> : Bus Rapid Transit.
 
-[headway](https://www.transitwiki.org/TransitWiki/index.php/Headway) is the amount of time between transit vehicle arrivals at a stop.
+"[headway](https://www.transitwiki.org/TransitWiki/index.php/Headway)"<a name="headway-def"></a> is the amount of time between transit vehicle arrivals at a stop. Headways have a significant impact on how desirable a transit service is because they effect:
+
+* The time penalty for missing a train or bus
+* The amount of planning and preparation needed to use transit and stay on schedule
+* The amount of time lost when transit schedules do not directly conform to work, school, or activity schedules
+* Average wait times
