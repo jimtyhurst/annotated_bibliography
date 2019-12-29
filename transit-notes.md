@@ -176,7 +176,7 @@ The book calls out Portland, Oregon for having poor land use with too much singl
 [Anthony M. Townsend](http://www.anthonymobile.com/).<a name="townsend-2013-smart-cities"></a> 2013. [Smart Cities: Big Data, Civic Hackers, and the Quest for A New Utopia]().  
 Available at [Multnomah Public Libraries](https://multcolib.bibliocommons.com/item/show/1111905152), [Washington County Libraries](https://wccls.bibliocommons.com/item/show/2008084143), and [Clackamas County Libraries](https://lincc.ent.sirsi.net/client/en_US/lincc/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:716789/one?qu=Smart+Cities%3A+Big+Data%2C+Civic+Hackers&rt=false%7C%7C%7CTITLE%7C%7C%7CTitle).  
 
-pp. 236-243 "Build Locally, Spread Nationally" in Chapter 8 "A Planet of Civic Laboratories" describes the beginnings of [Code for America](https://www.codeforamerica.org/) to help cities share working code, models, and data.
+[pp. 236-243] "Build Locally, Spread Nationally" section in Chapter 8 "A Planet of Civic Laboratories" describes the beginnings of [Code for America](https://www.codeforamerica.org/) to help cities share working code, models, and data.
 
 [Anthony M. Townsend](http://www.anthonymobile.com/). 2013-10-09. "Smart Cities: Big Data, Civic Hackers, and the Quest for A New Utopia". [Recorded discussion](https://www.youtube.com/watch?v=z1evCV6_e8Q) of the [book](#townsend-2013-smart-cities) of the same title.
 
@@ -423,7 +423,7 @@ Keep Oregon Moving Act. [HB 2017](https://www.oregon.gov/ODOT/Pages/HB2017.aspx)
 
 [BRT](https://www.itdp.org/library/standards-and-guides/the-bus-rapid-transit-standard/what-is-brt/)<a name="brt-def"></a> : Bus Rapid Transit.
 
-"[headway](https://www.transitwiki.org/TransitWiki/index.php/Headway)"<a name="headway-def"></a> is the amount of time between transit vehicle arrivals at a stop. Headways have a significant impact on how desirable a transit service is because they effect:
+"[headway](https://www.transitwiki.org/TransitWiki/index.php/Headway)"<a name="headway-def"></a> is the amount of time between transit vehicle arrivals at a stop. Headways have a significant impact on how desirable a transit service is, because they effect:
 
 * The time penalty for missing a train or bus
 * The amount of planning and preparation needed to use transit and stay on schedule
