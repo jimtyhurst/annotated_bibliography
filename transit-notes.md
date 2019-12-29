@@ -1,6 +1,9 @@
 # Transit Resources
 
-I use these personal notes to help me remember articles that I have read. I also hope that it will be a helpful summary and introduction for others. However, it is _not_ intended to be an exhaustive annotated bibliography nor a complete academic review of the current status of research. These are just my personal notes of material that I have already read or references to material that I hope to read.
+Copyright &copy; 2019 [Jim Tyhurst, Ph.D.](https://www.jimtyhurst.com)  
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
+
+I use these personal notes to help me remember articles that I have read. I also hope that it will be a helpful summary and introduction for others. However, it is _not_ intended to be an exhaustive annotated bibliography nor a complete academic review of the current status of research. These are just my personal notes of material that I have already read or references to material that I hope to read soon.
 
 
 * [Books and Articles](#books-and-articles)
@@ -393,5 +396,7 @@ Keep Oregon Moving Act. [HB 2017](https://www.oregon.gov/ODOT/Pages/HB2017.aspx)
 ---
 
 ## Glossary
+
+[BRT](https://www.itdp.org/library/standards-and-guides/the-bus-rapid-transit-standard/what-is-brt/) : Bus Rapid Transit.
 
 [headway](https://www.transitwiki.org/TransitWiki/index.php/Headway) is the amount of time between transit vehicle arrivals at a stop.
