@@ -283,6 +283,8 @@ The Center for Transportation Excellence (CFTE) is a clearinghouse for informati
 
 [Federal Transit Administration](https://www.transit.dot.gov/)<a name="federal-transit-administration"></a>
 
+* [Bus Rapid Transit](https://www.transit.dot.gov/research-innovation/bus-rapid-transit)
+
 ---
 
 Institute for Transportation and Development Policy ([ITDP](https://www.itdp.org/).  
