@@ -22,7 +22,13 @@ Sorted alphabetically by author's last name, then in descending chronological or
 
 ---
 
+[Laura Bliss](https://www.laurablisswrites.com/). 2019<a name="bliss-2019-shortcuts"></a>. "Shortcuts" in Henry Grabar ([2019](#grabar-2019)).  
+Explains how individual smart phone apps that suggest alternate routes to avoid traffic congestion are business apps that do not provide a solution for urban congestion as a whole.
+
 [Laura Bliss](https://www.laurablisswrites.com/). 2019-11-12. "[Navigation Apps Changed the Politics of Traffic](https://www.citylab.com/transportation/2019/11/future-of-transportation-traffic-navigation-apps-google-maps/601684/)".
+
+[Laura Bliss](https://www.laurablisswrites.com/). 2019-08-09. "[The Map That Made Los Angeles Make Sense](https://www.citylab.com/life/2019/08/thomas-guide-los-angeles-history-street-map-google-waze-app/591721/)".  
+Discusses "the risk of maps that de-center the larger context in favor of the individual. ... When a group of drivers veers off a jammed highway on an app's recommendation, it can thicken congestion for surrounding commuters, even if a few drivers succeed in shaving a few minutes off their individual journeys."
 
 [Laura Bliss](https://www.laurablisswrites.com/). 2018-11-28. "[A U.S. Transit Atlas That Ranks the Best (and Worst) Cities for Bus and Rail](https://www.citylab.com/transportation/2018/11/best-transit-american-cities-bus-rail-subway-service/576739/)".  
 This article is a summary and review of [Christof Spieler](https://www.trainsbusespeople.org/christof-spieler)'s book, "[Trains, Buses, People: An Opinionated Atlas of US Transit](https://islandpress.org/books/trains-buses-people)".  
@@ -48,21 +54,19 @@ For example, Hong Kong: 79% of residents take public transport to work. Despite 
 
 ---
 
-Graham Carey. 2006. "Bus Rapid Transit—The Eugene-Springfield,
+Graham Carey. 2006. "Bus Rapid Transit — The Eugene-Springfield,
 OR, USA, Experience". [PDF](https://pdfs.semanticscholar.org/890e/63aa773f8ec9cb50f1bd525fd47e0881ebab.pdf).
 
 ---
 
-[Henry Grabar](http://www.henrygrabar.com/) (ed). 2019. [The Future of Transportation](https://www.som.com/ideas/publications/som_thinkers_the_future_of_transportation).  
-On order at [Multnomah County Libraries](https://multcolib.bibliocommons.com/item/show/1405438152).  
-Contributions by:  
+[Henry Grabar](http://www.henrygrabar.com/) (ed)<a name="grabar-2019"></a>. 2019. [The Future of Transportation](https://www.som.com/ideas/publications/som_thinkers_the_future_of_transportation). SOM Thinkers.  
+Available at [Multnomah County Libraries](https://multcolib.bibliocommons.com/item/show/1405438152).  
+Chapters that I found most interesting:  
 
-* [Atossa Araxia Abrahamian](http://atossaaraxia.com/)
-* [Darran Anderson](https://www.txdot.gov/inside-txdot/administration/strategy-innovation.html)
-* [Laura Bliss](https://www.laurablisswrites.com/)
-* [Alison Griswold](https://qz.com/author/agriswoldqz/)
-* [Nick Van Meade](https://www.theguardian.com/profile/nickmead)
-* [Christopher Schaberg](http://cas.loyno.edu/english/bios/christopher-schaberg).
+* [Darran Anderson](https://www.txdot.gov/inside-txdot/administration/strategy-innovation.html). "The Getaway".
+* [Laura Bliss](https://www.laurablisswrites.com/). "[Shortcuts](#bliss-2019-shortcuts)"
+* [Alison Griswold](https://qz.com/author/agriswoldqz/). "Fair Share".
+* [Nick Van Mead](https://www.theguardian.com/profile/nickmead). "[Riding the Bus in Dar Es Salaam](#van-mead-2019-bus)".
 
 ---
 
@@ -168,6 +172,17 @@ pp. 236-243 "Build Locally, Spread Nationally" in Chapter 8 "A Planet of Civic L
 
 ---
 
+[Nick Van Mead](https://www.theguardian.com/profile/nickmead). "Riding the Bus in Dar Es Salaam"<a name="van-mead-2019-bus"></a> in Henry Grabar ([2019](#grabar-2019)).  
+Despite the title, this chapter reviews bus rapid transit (BRT) in cities across the world. Five features are needed to receive a [gold ranking](https://www.itdp.org/publication/the-brt-standard/) from the non-profit Institute for Transportation and Development Policy ([ITDP](https://www.itdp.org/)):
+
+* bus-only lanes separated from other traffic
+* bus lanes in the middle of the road, rather than on the edge
+* ticket payment and control at stations, rather than on board
+* general traffic kept clear of intersections
+* level boarding between the bus and station platform
+
+---
+
 [Jarrett Walker](https://humantransit.org/). 2012. [Human Transit: How Clearer Thinking About Public Transit Can Enrich Our Communities and Our Lives](https://humantransit.org/book).  
 Available at [Multnomah Public Libraries](https://multcolib.bibliocommons.com/item/show/236687152), [Washington County Libraries](https://wccls.bibliocommons.com/item/show/1774137143), and [Clackamas County Libraries](https://lincc.ent.sirsi.net/client/en_US/lincc/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:897360/ada?qu=Human+Transit&rt=false%7C%7C%7CTITLE%7C%7C%7CTitle).
 
@@ -263,6 +278,19 @@ The Center for Transportation Excellence (CFTE) is a clearinghouse for informati
 ---
 
 [CityLab Transportation](https://www.citylab.com/transportation/)
+
+---
+
+[Federal Transit Administration](https://www.transit.dot.gov/)<a name="federal-transit-administration"></a>
+
+* [Bus Rapid Transit](https://www.transit.dot.gov/research-innovation/bus-rapid-transit)
+
+---
+
+Institute for Transportation and Development Policy ([ITDP](https://www.itdp.org/)).  
+Specified "[The BRT Standard](https://www.itdp.org/publication/the-brt-standard/)" as a scoring system to recognize high quality bus rapid transit (BRT) systems around the world.
+
+For more information about BRT, see also the [Federal Transit Administration](#federal-transit-administration)'s [BRT](https://www.transit.dot.gov/research-innovation/bus-rapid-transit) page and their [Bus Rapid Transit Resources](https://www.transit.dot.gov/research-innovation/bus-rapid-transit-resources).
 
 ---
 
