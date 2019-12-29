@@ -1,5 +1,8 @@
 # Transit Resources
 
+I use these personal notes to help me remember articles that I have read. I also hope that it will be a helpful summary and introduction for others. However, it is _not_ intended to be an exhaustive annotated bibliography nor a complete academic review of the current status of research. These are just my personal notes of material that I have already read or references to material that I hope to read.
+
+
 * [Books and Articles](#books-and-articles)
 * [Advocacy and Research Groups](#advocacy-and-research-groups)
     * [Portland, Oregon](#portland-oregon-advocacy-and-research-groups)
