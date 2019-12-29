@@ -54,20 +54,19 @@ For example, Hong Kong: 79% of residents take public transport to work. Despite 
 
 ---
 
-Graham Carey. 2006. "Bus Rapid Transit—The Eugene-Springfield,
+Graham Carey. 2006. "Bus Rapid Transit — The Eugene-Springfield,
 OR, USA, Experience". [PDF](https://pdfs.semanticscholar.org/890e/63aa773f8ec9cb50f1bd525fd47e0881ebab.pdf).
 
 ---
 
-[Henry Grabar](http://www.henrygrabar.com/) (ed)<a name="grabar-2019"></a>. 2019. [The Future of Transportation](https://www.som.com/ideas/publications/som_thinkers_the_future_of_transportation).  
-On order at [Multnomah County Libraries](https://multcolib.bibliocommons.com/item/show/1405438152).  
+[Henry Grabar](http://www.henrygrabar.com/) (ed)<a name="grabar-2019"></a>. 2019. [The Future of Transportation](https://www.som.com/ideas/publications/som_thinkers_the_future_of_transportation). SOM Thinkers.  
+Available at [Multnomah County Libraries](https://multcolib.bibliocommons.com/item/show/1405438152).  
 Chapters that I found most interesting:  
 
 * [Darran Anderson](https://www.txdot.gov/inside-txdot/administration/strategy-innovation.html). "The Getaway".
 * [Laura Bliss](https://www.laurablisswrites.com/). "Shortcuts"
 * [Alison Griswold](https://qz.com/author/agriswoldqz/). "Fair Share".
 * [Nick Van Mead](https://www.theguardian.com/profile/nickmead). "Riding the Bus in Dar Es Salaam".
-* [Christopher Schaberg](http://cas.loyno.edu/english/bios/christopher-schaberg).
 
 ---
 
@@ -174,7 +173,7 @@ pp. 236-243 "Build Locally, Spread Nationally" in Chapter 8 "A Planet of Civic L
 ---
 
 [Nick Van Mead](https://www.theguardian.com/profile/nickmead). "Riding the Bus in Dar Es Salaam" in Henry Grabar ([2019](#grabar-2019)).  
-Despite the title, this chapter reviews bus rapid transit (BRT) in cities across the world. Five features are needed to receive a gold ranking from the non-profit Institute for Transportation and Development Policy ([ITDP](https://www.itdp.org/)):
+Despite the title, this chapter reviews bus rapid transit (BRT) in cities across the world. Five features are needed to receive a [gold ranking](https://www.itdp.org/publication/the-brt-standard/) from the non-profit Institute for Transportation and Development Policy ([ITDP](https://www.itdp.org/)):
 
 * bus-only lanes separated from other traffic
 * bus lanes in the middle of the road, rather than on the edge
@@ -279,6 +278,11 @@ The Center for Transportation Excellence (CFTE) is a clearinghouse for informati
 ---
 
 [CityLab Transportation](https://www.citylab.com/transportation/)
+
+---
+
+Institute for Transportation and Development Policy ([ITDP](https://www.itdp.org/).  
+Specified "[The BRT Standard](https://www.itdp.org/publication/the-brt-standard/)" as a scoring system to recognize high quality BRT systems around the world.
 
 ---
 
