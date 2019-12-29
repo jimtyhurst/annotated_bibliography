@@ -22,7 +22,13 @@ Sorted alphabetically by author's last name, then in descending chronological or
 
 ---
 
+[Laura Bliss](https://www.laurablisswrites.com/). 2019. "Shortcuts" in Henry Grabar ([2019](#grabar-2019)).  
+Explains how individual smart phone apps that suggest alternate routes to avoid traffic congestion are business apps that do not provide a solution for urban congestion as a whole.
+
 [Laura Bliss](https://www.laurablisswrites.com/). 2019-11-12. "[Navigation Apps Changed the Politics of Traffic](https://www.citylab.com/transportation/2019/11/future-of-transportation-traffic-navigation-apps-google-maps/601684/)".
+
+[Laura Bliss](https://www.laurablisswrites.com/). 2019-08-09. "[The Map That Made Los Angeles Make Sense](https://www.citylab.com/life/2019/08/thomas-guide-los-angeles-history-street-map-google-waze-app/591721/)".  
+Discusses "the risk of maps that de-center the larger context in favor of the individual. ... When a group of drivers veers off a jammed highway on an app's recommendation, it can thicken congestion for surrounding commuters, even if a few drivers succeed in shaving a few minutes off their individual journeys."
 
 [Laura Bliss](https://www.laurablisswrites.com/). 2018-11-28. "[A U.S. Transit Atlas That Ranks the Best (and Worst) Cities for Bus and Rail](https://www.citylab.com/transportation/2018/11/best-transit-american-cities-bus-rail-subway-service/576739/)".  
 This article is a summary and review of [Christof Spieler](https://www.trainsbusespeople.org/christof-spieler)'s book, "[Trains, Buses, People: An Opinionated Atlas of US Transit](https://islandpress.org/books/trains-buses-people)".  
@@ -53,15 +59,14 @@ OR, USA, Experience". [PDF](https://pdfs.semanticscholar.org/890e/63aa773f8ec9cb
 
 ---
 
-[Henry Grabar](http://www.henrygrabar.com/) (ed). 2019. [The Future of Transportation](https://www.som.com/ideas/publications/som_thinkers_the_future_of_transportation).  
+[Henry Grabar](http://www.henrygrabar.com/) (ed)<a name="grabar-2019"></a>. 2019. [The Future of Transportation](https://www.som.com/ideas/publications/som_thinkers_the_future_of_transportation).  
 On order at [Multnomah County Libraries](https://multcolib.bibliocommons.com/item/show/1405438152).  
-Contributions by:  
+Chapters that I found most interesting:  
 
-* [Atossa Araxia Abrahamian](http://atossaaraxia.com/)
-* [Darran Anderson](https://www.txdot.gov/inside-txdot/administration/strategy-innovation.html)
-* [Laura Bliss](https://www.laurablisswrites.com/)
-* [Alison Griswold](https://qz.com/author/agriswoldqz/)
-* [Nick Van Meade](https://www.theguardian.com/profile/nickmead)
+* [Darran Anderson](https://www.txdot.gov/inside-txdot/administration/strategy-innovation.html). "The Getaway".
+* [Laura Bliss](https://www.laurablisswrites.com/). "Shortcuts"
+* [Alison Griswold](https://qz.com/author/agriswoldqz/). "Fair Share".
+* [Nick Van Mead](https://www.theguardian.com/profile/nickmead). "Riding the Bus in Dar Es Salaam".
 * [Christopher Schaberg](http://cas.loyno.edu/english/bios/christopher-schaberg).
 
 ---
@@ -165,6 +170,17 @@ Available at [Multnomah Public Libraries](https://multcolib.bibliocommons.com/it
 
 [Anthony M. Townsend](http://www.anthonymobile.com/). 2013-10-09. "Smart Cities: Big Data, Civic Hackers, and the Quest for A New Utopia". [Recorded discussion](https://www.youtube.com/watch?v=z1evCV6_e8Q) of the book of the same title.  
 pp. 236-243 "Build Locally, Spread Nationally" in Chapter 8 "A Planet of Civic Laboratories" describes the beginnings of [Code for America](https://www.codeforamerica.org/) to help cities share working code, models, and data.
+
+---
+
+[Nick Van Mead](https://www.theguardian.com/profile/nickmead). "Riding the Bus in Dar Es Salaam" in Henry Grabar ([2019](#grabar-2019)).  
+Despite the title, this chapter reviews bus rapid transit (BRT) in cities across the world. Five features are needed to receive a gold ranking from the non-profit Institute for Transportation and Development Policy ([ITDP](https://www.itdp.org/)):
+
+* bus-only lanes separated from other traffic
+* bus lanes in the middle of the road, rather than on the edge
+* ticket payment and control at stations, rather than on board
+* general traffic kept clear of intersections
+* level boarding between the bus and station platform
 
 ---
 
