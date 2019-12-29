@@ -22,7 +22,7 @@ Sorted alphabetically by author's last name, then in descending chronological or
 
 ---
 
-[Laura Bliss](https://www.laurablisswrites.com/). 2019. "Shortcuts" in Henry Grabar ([2019](#grabar-2019)).  
+[Laura Bliss](https://www.laurablisswrites.com/). 2019<a name="bliss-2019-shortcuts"></a>. "Shortcuts" in Henry Grabar ([2019](#grabar-2019)).  
 Explains how individual smart phone apps that suggest alternate routes to avoid traffic congestion are business apps that do not provide a solution for urban congestion as a whole.
 
 [Laura Bliss](https://www.laurablisswrites.com/). 2019-11-12. "[Navigation Apps Changed the Politics of Traffic](https://www.citylab.com/transportation/2019/11/future-of-transportation-traffic-navigation-apps-google-maps/601684/)".
@@ -64,9 +64,9 @@ Available at [Multnomah County Libraries](https://multcolib.bibliocommons.com/it
 Chapters that I found most interesting:  
 
 * [Darran Anderson](https://www.txdot.gov/inside-txdot/administration/strategy-innovation.html). "The Getaway".
-* [Laura Bliss](https://www.laurablisswrites.com/). "Shortcuts"
+* [Laura Bliss](https://www.laurablisswrites.com/). "[Shortcuts](#bliss-2019-shortcuts)"
 * [Alison Griswold](https://qz.com/author/agriswoldqz/). "Fair Share".
-* [Nick Van Mead](https://www.theguardian.com/profile/nickmead). "Riding the Bus in Dar Es Salaam".
+* [Nick Van Mead](https://www.theguardian.com/profile/nickmead). "[Riding the Bus in Dar Es Salaam](#van-mead-2019-bus)".
 
 ---
 
@@ -172,7 +172,7 @@ pp. 236-243 "Build Locally, Spread Nationally" in Chapter 8 "A Planet of Civic L
 
 ---
 
-[Nick Van Mead](https://www.theguardian.com/profile/nickmead). "Riding the Bus in Dar Es Salaam" in Henry Grabar ([2019](#grabar-2019)).  
+[Nick Van Mead](https://www.theguardian.com/profile/nickmead). "Riding the Bus in Dar Es Salaam"<a name="van-mead-2019-bus"></a> in Henry Grabar ([2019](#grabar-2019)).  
 Despite the title, this chapter reviews bus rapid transit (BRT) in cities across the world. Five features are needed to receive a [gold ranking](https://www.itdp.org/publication/the-brt-standard/) from the non-profit Institute for Transportation and Development Policy ([ITDP](https://www.itdp.org/)):
 
 * bus-only lanes separated from other traffic
