@@ -26,7 +26,7 @@ Sorted alphabetically by author's last name, then in descending chronological or
 
 [Darran Anderson](http://darrananderson.com/)<a name="darran-anderson"/>
 
-[Darran Anderson](#darran-anderson).<a name="anderson-2019-getaway"/> "The Getaway" in [Grabar (2019)](#grabar-2019)), The Future of Transportation.  
+[Darran Anderson](#darran-anderson).<a name="anderson-2019-getaway"/> "The Getaway" in [Grabar (2019)](#grabar-2019), The Future of Transportation.  
 Not related to transit, but interesting nonetheless. He analyses the many surveillance technologies in cities today that make it difficult for anyone to "get away".
 
 [Darran Anderson](#darran-anderson). 2017. Imaginary Cities
@@ -48,7 +48,7 @@ Available at [Multnomah County Libraries](https://multcolib.bibliocommons.com/it
 
 * Twitter: [@mslaurabliss](https://twitter.com/mslaurabliss)
 
-[Laura Bliss](#laura-bliss).<a name="bliss-2019-shortcuts"></a> 2019. "Shortcuts" in Henry Grabar ([2019](#grabar-2019)).  
+[Laura Bliss](#laura-bliss).<a name="bliss-2019-shortcuts"></a> 2019. "Shortcuts" in [Grabar (2019)](#grabar-2019), The Future of Transportation.  
 Explains how individual smart phone apps that suggest alternate routes to avoid traffic congestion are business apps that do not provide a solution for urban congestion as a whole.
 
 [Laura Bliss](#laura-bliss). 2019-11-12. "[Navigation Apps Changed the Politics of Traffic](https://www.citylab.com/transportation/2019/11/future-of-transportation-traffic-navigation-apps-google-maps/601684/)".
@@ -99,11 +99,12 @@ Chapters that I found most interesting:
 Alison Griswold<a name="alison-griswold"></a>
 
 * Twitter: [@alisongriswold](https://twitter.com/alisongriswold)
+* [Oversharing](https://oversharing.substack.com/) blog. "More than you wanted to know about the sharing economy."
 * [Quartz author](https://qz.com/author/agriswoldqz/)
 * [Slate author](https://slate.com/author/alison-griswold)
 * [Forbes author](https://www.forbes.com/sites/alisongriswold/)
 
-Alison Griswold.<a name="griswold-2019-fair-share"></a> 2019. "Fair Share". In [Grabar 2019](#grabar-2019).  
+Alison Griswold.<a name="griswold-2019-fair-share"></a> 2019. "Fair Share" in [Grabar (2019)](#grabar-2019), The Future of Transportation.  
 Analysis of ride sharing, such as Uber and Lyft, as well as vehicle sharing programs for bicycles and scooters.
 
 ---
@@ -213,7 +214,7 @@ Available at [Multnomah Public Libraries](https://multcolib.bibliocommons.com/it
 
 [Nick Van Mead](https://www.theguardian.com/profile/nickmead)<a name="nick-van-mead"></a>
 
-Nick Van Mead.<a name="van-mead-2019-bus"></a> "Riding the Bus in Dar Es Salaam" in Henry Grabar ([2019](#grabar-2019)).  
+Nick Van Mead.<a name="van-mead-2019-bus"></a> "Riding the Bus in Dar Es Salaam" in [Grabar (2019)](#grabar-2019), The Future of Transportation.  
 Despite the title, this chapter reviews bus rapid transit ([BRT](#brt-def)) in cities across the world.
 
 [p. 67] Five features are needed to receive a [gold ranking](https://www.itdp.org/publication/the-brt-standard/) from the non-profit Institute for Transportation and Development Policy ([ITDP](https://www.itdp.org/)):
