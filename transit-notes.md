@@ -24,6 +24,19 @@ I use these personal notes to help me remember articles that I have read. I also
 ## Books and Articles
 Sorted alphabetically by author's last name, then in descending chronological order.
 
+[Darran Anderson](http://darrananderson.com/)<a name="darran-anderson"/>
+
+[Darran Anderson](#darran-anderson).<a name="anderson-2019-getaway"/> "The Getaway" in [Grabar (2019)](#grabar-2019), The Future of Transportation.  
+Not related to transit, but interesting nonetheless. He analyses the many surveillance technologies in cities today that make it difficult for anyone to "get away".
+
+[Darran Anderson](#darran-anderson). 2017. Imaginary Cities
+A Tour of Dream Cities, Nightmare Cities, and Everywhere in Between.  
+Available at [Multnomah County Libraries](https://multcolib.bibliocommons.com/item/show/1343603152).  
+"Every architect, philosopher, artist, writer, planner, or citizen who dreams up an imaginary city offers lessons for our real ones; harnessing those flights of hopeful fancy can help us improve the streets where we live."  
+[I have not read this yet.]
+
+---
+
 [Simon J. Berrebi, Ph.D.](http://berrebi.net/)
 
 * "Identifying the Underlying Causes of Transit Ridership". [30 minute webinar summarizing the project](https://www.enotrans.org/event/webinar-analyzing-bus-ridership-decline/).
@@ -31,15 +44,19 @@ Sorted alphabetically by author's last name, then in descending chronological or
 
 ---
 
-[Laura Bliss](https://www.laurablisswrites.com/). 2019<a name="bliss-2019-shortcuts"></a>. "Shortcuts" in Henry Grabar ([2019](#grabar-2019)).  
+[Laura Bliss](https://www.laurablisswrites.com/)<a name="laura-bliss"></a>
+
+* Twitter: [@mslaurabliss](https://twitter.com/mslaurabliss)
+
+[Laura Bliss](#laura-bliss).<a name="bliss-2019-shortcuts"></a> 2019. "Shortcuts" in [Grabar (2019)](#grabar-2019), The Future of Transportation.  
 Explains how individual smart phone apps that suggest alternate routes to avoid traffic congestion are business apps that do not provide a solution for urban congestion as a whole.
 
-[Laura Bliss](https://www.laurablisswrites.com/). 2019-11-12. "[Navigation Apps Changed the Politics of Traffic](https://www.citylab.com/transportation/2019/11/future-of-transportation-traffic-navigation-apps-google-maps/601684/)".
+[Laura Bliss](#laura-bliss). 2019-11-12. "[Navigation Apps Changed the Politics of Traffic](https://www.citylab.com/transportation/2019/11/future-of-transportation-traffic-navigation-apps-google-maps/601684/)".
 
-[Laura Bliss](https://www.laurablisswrites.com/). 2019-08-09. "[The Map That Made Los Angeles Make Sense](https://www.citylab.com/life/2019/08/thomas-guide-los-angeles-history-street-map-google-waze-app/591721/)".  
+[Laura Bliss](#laura-bliss). 2019-08-09. "[The Map That Made Los Angeles Make Sense](https://www.citylab.com/life/2019/08/thomas-guide-los-angeles-history-street-map-google-waze-app/591721/)".  
 Discusses "the risk of maps that de-center the larger context in favor of the individual. ... When a group of drivers veers off a jammed highway on an app's recommendation, it can thicken congestion for surrounding commuters, even if a few drivers succeed in shaving a few minutes off their individual journeys."
 
-[Laura Bliss](https://www.laurablisswrites.com/). 2018-11-28. "[A U.S. Transit Atlas That Ranks the Best (and Worst) Cities for Bus and Rail](https://www.citylab.com/transportation/2018/11/best-transit-american-cities-bus-rail-subway-service/576739/)".  
+[Laura Bliss](#laura-bliss). 2018-11-28. "[A U.S. Transit Atlas That Ranks the Best (and Worst) Cities for Bus and Rail](https://www.citylab.com/transportation/2018/11/best-transit-american-cities-bus-rail-subway-service/576739/)".  
 This article is a summary and review of Christof Spieler's book, "[Trains, Buses, People: An Opinionated Atlas of US Transit](#spieler-2018-trains-buses)".  
 "Spieler's atlas illustrates how high-performing public transportation boils down to a handful of key tenets: the density and walkability of an area, and the connectivity, frequency, and reliability of the service. Finding the proper capacity to meet demand matters, too, as do speed and legible tools for navigating the system, he writes."
 
@@ -72,10 +89,23 @@ OR, USA, Experience". [PDF](https://pdfs.semanticscholar.org/890e/63aa773f8ec9cb
 Available at [Multnomah County Libraries](https://multcolib.bibliocommons.com/item/show/1405438152).  
 Chapters that I found most interesting:  
 
-* [Darran Anderson](https://www.txdot.gov/inside-txdot/administration/strategy-innovation.html). "The Getaway".
-* [Laura Bliss](https://www.laurablisswrites.com/). "[Shortcuts](#bliss-2019-shortcuts)".
-* [Alison Griswold](https://qz.com/author/agriswoldqz/). "Fair Share".
-* [Nick Van Mead](https://www.theguardian.com/profile/nickmead). "[Riding the Bus in Dar Es Salaam](#van-mead-2019-bus)".
+* [Darran Anderson](#darran-anderson). "[The Getaway](#anderson-2019-getaway)".
+* [Laura Bliss](#laura-bliss). "[Shortcuts](#bliss-2019-shortcuts)".
+* [Alison Griswold](#alison-griswold). "[Fair Share](#griswold-2019-fair-share)".
+* [Nick Van Mead](#nick-van-mead). "[Riding the Bus in Dar Es Salaam](#van-mead-2019-bus)".
+
+---
+
+Alison Griswold<a name="alison-griswold"></a>
+
+* Twitter: [@alisongriswold](https://twitter.com/alisongriswold)
+* [Oversharing](https://oversharing.substack.com/) blog. "More than you wanted to know about the sharing economy."
+* [Quartz author](https://qz.com/author/agriswoldqz/)
+* [Slate author](https://slate.com/author/alison-griswold)
+* [Forbes author](https://www.forbes.com/sites/alisongriswold/)
+
+[Alison Griswold](#alison-griswold).<a name="griswold-2019-fair-share"></a> 2019. "Fair Share" in [Grabar (2019)](#grabar-2019), The Future of Transportation.  
+Analysis of ride sharing, such as Uber and Lyft, as well as vehicle sharing programs for bicycles and scooters.
 
 ---
 
@@ -182,7 +212,9 @@ Available at [Multnomah Public Libraries](https://multcolib.bibliocommons.com/it
 
 ---
 
-[Nick Van Mead](https://www.theguardian.com/profile/nickmead). "Riding the Bus in Dar Es Salaam"<a name="van-mead-2019-bus"></a> in Henry Grabar ([2019](#grabar-2019)).  
+[Nick Van Mead](https://www.theguardian.com/profile/nickmead)<a name="nick-van-mead"></a>
+
+[Nick Van Mead](#nick-van-mead).<a name="van-mead-2019-bus"></a> "Riding the Bus in Dar Es Salaam" in [Grabar (2019)](#grabar-2019), The Future of Transportation.  
 Despite the title, this chapter reviews bus rapid transit ([BRT](#brt-def)) in cities across the world.
 
 [p. 67] Five features are needed to receive a [gold ranking](https://www.itdp.org/publication/the-brt-standard/) from the non-profit Institute for Transportation and Development Policy ([ITDP](https://www.itdp.org/)):
@@ -230,6 +262,11 @@ Available at [Multnomah Public Libraries](https://multcolib.bibliocommons.com/it
 5. _Riding_ in terms of length of time and quality of time.
 6. _Connecting_, which involves repeating steps 1-5.
 7. _Accessing (at the destination)_ from the transit stop to your actual destination.
+
+[p. 118] Competing service goals:
+
+* Serve all parts of the community.
+* Maximize ridership with a fixed service budget.
 
 Recorded presentation on 2012-07-12 on [YouTube video](https://www.youtube.com/watch?v=pg2kE5m4exk) is a 57-minute presentation at the University of Oregon followed by 19 minutes of questions.  
 
