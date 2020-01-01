@@ -104,7 +104,7 @@ Alison Griswold<a name="alison-griswold"></a>
 * [Slate author](https://slate.com/author/alison-griswold)
 * [Forbes author](https://www.forbes.com/sites/alisongriswold/)
 
-Alison Griswold.<a name="griswold-2019-fair-share"></a> 2019. "Fair Share" in [Grabar (2019)](#grabar-2019), The Future of Transportation.  
+[Alison Griswold](#alison-griswold).<a name="griswold-2019-fair-share"></a> 2019. "Fair Share" in [Grabar (2019)](#grabar-2019), The Future of Transportation.  
 Analysis of ride sharing, such as Uber and Lyft, as well as vehicle sharing programs for bicycles and scooters.
 
 ---
@@ -214,7 +214,7 @@ Available at [Multnomah Public Libraries](https://multcolib.bibliocommons.com/it
 
 [Nick Van Mead](https://www.theguardian.com/profile/nickmead)<a name="nick-van-mead"></a>
 
-Nick Van Mead.<a name="van-mead-2019-bus"></a> "Riding the Bus in Dar Es Salaam" in [Grabar (2019)](#grabar-2019), The Future of Transportation.  
+[Nick Van Mead](#nick-van-mead).<a name="van-mead-2019-bus"></a> "Riding the Bus in Dar Es Salaam" in [Grabar (2019)](#grabar-2019), The Future of Transportation.  
 Despite the title, this chapter reviews bus rapid transit ([BRT](#brt-def)) in cities across the world.
 
 [p. 67] Five features are needed to receive a [gold ranking](https://www.itdp.org/publication/the-brt-standard/) from the non-profit Institute for Transportation and Development Policy ([ITDP](https://www.itdp.org/)):
