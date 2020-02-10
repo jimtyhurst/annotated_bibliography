@@ -109,7 +109,7 @@ Analysis of ride sharing, such as Uber and Lyft, as well as vehicle sharing prog
 
 ---
 
-[Steven Higashide](https://transitcenter.org/team/steven-higashide-2/). 2019<a name="higashide-2019-better-buses"></a>. [Better Buses, Better Cities: How to Plan, Run, and Win the Fight for Effective Transit](https://islandpress.org/books/better-buses-better-cities).  
+[Steven Higashide](https://transitcenter.org/team/steven-higashide-2/).<a name="higashide-2019-better-buses" /> 2019. [Better Buses, Better Cities: How to Plan, Run, and Win the Fight for Effective Transit](https://islandpress.org/books/better-buses-better-cities).  
 Available at [Multnomah County Libraries](https://multcolib.bibliocommons.com/item/show/1385609152).  
 
 [p. 10] More people choose buses when they are a useful option for them -- when it's reasonably fast, affordable, and convenient. Decades of research by academics and public agencies show that this is determined mostly by factors such as how often the bus runs, how fast it is compared with alternatives, how reliable it is, and how safe riders feel.
@@ -124,9 +124,28 @@ Available at [Multnomah County Libraries](https://multcolib.bibliocommons.com/it
 * The service is comfortable and feels safe.
 * The service is affordable.
 
+Subsequent chapters in the book expand on these seven features, describing how they have been achieved in different transit systems.
+
+Chapter 8 "Building a Transit Nation" begins with a reminder that bus riders "often are those who are furthest from the power, held out of policymaking." This chapter describes past funding patterns at the federal and state levels.
+
+Conclusion "Winning Mindsets and Growing Movements"
+
+* [p. 130] "A bus system that doesn't change as its city changes around it is doomed to continually lose ground, like a nest egg that is kept in cash instead of being invested ini a way that gains a return. The good new is that cities can see bus gains in short periods of time. What it takes is alliances of reformers, inside and outside of government."
+* Understand transit systems and power structures [p. 131]
+* Advocacy groups should have a campaign mindset [p. 135]
+* Get representative, strategic public input [p. 136]
+    * Get input that is representative of the people who will benefit from better bus service [p. 137]
+    * Agency staff need a keen sense of the stakeholders who have the power to champion or derail their project
+* Build agencies that can deliver [p. 138]
+* Grow a stronger transit reform movement [p. 139]
+    * To win better buses in more cities, we need more wonky transit blogs, more faith-based organizing, more riders' unions, and more state budget watchdogs.
+    * We need more ways for transit reformers in one city to learn from the triumphs and pitfalls of others.
+    * The fastest way to grow the transit reform movement is for local foundations to show sustained interest and energy. [p. 140]
+    * Advocates need to be strong enough in the fallow years to build power and develop a clear agenda. That strength allows them to be effective when the moment arrives and also helps them create new opportunities on their own.
+
 [Steven Higashide](https://transitcenter.org/team/steven-higashide-2/). 2019-11-20. "Better Buses, Better Cities". [Video discussion](https://nextcity.org/webinars/view/steven-higashide-on-better-buses-better-cities) of the [book](#higashide-2019-better-buses) of the same title.  
 
-[Steven Higashide](https://transitcenter.org/team/steven-higashide-2/). 2019-11-04. "[How to Win the Fight for Fair and Equitable Transit: Start by dismantling the systemic barriers that disproportionately penalize low-income bus riders](https://nextcity.org/features/view/how-to-win-the-fight-for-fair-and-equitable-transit)". This is an excerpt from his 2019 [book](#higashide-2019-better-buses)".
+[Steven Higashide](https://transitcenter.org/team/steven-higashide-2/). 2019-11-04. "[How to Win the Fight for Fair and Equitable Transit: Start by dismantling the systemic barriers that disproportionately penalize low-income bus riders](https://nextcity.org/features/view/how-to-win-the-fight-for-fair-and-equitable-transit)". This is an excerpt from his 2019 [book](#higashide-2019-better-buses).
 
 ---
 
