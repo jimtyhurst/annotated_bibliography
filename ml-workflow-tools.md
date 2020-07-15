@@ -1,8 +1,7 @@
-# [Data Pipeline Tools](https://gist.github.com/jimtyhurst/309748f0ac3b3a8f8a712a219e71b93d): An Annotated Bibliography
-http://bit.ly/data-pipeline-tools
+# Data Pipeline Tools: An Annotated Bibliography
 
-[Jim Tyhurst](https://www.jimtyhurst.com)  
-2019-10-26
+[Jim Tyhurst](https://www.jimtyhurst.com)<br>
+2020-07-15
 
 **Table of Contents**
 
