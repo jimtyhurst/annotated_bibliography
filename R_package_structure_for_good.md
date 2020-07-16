@@ -41,7 +41,10 @@ For now, we are just considering the advantages of using an R package to organiz
 * A standard for where to store files.
     * R code (functions) in the `R/` directory.
     * R Markdown in the `vignettes/` directory.
-        * Some people put exploratory data analysis scripts or markdown in a `research/` folder.
+        * Note: Some people put exploratory data analysis scripts or other R Markdown scripts in a top-level directory called `analysis/` or `research/`.
+            * However, the package structure does not specify those other directories, so `devtools::check()` will give a `NOTE`: "Non-standard file/directory found at top level".
+            * You can avoid the `NOTE` by adding the extra directory to the `.Rbuildignore` file.
+            * So it is possible to override the standard form of the package structure, but you should have a good reason for doing so.
     * Metadata, data about your project:
         * A `README.md` displays by default on the home page of the project if you use one of the Git repository providers to store your project. e.g. [GitHub](https://github.com/), [GitLab](https://gitlab.com/), [BitBucket](https://bitbucket.org/), [Framagit](https://framagit.org/), etc.
             * Note: All of the Git repository providers allow you to have private repositories if you do not want to expose your work publicly.
@@ -56,7 +59,7 @@ For now, we are just considering the advantages of using an R package to organiz
 * Easy to share your code and analyses with others.
     * You write within a standardized structure, i.e. the package structure, so people know where to look for details, such as dependencies, the license, the reusable code, documentation of the code, the tests, and code with sample usage.
 * Easier to track down integration errors when dependencies are upgraded.
-    * While any code can have tests associated, the package structure makes it easy to set up automated unit testing. By focusing on small units of code, i.e. functions, with associated unit tests that are run automatically at certain steps in the development lifecycle, it is easier to track down errors that get introduced when dependencies are upgraded with breaking changes.
+    * While any code can have associated tests, the package structure makes it easy to set up automated unit testing. By focusing on small units of code, i.e. functions, with associated unit tests that are run automatically at certain steps in the development lifecycle, it is easier to track down errors that get introduced when dependencies are upgraded with breaking changes.
 * Easier to use your own code! Rather than making sure you source files in the correct order, functions will be defined and usable within your environment when the package is loaded.
 * Easy to deploy your code.
     * While any code can be deployed to a different machine, it is especially easy to use a package in a Docker image to deploy an application to a server.
@@ -79,6 +82,7 @@ For a simple analysis, e.g. doing exploratory data analysis, it might not be wor
 * Even if code blocks are not reused, it is often helpful to extract a code block into a function, which makes the code easier to read and maintain by yourself and others, because functions can be:
     * documented with standard documentation formatting; and
     * tested thoroughly with unit tests.
+* You need to maintain the code over a period of time. Writing code in small functions with associated tests is easier to maintain. Also, if you write sufficient unit tests, this will help you to identify breaking changes when you upgrade a library on which you depend.
 * More than one person is writing or maintaining the code. Extracting code blocks into functions accompanied by comprehensive unit tests makes it easier to enhance and maintain the code by multiple people while avoiding unintended side effects of code changes.
 
 ## References: Use the R package structure to organize your projects
