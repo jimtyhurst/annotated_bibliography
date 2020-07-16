@@ -1,7 +1,7 @@
 # Step away from the notebook!
 ## Use an R package to organize your project
 [Jim Tyhurst](https://www.jimtyhurst.com)<br>
-2020-07-14
+2020-07-15
 
 I will give an overview of the advantages of using the R package structure for a data science project, even when you will never publish the package for reuse by others. I have a few discussion points about how package structure improves the development lifecycle. There is also a list of references with more details.
 
