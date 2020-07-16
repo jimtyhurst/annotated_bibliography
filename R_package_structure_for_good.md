@@ -54,7 +54,9 @@ For now, we are just considering the advantages of using an R package to organiz
         * `inst/extdata/` for raw data, e.g. CSV files, used in vignettes.
         * `tests/testthat/` for small data files used for unit testing.
 * Easy to share your code and analyses with others.
-    * You provide a standard structure, so people know where to look for details, like dependencies, the license, the reusable code, the tests, ...
+    * You write within a standardized structure, i.e. the package structure, so people know where to look for details, such as dependencies, the license, the reusable code, documentation of the code, the tests, and code with sample usage.
+* Easier to track down integration errors when dependencies are upgraded.
+    * While any code can have tests associated, the package structure makes it easy to set up automated unit testing. By focusing on small units of code, i.e. functions, with associated unit tests that are run automatically at certain steps in the development lifecycle, it is easier to track down errors that get introduced when dependencies are upgraded with breaking changes.
 * Easier to use your own code! Rather than making sure you source files in the correct order, functions will be defined and usable within your environment when the package is loaded.
 * Easy to deploy your code.
     * While any code can be deployed to a different machine, it is especially easy to use a package in a Docker image to deploy an application to a server.
