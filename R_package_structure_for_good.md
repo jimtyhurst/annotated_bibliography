@@ -19,6 +19,7 @@ For now, we are just considering the advantages of using an R package to organiz
 
 * [Advantages to using an R package for your project files](#advantages-to-using-an-r-package-for-your-project-files)
 * [Disadvantages](#disadvantages)
+* [Choosing whether to use a package structure](#choosing-whether-to-use-a-package-structure)
 * [References: Use the R package structure to organize your projects](#references-use-the-r-package-structure-to-organize-your-projects)
 * [References: R package structure](#references-r-package-structure)
 * [References: workflow for R development and reproducibility](#references-workflow-for-r-development-and-reproducibility)
@@ -54,6 +55,7 @@ For now, we are just considering the advantages of using an R package to organiz
         * `tests/testthat/` for small data files used for unit testing.
 * Easy to share your code and analyses with others.
     * You provide a standard structure, so people know where to look for details, like dependencies, the license, the reusable code, the tests, ...
+* Easier to use your own code! Rather than making sure you source files in the correct order, functions will be defined and usable within your environment when the package is loaded.
 * Easy to deploy your code.
     * While any code can be deployed to a different machine, it is especially easy to use a package in a Docker image to deploy an application to a server.
 
@@ -62,7 +64,21 @@ For now, we are just considering the advantages of using an R package to organiz
     * The {[usethis](https://usethis.r-lib.org/index.html)} package is very helpful.
     * The [R Packages, 2nd edition](https://r-pkgs.org/) book provides clear explanations. It is a great reference for getting started, as well as getting deeper into package structure.
 * It takes some time to set up each new package. Even with the automated tools, you still need to enter your custom information. However, I am convinced that the benefit of package structure for improving developer workflow is much greater than this small cost of set-up.
+* With a very large code base and corresponding tests, it may take some time to build the entire package. Although it makes for a simple workflow to rebuild with each code change, in practice that can become tedious when you are writing a very iterative sequence of changes.
 
+## Choosing whether to use a package structure
+Given some of the disadvantages, especially the overhead of creating a package and running frequent builds during development, what type of project is best suited to using a package structure?
+
+For a simple analysis, e.g. doing exploratory data analysis, it might not be worth the effort to create a package for such a small project. However for projects with any of the following characteristics, the benefits will likely outweigh the costs:
+
+* You are going to use the code in production, e.g. as a machine learning model for classification or prediction.
+* You write some functions that are reused within different parts of your analysis or they will be reused by others.
+    * Remember, if you copied and pasted a block of code 2 or 3 times, you really should be using a function with that code in one place instead of copying and pasting.
+* Even if code blocks are not reused, it is often helpful to extract a code block into a function, which can then be:
+    * documented with standard documentation formatting; and
+    * tested thoroughly with unit tests
+which makes the code easier to read and maintain by yourself and others.
+* More than one person is writing or maintaining the code. Extracting code blocks into functions accompanied by comprehensive unit tests makes it easier to enhance and maintain the code by multiple people while avoiding unintended side effects of code changes.
 
 ## References: Use the R package structure to organize your projects
 * Ben Marwick, Carl Boettiger, Lincoln Mullen. 2018-03-20. [Packaging data analytical work reproducibly
@@ -74,6 +90,8 @@ using R (and friends)](https://peerj.com/preprints/3192/). [PDF](https://peerj.c
         2. R packages provide functionality to document data and functions
         3. R packages provide a framework to test your code
         4. putting effort into points 1–3 enables you to reuse and share your code
+* Emily Riederer. 2019-05-04. [RMarkdown Driven Development (RmdDD)](https://emilyriederer.netlify.app/post/rmarkdown-driven-development/). She explains how to convert from a single RMarkdown file to a project and then to a package.
+* Emily Riederer. 2020-02-01. [RMarkdown Driven Development: the Technical Appendix](https://emilyriederer.netlify.app/post/rmddd-tech-appendix/). Discussion of tools for the technical implementation of each step for converting from a single RMarkdown file to a package.
 * Anna Krystalli. March-April 2020. [Reproducible Research Data & Project Management in R](https://annakrystalli.me/rrresearchACCE20/). See especially the [Paths and Project structure](https://annakrystalli.me/rrresearchACCE20/path-proj-str.html) section.
     * An earlier workshop provides lots of good details too: Anna Krystalli. 2018-10-31. [Manage functionality as a package](https://annakrystalli.me/rrtools-repro-research/package.html). This is part 3 of a 4 part workshop: [Reproducible Research in R with `rrtools`](https://annakrystalli.me/rrtools-repro-research/index.html).
 * Karl Broman. 2020-03-20. [R package primer](https://kbroman.org/pkg_primer/): a minimal tutorial. See especially the [Why write an R package?](https://kbroman.org/pkg_primer/pages/why.html) section.
