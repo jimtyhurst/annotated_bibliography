@@ -27,12 +27,16 @@ For now, we are just considering the advantages of using an R package to organiz
 
 ## Advantages to using an R package for your project files
 * Access to automated tools
-    * documenting
     * building
+        * command line: `R CMD build`
+        * RStudio: `Build > Install and Restart`
+    * documenting
+        * function documentation built during "build".
     * testing
-        * unit testing while coding
+        * unit testing while coding (`devtools::test()`).
         * automated Continuous Integration (CI) testing
-    * checking
+            * CI build will run the unit tests.
+    * checking (`devtools::check()`)
 * A standard for where to store files.
     * R code (functions) in the `R/` directory.
     * R Markdown in the `vignettes/` directory.
@@ -72,6 +76,7 @@ using R (and friends)](https://peerj.com/preprints/3192/). [PDF](https://peerj.c
         4. putting effort into points 1–3 enables you to reuse and share your code
 * Anna Krystalli. March-April 2020. [Reproducible Research Data & Project Management in R](https://annakrystalli.me/rrresearchACCE20/). See especially the [Paths and Project structure](https://annakrystalli.me/rrresearchACCE20/path-proj-str.html) section.
     * An earlier workshop provides lots of good details too: Anna Krystalli. 2018-10-31. [Manage functionality as a package](https://annakrystalli.me/rrtools-repro-research/package.html). This is part 3 of a 4 part workshop: [Reproducible Research in R with `rrtools`](https://annakrystalli.me/rrtools-repro-research/index.html).
+* Karl Broman. 2020-03-20. [R package primer](https://kbroman.org/pkg_primer/): a minimal tutorial. See especially the [Why write an R package?](https://kbroman.org/pkg_primer/pages/why.html) section.
 * Edwin Thoen. 2020. [Agile Data Science with R: A workflow](https://edwinth.github.io/ADSwR/index.html). See [6.1 Using the R Package Structure](https://edwinth.github.io/ADSwR/code-organisation.html)
     * Highlights presented by Edwin Thoen at: Invited Speakers Session 1.  2020-06-17. "Building Agile data products leveraging the R package structure". [eRum 2020](https://2020.erum.io/). Individual talks have not been published separately yet, but this talk appears at 1:54:10 - 2:12:00 of the complete [Day 1 recording](https://www.youtube.com/watch?v=yHJ7RSv6nio).
 * Colin Fay, et al. 2020-07-07. [Engineering Production-Grade Shiny Apps](https://engineering-shiny.org/). See [3.1 Shiny App as a Package](https://engineering-shiny.org/structure.html).
