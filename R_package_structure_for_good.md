@@ -74,10 +74,9 @@ For a simple analysis, e.g. doing exploratory data analysis, it might not be wor
 * You are going to use the code in production, e.g. as a machine learning model for classification or prediction.
 * You write some functions that are reused within different parts of your analysis or they will be reused by others.
     * Remember, if you copied and pasted a block of code 2 or 3 times, you really should be using a function with that code in one place instead of copying and pasting.
-* Even if code blocks are not reused, it is often helpful to extract a code block into a function, which can then be:
+* Even if code blocks are not reused, it is often helpful to extract a code block into a function, which makes the code easier to read and maintain by yourself and others, because functions can be:
     * documented with standard documentation formatting; and
-    * tested thoroughly with unit tests
-which makes the code easier to read and maintain by yourself and others.
+    * tested thoroughly with unit tests.
 * More than one person is writing or maintaining the code. Extracting code blocks into functions accompanied by comprehensive unit tests makes it easier to enhance and maintain the code by multiple people while avoiding unintended side effects of code changes.
 
 ## References: Use the R package structure to organize your projects
