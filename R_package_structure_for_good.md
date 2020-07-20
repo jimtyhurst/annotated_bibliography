@@ -112,6 +112,7 @@ using R (and friends)](https://peerj.com/preprints/3192/). [PDF](https://peerj.c
 * Maëlle Salmon. 2020-04-29. [Workflow automation tools for package developers](https://blog.r-hub.io/2020/04/29/maintenance/).
 * Maëlle Salmon. 2020. [How to improve your R package: Automatically, and not](https://maelle.github.io/erum2020/index.html#1). Presented at [e-Rum 2020](http://2020.erum.io/) Invited Speakers Session 3. 2020-06-19. Individual talks have not been published separately yet, but this talk appears at 5:39:22 - 5:53:20 of the complete [Day 3 recording](https://www.youtube.com/watch?v=ZRGxTHRY_hs).
 * [rOpenSci](https://ropensci.org/) software review editorial team. 2020-07-13. [rOpenSci Packages: Development, Maintenance, and Peer Review](https://devguide.ropensci.org/). See especially [Chapter 1. Packaging Guide](https://devguide.ropensci.org/building.html).
+* Cosima Meyer, Dennis Hammerschmidt. 2020-07-16. [How to write your own R package and publish it on CRAN](https://www.mzes.uni-mannheim.de/socialsciencedatalab/article/r-package/). This tutorial provides a very good step-by-step guide to writing a package in R.
 
 
 ## References: workflow for R development and reproducibility
