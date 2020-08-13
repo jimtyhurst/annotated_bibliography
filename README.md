@@ -2,6 +2,13 @@
 
 This repository holds brief notes that help me remember the details of technical papers that I have read or technologies that I have explored.
 
+**Index**
+
+* [Data Pipeline Tools](./ml-workflow-tools.md): An Annotated Bibliography
+* [Step away from the notebook!](./R_package_structure_for_good.md): Use an R package to organize your project
+* [Transit Resources](./transit-notes.md)
+* [Working Remotely](./remote-work-notes.md): Notes
+
 
 ---
 
