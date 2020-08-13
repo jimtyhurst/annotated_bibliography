@@ -1,4 +1,6 @@
 # Working Remotely: Notes
+[Jim Tyhurst](https://www.jimtyhurst.com)<br>
+Revised: 2020-08-13
 
 **Contents**
 
@@ -21,6 +23,8 @@
 
 ## Business trends
 ### Primary sources
+Listed in reverse chronological order.
+
 * Alexander W. Bartik, Zoe B. Cullen, Edward L. Glaeser, Michael Luca, Christopher T. Stanton. 2020-06. [What Jobs are Being Done at Home During the Covid-19 Crisis?](https://www.nber.org/papers/w27422) Evidence from Firm-Level Surveys. NBER Working Paper No. 27422. [PDF](https://www.nber.org/papers/w27422.pdf).
     * "more than one-third of firms that had employees switch to remote work believe that remote work will remain more common at their company even after the COVID-19 crisis ends."
     * The [Dingel and Neiman (2020)](https://www.nber.org/papers/w26948) measure of suitability for remote work does a remarkably good job of predicting the industry level patterns of remote work.
@@ -47,7 +51,7 @@
 
 
 ## Software Tools
-[Mural](https://mural.co/). A secure, visual workspace to exchange ideas. Virtual workspaces to implement lean, agile and design thinking methodologies.
+* [Mural](https://mural.co/). A secure, visual workspace to exchange ideas. Virtual workspaces to implement lean, agile and design thinking methodologies.
 * [Nureva](https://www.nureva.com/). visual collaboration tools: simulate yellow stickies on a wall.
 * [Pragli](https://pragli.com/). virtual office.
 * [Remo](https://remotehub.io/). virtual office, video-first workspace for remote teams.
@@ -67,3 +71,10 @@
 ## Services for Remote Workers
 * [WorkFrom.co](https://workfrom.co/)  
 Find a remote-friendly space where you can work with good wifi.
+
+
+---
+
+Copyright &copy; 2019 [Jim Tyhurst, Ph.D.](https://www.jimtyhurst.com)
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
