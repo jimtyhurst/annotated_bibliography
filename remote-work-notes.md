@@ -13,12 +13,17 @@ Revised: 2020-08-13
 * [Remote Job Search](#remote-job-search)
 * [Services for Remote Workers](#services-for-remote-workers)
 
+
 ## References
 * Jason Fried. 2013. Remote: Office not required.
     * Excellent discussion of many aspects of teams of remote workers.  
     * Available at [Multnomah County Libraries](https://multcolib.bibliocommons.com/item/show/988198152), [Washington County Libraries](https://wccls.bibliocommons.com/item/show/2108581143), [Clackamas County Libraries](https://lincc.ent.sirsi.net/client/en_US/lincc/search/detailnonmodal/ent:$002f$002fERC_8760_3941$002f0$002f8760_3941:OVERDRIVE:cc98f843-3183-48c9-a370-0f740e47be3e/ada?qu=jason+fried).
 * Johanna Rothman, Mark Kirby. 2019. [From Chaos to Successful Distributed Agile Teams: Collaborate to Deliver](https://www.jrothman.com/books/from-chaos-to-successful-distributed-agile-teams-collaborate-to-deliver/).
 * [Shape My Work](https://shapemywork.com/) wiki about remote Agile.
+* Enrico Moretti. 2012. The new geography of jobs.
+    * Economist examines how social and economic shifts are affecting communities.
+    * Today there are three Americas. At one extreme are the brain hubs, cities like San Francisco, Boston, Austin, and Durham, with a well-educated labor force and a strong innovation sector. Their workers are among the most productive, creative, and best paid on the planet. At the other extreme are cities once dominated by traditional manufacturing, which are declining rapidly, losing jobs and residents. In the middle are a number of cities that could go either way.
+    * Available at [Multnomah County Libraries](https://multcolib.bibliocommons.com/item/show/61909152), [Washington County Libraries](https://wccls.bibliocommons.com/item/show/3314413143), [Clackamas County Libraries](https://lincc.ent.sirsi.net/client/en_US/lincc/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:645944/ada?qu=Moretti%2C+Enrico.&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A645944%7EILS%7E0&te=ILS&rt=false%7C%7C%7CAUTHOR%7C%7C%7CAuthor), and a few pages on Google Books [Preview](https://www.google.com/books/edition/The_New_Geography_of_Jobs/br0S54w0u_sC).
 
 
 ## Business trends
@@ -28,7 +33,7 @@ Listed in reverse chronological order.
 * Alexander W. Bartik, Zoe B. Cullen, Edward L. Glaeser, Michael Luca, Christopher T. Stanton. 2020-06. [What Jobs are Being Done at Home During the Covid-19 Crisis?](https://www.nber.org/papers/w27422) Evidence from Firm-Level Surveys. NBER Working Paper No. 27422. [PDF](https://www.nber.org/papers/w27422.pdf).
     * "more than one-third of firms that had employees switch to remote work believe that remote work will remain more common at their company even after the COVID-19 crisis ends."
     * The [Dingel and Neiman (2020)](https://www.nber.org/papers/w26948) measure of suitability for remote work does a remarkably good job of predicting the industry level patterns of remote work.
-* Jonathan I. Dingel, Brent Neiman. 2020-06. [How Many Jobs Can be Done at Home?](https://www.nber.org/papers/w26948). NBER Working Paper No. 26948. [PDF](https://www.nber.org/papers/w26948.pdf).
+* Jonathan I. Dingel, Brent Neiman. 2020-06. [How Many Jobs Can be Done at Home?](https://www.nber.org/papers/w26948) NBER Working Paper No. 26948. [PDF](https://www.nber.org/papers/w26948.pdf).
     * Classifies occupations that cannot be performed at home, based on a list of criteria, e.g.
         * Average respondent says they deal with violent people at least once a week
         * Majority of respondents say they work outdoors every day
