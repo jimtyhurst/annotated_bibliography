@@ -1,12 +1,18 @@
 # Dyslexia
+Copyright &copy; 2020 [Jim Tyhurst, Ph.D.](https://www.jimtyhurst.com)  
+This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>. <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a>
+
+I use these personal notes to help me remember articles and books that I have read. I hope they might be a helpful summary and introduction for others. However, these notes are _not_ intended to be an exhaustive annotated bibliography nor a complete academic review of the current status of research. These are just my personal notes of material that I have already read or references to material that I hope to read soon.
+
+---
 
 **Contents**
 
 * [Typing](#typing)
 * [References](#references)
-    * [Books - Recommended](#books-recommended)
-    * [Books - Not recommended](#books-not-recommended)
-    * [Books - Not read yet](#books-not-read-yet)
+    * [Books - Recommended](#books---recommended)
+    * [Books - Not recommended](#books---not-recommended)
+    * [Books - Not read yet](#books---not-read-yet)
 
 ---
 
@@ -14,14 +20,16 @@
 ## Typing
 * [Touch-type Read & Spell](https://www.readandspell.com/us/dysgraphia#). Learn to touch type. $15/month. For learners with dysgraphia: A program to get children and adults with dysgraphia touch-typing with additional support for spelling.
     * Sale coupon: BFCM2020 for 35% off on annual subscription.
-    * Uses real words.
-    * Word is displayed and spoken.
+    * Based on English words, rather than random sequences of letters.
+    * Speaks the words as you are supposed to type them.
+    * They claim that this additional sound input is helpful for learners with dyslexia or dysgraphia.
 * https://www.typing.com/ : Free typing tutorials.
-    * Starts with individual letters and repetitive sequences of letters.
+    * Starts with individual letters and repetitive sequences of letters, rather than real words.
+
 
 ## References
 * Colorado Department of Education, Office of Gifted Education. [Twice-Exceptional Students: Gifted Students with Disabilities](https://www.cde.state.co.us/gt/twice-exceptional-information-for-parents).
-* Colorado Department of Education, Office of Gifted Education. [Twice-Exception (2e)](http://www.cde.state.co.us/gt/twice-exceptional).
+* Colorado Department of Education, Office of Gifted Education. [Twice-Exceptional (2e)](http://www.cde.state.co.us/gt/twice-exceptional).
 * Colorado Department of Education. 2017-10. [Twice-Exceptional Students Gifted Students with Disabilities - Level 1: An Introductory Resource Book](https://www.cde.state.co.us/gt/level_1_resource_handbook_4th_ed_1-17-17), 4th edition.
 * [Twice-Exceptional Students](https://www.nagc.org/resources-publications/resources-parents/twice-exceptional-students) (2e).
 
@@ -30,7 +38,7 @@ Listed in the order in which I recommend that you read them.
 * Ronald D. Davis, Eldon M. Braun, 2010. [The Gift of Dyslexia: Why Some of the Smartest People Can't Read...and How They Can Learn](https://wccls.bibliocommons.com/item/show/3241120143). Updated Perigree paperback edition, 2010.
     * [Summit County Library](https://summit.marmot.org/Record/.b29831532)
     * First chapters explain how a dyslexic person deals with disorientation, reading, spelling, math.
-    * The explanation of the reading process in ch. 4 correlates closely to what I observe when Ryker reads.
+    * The explanation of the reading process in ch. 4 correlates closely to what I have observed in GS.
     * "Trigger word list"
     * Davis Symbol Mastery Procedure: dyslexic person creates form of letter or image of word, especially three-dimensional like with clay.
     * Part Four: Doing something about it: A guide for parents, tutors, and educators.
@@ -59,6 +67,7 @@ Listed in the order in which I recommend that you read them.
 
 ### Books - Not recommended
 * Margaret Rooke. 2018. [Dyslexia Is My Superpower (most of the Time): Interviews](https://multcolib.bibliocommons.com/item/show/1159836152).
+    * [Summit County Library](https://summit.marmot.org/Record/.b57097793).
     * Short essays by children who have dyslexia.
     * I do not recommend it as a way to learn more about dyslexia or as a way to learn techniques for helping a dyslexic student.
 * Virginia Wise Berninger. 2016. [Dyslexia, Dysgraphia, OWL LD, and Dyscalculia: Lessons From Science and Teaching](https://wccls.bibliocommons.com/item/show/2661278143). 2nd edition.

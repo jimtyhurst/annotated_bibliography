@@ -8,6 +8,7 @@ This repository holds brief notes that help me remember the details of technical
 * [Step away from the notebook!](./R_package_structure_for_good.md): Use an R package to organize your project
 * [Transit Resources](./transit-notes.md)
 * [Working Remotely](./remote-work-notes.md): Notes
+* [Dyslexia](./dyslexia-notes.md): Notes
 
 
 ---
