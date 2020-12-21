@@ -8,30 +8,24 @@ I use these personal notes to help me remember articles and books that I have re
 
 **Contents**
 
-* [Typing](#typing)
-* [References](#references)
+* [Dyslexia in the context of education](#dyslexia-in-the-context-of-education)
+* [Strategies to help students](#strategies-to-help-students)
     * [Books - Recommended](#books---recommended)
     * [Books - Not recommended](#books---not-recommended)
     * [Books - Not read yet](#books---not-read-yet)
+* [Typing](#typing)
 
 ---
 
 
-## Typing
-* [Touch-type Read & Spell](https://www.readandspell.com/us/dysgraphia#). Learn to touch type. $15/month. For learners with dysgraphia: A program to get children and adults with dysgraphia touch-typing with additional support for spelling.
-    * Sale coupon: BFCM2020 for 35% off on annual subscription.
-    * Based on English words, rather than random sequences of letters.
-    * Speaks the words as you are supposed to type them.
-    * They claim that this additional sound input is helpful for learners with dyslexia or dysgraphia.
-* https://www.typing.com/ : Free typing tutorials.
-    * Starts with individual letters and repetitive sequences of letters, rather than real words.
-
-
-## References
+## Dyslexia in the context of education
 * Colorado Department of Education, Office of Gifted Education. [Twice-Exceptional Students: Gifted Students with Disabilities](https://www.cde.state.co.us/gt/twice-exceptional-information-for-parents).
 * Colorado Department of Education, Office of Gifted Education. [Twice-Exceptional (2e)](http://www.cde.state.co.us/gt/twice-exceptional).
-* Colorado Department of Education. 2017-10. [Twice-Exceptional Students Gifted Students with Disabilities - Level 1: An Introductory Resource Book](https://www.cde.state.co.us/gt/level_1_resource_handbook_4th_ed_1-17-17), 4th edition.
-* [Twice-Exceptional Students](https://www.nagc.org/resources-publications/resources-parents/twice-exceptional-students) (2e).
+* Colorado Department of Education. 2017-10. [Twice-Exceptional Students: Gifted Students with Disabilities - Level 1: An Introductory Resource Book](https://www.cde.state.co.us/gt/level_1_resource_handbook_4th_ed_1-17-17), 4th edition.
+* National Association for Gifted Children. [Twice-Exceptional Students](https://www.nagc.org/resources-publications/resources-parents/twice-exceptional-students) (2e).
+
+
+## Strategies to help students
 
 ### Books - Recommended
 Listed in the order in which I recommend that you read them.
@@ -39,7 +33,8 @@ Listed in the order in which I recommend that you read them.
     * [Summit County Library](https://summit.marmot.org/Record/.b29831532)
     * First chapters explain how a dyslexic person deals with disorientation, reading, spelling, math.
     * The explanation of the reading process in ch. 4 correlates closely to what I have observed in GS.
-    * "Trigger word list"
+    * "Trigger word list": approximately 200 short, commonly used words that are difficult for dyslexics to master. Davis claims that these are difficult words, because they cannot be pictured in the mind.
+        * See also: [Problems with small words](https://blog.dyslexia.com/problems-with-small-words/) and [How to spot trouble with trigger words](https://blog.dyslexia.com/trouble-with-trigger-words/).
     * Davis Symbol Mastery Procedure: dyslexic person creates form of letter or image of word, especially three-dimensional like with clay.
     * Part Four: Doing something about it: A guide for parents, tutors, and educators.
 * Daniel Franklin. 2018. [Helping your child with language-based learning disabilities: Strategies to succeed in school and life with dyslexia, dysgraphia, dyscalculia, ADHD and processing disorders](https://wccls.bibliocommons.com/item/show/3383032143).
@@ -77,3 +72,13 @@ Listed in the order in which I recommend that you read them.
 ### Books - Not read yet
 * Sally E. Shaywitz. 2020. [Overcoming Dyslexia](https://wccls.bibliocommons.com/item/show/3710101143): A Major Update and Revision of the Essential Program for Reading Problems at Any Level, Incorporating the Latest Breakthroughs in Science, Educational Methods, Technology, and Legal Accommodations. 2nd edition.
     * [Summit County Library](https://summit.marmot.org/Record/.b60870059).
+
+
+## Typing
+* [Touch-type Read & Spell](https://www.readandspell.com/us/dysgraphia#). Learn to touch type. $15/month. For learners with dysgraphia: A program to get children and adults with dysgraphia touch-typing with additional support for spelling.
+    * Sale coupon: BFCM2020 for 35% off on annual subscription.
+    * Based on English words, rather than random sequences of letters.
+    * Speaks the words as you are supposed to type them.
+    * They claim that this additional sound input is helpful for learners with dyslexia or dysgraphia.
+* https://www.typing.com/ : Free typing tutorials.
+    * Starts with individual letters and repetitive sequences of letters, rather than real words.
