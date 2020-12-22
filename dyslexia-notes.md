@@ -14,6 +14,8 @@ I use these personal notes to help me remember articles and books that I have re
     * [Books - Not recommended](#books---not-recommended)
     * [Books - Not read yet](#books---not-read-yet)
 * [Typing](#typing)
+* [Sight words](#sight-words)
+* [Trigger words](#trigger-words)
 
 ---
 
@@ -67,7 +69,9 @@ Listed in the order in which I recommend that you read them.
     * I do not recommend it as a way to learn more about dyslexia or as a way to learn techniques for helping a dyslexic student.
 * Virginia Wise Berninger. 2016. [Dyslexia, Dysgraphia, OWL LD, and Dyscalculia: Lessons From Science and Teaching](https://wccls.bibliocommons.com/item/show/2661278143). 2nd edition.
     * Summit County Library: [Interlibrary Loan](https://encore.coalliance.org/iii/encore/record/C__Rb34321141__Orightresult?lang=eng&suite=def).
-    * Very academic. Might be good if you are looking for research on dyslexia.
+    * Has many teaching tips for the classroom teacher about how to cover language studies subjects.
+    * Many of the tips seemed to be material that would be covered anyway in class. It was not clear to me how any of the tips applied specifically to learning disabilities or dyslexia in particular.
+    * Even with the teaching tips, the book is very academic. Might be good if you are looking for research on dyslexia, because there are many references.
 
 ### Books - Not read yet
 * Sally E. Shaywitz. 2020. [Overcoming Dyslexia](https://wccls.bibliocommons.com/item/show/3710101143): A Major Update and Revision of the Essential Program for Reading Problems at Any Level, Incorporating the Latest Breakthroughs in Science, Educational Methods, Technology, and Legal Accommodations. 2nd edition.
@@ -82,3 +86,15 @@ Listed in the order in which I recommend that you read them.
     * They claim that this additional sound input is helpful for learners with dyslexia or dysgraphia.
 * https://www.typing.com/ : Free typing tutorials.
     * Starts with individual letters and repetitive sequences of letters, rather than real words.
+
+
+## Sight words
+* [Sight Words / Tricky Words](https://www.dyslexicadvantage.org/sight-words-tricky-words/).
+    * "Sight words are words that must be memorized by sight, rather than being sounded out phonetically. Sight words are important to learn because once children are able to read the most common 100 sight words, they can read up to 50% of most children’s literature. Mastery of the top 300 words, gives students access to 75% of what is printed in most children’s literature."
+    * [3rd Grade Sight Words](https://www.edhelper.com/themes/SightWords_WordWall5.htm): about, better, bring, carry, clean, cut, done, draw, drink, eight, fall, far, full, got, grow, hold, hot, hurt, if, keep, kind, laugh, light, long, much, myself, never, only, own, pick, seven, shall, show, six, small, start, ten, today, together, try, warm
+* Small, important words that "glue other words together" in syntax. Berninger and Wolf (2016:112).
+    * and, as, but, if, only, since, so, sometimes, than, then, to, what, when, while, yet
+
+## Trigger words
+* Davis and Braun (2010:252-254). The key triggers for disorientation:
+    * a, about, again, ago, all, almost, also, always, an, and, another, any, anyhow, anyway, as, at, away, back, be, am, are, is, was, were, being, been, because, become, became, becoming, becomes, before, between, but, by, can, could, can't, cannot, come, came, comes, coming, could, do, did, does, doing, done, don't, doesn't, down, each, either, else, even, ever, every, everything, for, from, front, full, get, gets, getting, got, go, goes, going, gone, have, had, has, having, he, he's, her, hers, here, him, his, how, I, if, in, into, isn't, it, its, it's, just, last, leave, leaves, leaving, least, left, less, let, lets, let's, letting, like, liked, likes, liking, make, made, makes, making, many, may, maybe, me, mine, more, most, much, my, neither, never, no, none, nor, not, now, of, off, on, one, onto, or, other, others, otherwise, our, ours, out, over, put, puts, putting, run, ran, running, runs, same, see, saw, seen, sees, she she's, shall, should, so, some, soon, stand, standing, stands, stood, such, sure, take, takes, taking, took, than, that, that's, the, their theirs, them, then, there, there's, these, they, they're, this, those, through, to, too, unless, until, up, upon, us, very, we, we're, what, when, where, where's, whether, which, while, who, who's, whose, why, will, with, within, without, won't, would, yet, you, your, you're, yours
