@@ -14,6 +14,8 @@ I use these personal notes to help me remember articles and books that I have re
     * [Books - Not recommended](#books---not-recommended)
     * [Books - Not read yet](#books---not-read-yet)
 * [Typing](#typing)
+* [Sight words](#sight-words)
+* [Trigger words](#trigger-words)
 
 ---
 
