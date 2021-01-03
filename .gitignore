@@ -1,4 +1,7 @@
 
+# Editor files
+.obsidian/
+
 # Mac OS X system files
 .DS_Store
 

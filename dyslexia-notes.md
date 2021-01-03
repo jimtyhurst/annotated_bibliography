@@ -61,6 +61,19 @@ Listed in the order in which I recommend that you read them.
     * Not available through Summit County Libraries.
     * The author is a teacher who is dyslexic herself.
     * The spelling exercises seemed odd to me, but the "hand skills" and "practice tasks" to improve writing looked useful.
+    * Handwriting improvement exercises
+        * Hand skills
+            * Using the hand that you write with, crumple up a piece of paper.
+            * Using a soft ball, roll the ball around on a hard surface, using the hand that you write with. Roll the ball up to your elbow and back and roll it around with your hand for a second time, moving it to the outer edge of your fingers this time.
+            * Using the hand that you write with, break placsticine (play-doh) into 3 small pieces. Then use your thumb, the finger next to it and your middle finger to create a pincer/triangle shape. When that position has been formed, use your thumb and fingers to roll the plasticine into a ball.
+        * Practice tasks with lined paper
+            * Within the lines, draw a series of parallel vertical lines. Try to make them straight and the same length.
+            * Within the lines, draw a series of horizontal liines. Try to make them straight and the same length. Try to fit three lines between each pair of lines on the page.
+            * Draw clouds inside the lines to practise the curves of some letters.
+            * Repeat as often as possible and monitor improvement in your handwriting.
+        * Air brush
+            * Use a large paint brush to draw straight lines in the air.
+            * Use the same brush to draw out a letter that they wanted to improve whilst closing their eyes and thinking of a perfect image of that letter.
 
 ### Books - Not recommended
 * Margaret Rooke. 2018. [Dyslexia Is My Superpower (most of the Time): Interviews](https://multcolib.bibliocommons.com/item/show/1159836152).
