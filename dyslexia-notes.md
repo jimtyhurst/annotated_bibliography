@@ -42,6 +42,12 @@ Listed in the order in which I recommend that you read them.
 * Daniel Franklin. 2018. [Helping your child with language-based learning disabilities: Strategies to succeed in school and life with dyslexia, dysgraphia, dyscalculia, ADHD and processing disorders](https://wccls.bibliocommons.com/item/show/3383032143).
     * [Summit County Library](https://summit.marmot.org/GroupedWork/44439481-2a2f-4a96-36de-31aaa9a0a630).
     * Many practical tips for helping a student.
+* Sally Shaywitz M.D., Jonathan Shaywitz, M.D. 2020. [Overcoming Dyslexia](https://multcolib.bibliocommons.com/item/show/1490871152), 2nd Edition.
+    * [Summit County Library](https://summit.marmot.org/OverDrive/cf751308-3dd2-43c8-8c2d-a584bf7e45d9/Home?searchId=&recordIndex=1&page=) ebook.
+    * "A major update and revision of the essential program for reading problems at any level, incorporating the latest breakthroughs in science, educational methods, technology, and legal accommodations."
+    * Typing
+        * "Teach your child to touch type as early as possible. First grade works for many children."
+    * "dysgraphia" is not in the index. There are only a couple of brief mentions of writing and handwriting.
 * Brock L. Eide M.D. M.A., Fernette F. Eide M.D. 2011. [The Dyslexic Advantage: Unlocking the Hidden Potential of the Dyslexic Brain](https://wccls.bibliocommons.com/item/show/1676763143).
     * [Summit County Library](https://summit.marmot.org/Record/.b33442137)
     * MIND strengths:
