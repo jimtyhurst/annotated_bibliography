@@ -48,6 +48,27 @@ Listed in the order in which I recommend that you read them.
     * Typing
         * "Teach your child to touch type as early as possible. First grade works for many children."
     * "dysgraphia" is not in the index. There are only a couple of brief mentions of writing and handwriting.
+    * I found chapters 11 and 12 to be very helpful:
+        * 11. Should my child be evaluated for dyslexia?
+        * 12. Diagnosing dyslexia in the school-age child
+    * Key symptom that should lead to full evaluation for dyslexia: large gap between high intelligence and poor reading skills. (p. 158)
+        * Test scores from psychometric measures are not necessarily sufficient to establish the presence or absence of dyslexia. Instead, knowledge of the individual's history, clinical observations, behavioral observations, and judgment are essential to a diagnosis.
+    * Typical dyslexia pattern (p. 164):
+        * difficulty reading single words
+        * poor phonological skills
+        * particular difficulty decoding nonsense or unfamiliar words
+        * particular difficulty in reading sinigle words when speed is required
+        * lack of fluency as demonstrated by inaccurate, slow, and labored oral reading and a lack of inflection (prosody) reflecting the content
+        * trouble reading short function words: {that, is, an, for}
+        * poor spelling
+        * reading comprehension often superior to decoding individual words
+        * average or even superior intelligence
+        * disparity between intelligence and reading
+    * Chapter 16. All children can be taught to read
+    * Chapter 17. Helping your child break the reading code
+        * rhyme
+        * segmenting/blending
+    * Chapter 18. `Helping your child become a reader` has specific exercises and word lists to learn phonological patterns, syllable patterns, prefixes, suffixes, sight words.
 * Brock L. Eide M.D. M.A., Fernette F. Eide M.D. 2011. [The Dyslexic Advantage: Unlocking the Hidden Potential of the Dyslexic Brain](https://wccls.bibliocommons.com/item/show/1676763143).
     * [Summit County Library](https://summit.marmot.org/Record/.b33442137)
     * MIND strengths:
