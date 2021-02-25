@@ -4,11 +4,13 @@ This repository holds brief notes that help me remember the details of technical
 
 **Index**
 
-* [Data Pipeline Tools](./ml-workflow-tools.md): An Annotated Bibliography
-* [Step away from the notebook!](./R_package_structure_for_good.md): Use an R package to organize your project
-* [Transit Resources](./transit-notes.md)
-* [Working Remotely](./remote-work-notes.md): Notes
-* [Dyslexia](./dyslexia-notes.md): Notes
+* [Data Pipeline Tools](./ml-workflow-tools.md): Annotated Bibliography.
+* [Step away from the notebook!](./R_package_structure_for_good.md): Use an R package to organize your project.
+* [10 Git Commands for Collaborating](https://github.com/jimtyhurst/git-10-commands/blob/main/10-Git-Commands-for-Collaborating.pdf): Learn Just Enough Git and GitHub to Contribute to an Open Source Project.
+* [Machine Learning: Resources in Portland, Oregon, United States](https://github.com/jimtyhurst/ml-resources-Portland-OR-USA/blob/master/ml-resources-Portland-OR-USA.md): A list of groups meeting in Portland, mostly focused on machine learning, artificial intelligence, or data science.
+* [Transit Resources](./transit-notes.md): Annotated Bibliography.
+* [Working Remotely](./remote-work-notes.md): Notes.
+* [Dyslexia](./dyslexia-notes.md): Notes.
 
 
 ---
