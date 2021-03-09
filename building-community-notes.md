@@ -1,6 +1,6 @@
 # Community Building: Notes
 [Jim Tyhurst](https://www.jimtyhurst.com)  
-Revised: 2021-02-07
+Revised: 2021-03-09
 
 **Contents**
 
