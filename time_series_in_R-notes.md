@@ -95,7 +95,7 @@ Use 3 libraries:
     * developed at Amazon.
     * Use Reticulate to combine Gluon and R.
 
-Related blogs:
+Related blog posts:
 
 * Time Series in 5-Minutes
     * Part 1: [Data Wrangling and Rolling Calculations](https://www.business-science.io/code-tools/2020/08/19/five-minute-time-series-rolling-calculations.html)
@@ -104,6 +104,14 @@ Related blogs:
     * Part 4: [Seasonality](https://www.business-science.io/code-tools/2020/08/26/five-minute-time-series-seasonality.html)
     * Part 5: [Anomalies and Anomaly Detection](https://www.business-science.io/code-tools/2020/09/02/five-minute-time-series-anomaly-detection.html)
     * Part 6: [Modeling Time Series Data](https://www.business-science.io/code-tools/2020/09/09/five-minute-time-series-modeling-data.html)
+
+Releated podcasts:
+
+* SuperDataScience. [SDS 463: Time Series Analysis](https://www.superdatascience.com/podcast/time-series-analysis). Jon Krohn interviews Matt Dancho. See especially:
+    * Matt’s 6 time series models [14:11]
+    * Timetk [15:02]
+    * Modeltime [29:32]
+    * Gluon package [36:04]
 
 ## R Books
 * Rob J. Hyndman. 2021. [Forecasting: Principles and Practice](https://otexts.com/fpp3/), 3rd edition. Free to read online.
