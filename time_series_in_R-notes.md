@@ -10,10 +10,13 @@
 * [Twitter: AnomalyDetection](#twitter-anomalydetection)
 * [Google: `CausalImpact` package](#google-causalimpact-package)
 * [Online Courses](#online-courses)
-    * [Coursera: Intro to Time Series Analysis in R](#coursera-intro-to-time-series-analysis-in-r)
-    * [Coursera: Time series forecasting with Prophet](#coursera-time-series-forecasting-with-prophet)
-    * [Georgia Institute of Technology: Introduction to Analytics Modeling](#georgia-institute-of-technology-introduction-to-analytics-modeling).
-    * [Matt Dancho: High-Performance Time Series Forecasting course](#matt-dancho-high-performance-time-series-forecasting-course)
+    * [Free courses](#free-courses)
+        * [Coursera: Intro to Time Series Analysis in R](#coursera-intro-to-time-series-analysis-in-r)
+        * [SUNY Online: Practical Time Series Analysis](#suny-online-practical-time-series-analysis)
+        * [Coursera: Time series forecasting with Prophet](#coursera-time-series-forecasting-with-prophet)
+        * [Georgia Institute of Technology: Introduction to Analytics Modeling](#georgia-institute-of-technology-introduction-to-analytics-modeling).
+    * [Paid courses](#paid-courses)
+        * [Matt Dancho: High-Performance Time Series Forecasting course](#matt-dancho-high-performance-time-series-forecasting-course)
 * [R Books](#r-books)
 * [Python Books](#python-books)
 
@@ -68,16 +71,21 @@ Related blog posts:
 * [GitHub repository](https://github.com/google/CausalImpact).
 
 ## Online Courses
-### Coursera: Intro to Time Series Analysis in R
+### Free Courses
+#### Coursera: Intro to Time Series Analysis in R
 [Intro to Time Series Analysis in R](https://www.coursera.org/projects/intro-time-series-analysis-in-r). Coursera Guided Project. 2-hour project-based course.
 
-### Coursera: Time series forecasting with Prophet
+#### SUNY Online: Practical Time Series Analysis
+Tural Sadigov, William Thistleton. [Practical Time Series Analysis](https://www.coursera.org/learn/practical-time-series-analysis). 6-week course. 
+
+#### Coursera: Time series forecasting with Prophet
 [Time series forecasting with Prophet](https://www.coursera.org/projects/time-series-forecasting-with-prophet). Coursera Guided Project. 1-hour project.
 
-### Georgia Institute of Technology: Introduction to Analytics Modeling
+#### Georgia Institute of Technology: Introduction to Analytics Modeling
 [Introduction to Analytics Modeling](https://www.edx.org/course/introduction-to-analytics-modeling). Free online course at [edX](https://www.edx.org/). Week 3 covers "Time Series Models".
 
-### Matt Dancho: High-Performance Time Series Forecasting course
+### Paid Courses
+#### Matt Dancho: High-Performance Time Series Forecasting course
 https://university.business-science.io/p/ds4b-203-r-high-performance-time-series-forecasting/
 
 Cost: $499
