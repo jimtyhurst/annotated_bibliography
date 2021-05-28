@@ -76,13 +76,14 @@ Related blog posts:
 Vinod Bakthavachalam. [Intro to Time Series Analysis in R](https://www.coursera.org/projects/intro-time-series-analysis-in-r). Coursera Guided Project.
 
 * Introduction to basic terminology for time series.
-* Showed how to build several types of models and then forecast with them: AR, MA, ARMA, ARIMA, STL.
-* Relies mostly on the [forecast](https://robjhyndman.com/publications/automatic-forecasting/) package.
-* The syllabus says it is a 2-hour project-based course.
-* However it took me twice that long, because I stopped to look up terms and experimented with sample code.
+* Shows how to build several types of models and then forecast with them: AR(p), MA(q), ARMA(p,q), ARIMA(p,d,q), [STL](https://rdocumentation.org/packages/stats/versions/3.6.2/topics/stl).
+* Relies mostly on the [forecast](https://robjhyndman.com/publications/automatic-forecasting/) package, including `forecast::auto.arima` to create models.
+* The syllabus says it is a 2-hour project-based course. However it took me twice that long, because I stopped to look up terms and experimented with sample code.
 
 #### SUNY Online: Practical Time Series Analysis
-Tural Sadigov, William Thistleton. [Practical Time Series Analysis](https://www.coursera.org/learn/practical-time-series-analysis). 6-week course. 
+Tural Sadigov, William Thistleton. [Practical Time Series Analysis](https://www.coursera.org/learn/practical-time-series-analysis). 6-week course.
+
+* "If you are on the job and all of a sudden you have to look at time series data, and your mathematical background did not include a study of time series or stochastic processes, this course will help give you a nice overview, a very practical approach to where time series come from and how people manage them."
 
 #### Coursera: Time series forecasting with Prophet
 [Time series forecasting with Prophet](https://www.coursera.org/projects/time-series-forecasting-with-prophet). Coursera Guided Project. 1-hour project.
