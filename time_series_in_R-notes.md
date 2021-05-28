@@ -73,7 +73,13 @@ Related blog posts:
 ## Online Courses
 ### Free Courses
 #### Coursera: Intro to Time Series Analysis in R
-[Intro to Time Series Analysis in R](https://www.coursera.org/projects/intro-time-series-analysis-in-r). Coursera Guided Project. 2-hour project-based course.
+Vinod Bakthavachalam. [Intro to Time Series Analysis in R](https://www.coursera.org/projects/intro-time-series-analysis-in-r). Coursera Guided Project.
+
+* Introduction to basic terminology for time series.
+* Showed how to build several types of models and then forecast with them: AR, MA, ARMA, ARIMA, STL.
+* Relies mostly on the [forecast](https://robjhyndman.com/publications/automatic-forecasting/) package.
+* The syllabus says it is a 2-hour project-based course.
+* However it took me twice that long, because I stopped to look up terms and experimented with sample code.
 
 #### SUNY Online: Practical Time Series Analysis
 Tural Sadigov, William Thistleton. [Practical Time Series Analysis](https://www.coursera.org/learn/practical-time-series-analysis). 6-week course. 
