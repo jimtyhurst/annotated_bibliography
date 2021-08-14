@@ -25,8 +25,7 @@ Listed in reverse chronological order.
         2. active members
         3. power members
         4. leaders
-* Create Community podcast
-    * https://www.createcommunitypod.com/
+* [Create Community podcast](https://www.createcommunitypod.com/)
     * [Marsha Druker](https://twitter.com/MarshaDruker)
     * 2021-06-15: Episode 45: [Scaling Your Community With Integrity](https://www.createcommunitypod.com/episodes/ashley-barby)
         * [Ashley Barby](https://twitter.com/ashleyhbarby)
