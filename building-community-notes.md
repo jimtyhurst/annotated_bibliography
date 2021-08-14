@@ -1,6 +1,6 @@
 # Community Building: Notes
 [Jim Tyhurst](https://www.jimtyhurst.com)  
-Revised: 2021-03-09
+Revised: 2021-08-13
 
 **Contents**
 
@@ -10,20 +10,15 @@ Revised: 2021-03-09
 ---
 
 ## References
-* Jono Bacon. 2019. People powered: How communities can supercharge your business, brand, and teams.
-    * Three community engagement models:
-        * Consumers: pull together people who share a common interest.
-        * Champions: actively delivering work that champions the success of the community and its members. The work is primarily done as individual contributors.
-        * Collaborators: members actively work together as a team on shared projects.
-    * Must be clear on what _value_ you provide to participants.
-    * Measure and assess work through unambiguous metrics.
-    * Measure both _action_ and _validation_, i.e. whether the action is any good or not.
-    * 10 culture cores (p. 182-188).
-    * Build an engagement strategy.
-* Bill Bishop. 2009. The big sort: Why the clustering of like-minded American is tearing us apart.
-    * People like to be with people who are like them.
-    * Examples from Don McGavran's writings on Christian missions. Churches with small groups have been especially effective at growing.
-    * Discusses Portland as a self-selecting population of people moving to Portland.
+Listed in reverse chronological order.
+
+* Create Community podcast
+    * https://www.createcommunitypod.com/
+    * [Marsha Druker](https://twitter.com/MarshaDruker)
+    * 2021-06-15: Episode 45: [Scaling Your Community With Integrity](https://www.createcommunitypod.com/episodes/ashley-barby)
+        * [Ashley Barby](https://twitter.com/ashleyhbarby)
+        * Advantage of going online during COVID-19 was global reach. Many people participated in online conference from other countries.
+        * Problem: Replicating the personal networking that happens in-person at a conference.
 * Sara Horowitz. 2021. Mutualism: Building the next economy from the ground up.
     * Author is the founder of [Freelancers Union](https://www.freelancersunion.org/).
     * Focus on workers uniting to provide their own safety net.
@@ -45,6 +40,16 @@ Revised: 2021-03-09
         * Talent recruitment and retention
         * Advancing movements
         * Community forum
+* Jono Bacon. 2019. People powered: How communities can supercharge your business, brand, and teams.
+    * Three community engagement models:
+        * Consumers: pull together people who share a common interest.
+        * Champions: actively delivering work that champions the success of the community and its members. The work is primarily done as individual contributors.
+        * Collaborators: members actively work together as a team on shared projects.
+    * Must be clear on what _value_ you provide to participants.
+    * Measure and assess work through unambiguous metrics.
+    * Measure both _action_ and _validation_, i.e. whether the action is any good or not.
+    * 10 culture cores (p. 182-188).
+    * Build an engagement strategy.
 * Frédéric Laloux. 2014. Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness. 1st edition.
     * Defines a continuum of organization types and then discusses how to move along the continuum.
     * Emphasis on self-managing, small groups of workers.
@@ -62,3 +67,7 @@ Revised: 2021-03-09
     * Discusses studies that have found that people will act far more cooperatively than previously believed, rather than selfish creatures, driven by their own self-interest.
     * Penguin: open source.
     * Leviathan: from Thomas Hobbes: governments must step in to control us, so that our self-interest does not destroy one another.
+* Bill Bishop. 2009. The big sort: Why the clustering of like-minded American is tearing us apart.
+    * People like to be with people who are like them.
+    * Examples from Don McGavran's writings on Christian missions. Churches with small groups have been especially effective at growing.
+    * Discusses Portland as a self-selecting population of people moving to Portland.
