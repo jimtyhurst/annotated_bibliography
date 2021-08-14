@@ -52,7 +52,7 @@ Listed in reverse chronological order.
     * Bringing in the right people to build this foundation takes time.
     * It's not quick, it's not easy, and in the beginning, it's not scalable. It's about developing personal relationships, building trust, and most importantly, having a shared set of values that span across the company and the community.
     * Incentivization: e.g. perks/swag, top contributor programs, community feedback, and community culture+values.
-* Carrie Melissa Jones, Charles Vogl. 2020. Building Brand Communities: How Organizations Succeed by Creating Belonging.
+* Carrie Melissa Jones, Charles Vogl. 2020. [Building Brand Communities: How Organizations Succeed by Creating Belonging](https://www.buildingbrandcommunities.com/).
     * Common ways authentic communities serve organizational goals:
         * Innovation
         * Customer and stakeholder retention
