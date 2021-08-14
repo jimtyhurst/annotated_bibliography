@@ -6,12 +6,20 @@ Revised: 2021-08-13
 
 * [References](#references)
 
-
 ---
 
 ## References
 Listed in reverse chronological order.
 
+* David Spinks. 2021. [The business of belonging](https://wccls.bibliocommons.com/v2/record/S143C3868941): How to make community your competitive advantage.
+    * People are looking for a sense of belonging. 
+    * [SPACES Model](https://cmxhub.com/the-spaces-model/): defining the business value of community:
+        1. Support
+        2. Product
+        3. Acquisition
+        4. Contribution
+        5. Engagement
+        6. Success
 * Create Community podcast
     * https://www.createcommunitypod.com/
     * [Marsha Druker](https://twitter.com/MarshaDruker)
@@ -50,14 +58,23 @@ Listed in reverse chronological order.
     * Measure both _action_ and _validation_, i.e. whether the action is any good or not.
     * 10 culture cores (p. 182-188).
     * Build an engagement strategy.
+* David Spinks. 2018-09-26. [The 7P's of Community: A simple framework for building belonging](https://cmxhub.com/the-7ps-of-community/).
+    1. Purpose: Clearly define your goal.
+    2. People: Choose the right members and leaders.
+    3. Place: Gather in a compelling space.
+    4. Participation: Take your members on a journey.
+    5. Policy: Enforce a clear set of rules.
+    6. Promotion: Start small then scale.
+    7. Performance: Measure everything.
+* Carrie Melissa Jones, Harmony Leanna Eichsteadt. April 2017. [CMX Guide to Community Platforms, 2nd edition](https://cmxhub.com/wp-content/uploads/2021/07/40618671-0-CMX-Guide-to-Community-Platforms.pdf).
+* Frédéric Laloux. 2016. Reinventing Organizations: An Illustrated Invitation to Join the Conversation on Next-Stage Organizations.
+    * Condensed version of the 2014 book.
+    * "This illustrated version conveys the main ideas of the original book and shares many of its real-life stories in a lively, engaging way."
 * Frédéric Laloux. 2014. Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness. 1st edition.
     * Defines a continuum of organization types and then discusses how to move along the continuum.
     * Emphasis on self-managing, small groups of workers.
     * Gives examples, e.g. Dutch nursing organization, Buurtzorg, which performs better in many dimensions than centralized groups that claim to provide economies of scale.
     * trust vs control
-* Frédéric Laloux. 2016. Reinventing Organizations: An Illustrated Invitation to Join the Conversation on Next-Stage Organizations.
-    * Condensed version of the 2014 book.
-    * "This illustrated version conveys the main ideas of the original book and shares many of its real-life stories in a lively, engaging way."
 * Matthew D. Lieberman. 2013. Social: Why our brains are wired to connect.
     * Three major adaptations in our brains that lead us to be more connected to the social world and better able to take advantage of these social connections to build more cohesive groups and organizations.
         * Connection: capacity to feel social pains and pleasures.
