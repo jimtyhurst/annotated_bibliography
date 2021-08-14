@@ -20,6 +20,11 @@ Listed in reverse chronological order.
         4. Contribution
         5. Engagement
         6. Success
+    * Four levels of participation:
+        1. passive members
+        2. active members
+        3. power members
+        4. leaders
 * Create Community podcast
     * https://www.createcommunitypod.com/
     * [Marsha Druker](https://twitter.com/MarshaDruker)
@@ -39,6 +44,15 @@ Listed in reverse chronological order.
     * Chapter 10. _The Future of You: How to Build_ has practical advice for how to build a mutualist organization from the ground up.
     * She draws a distinction between "a summation of individuals" and a "collective of individuals", where most modern technology platforms are just gathering individuals, but not facilitating real interaction to foster long-term in-person or connected human relationships.
     * "These platforms may galvanize individuals quickly, but they don't build lasting collective institutions."
+* Holly Firestone. 2020-05-22. [Oh SNAP! A Community Incentivization Framework](https://hollyfirestone.medium.com/oh-snap-d0dfad89e79f).
+    * SNAP: Status, Networking, Access, and Perks.
+        * Status: Titles, badges, identity
+        * Networking: Opportunities to network and connect with others in an exclusive group/community of people like them
+        * Access: Special access to product managers, executives, beta testing/feedback opportunities, product roadmaps
+        * Perks: Free tickets to events, swag, free training, special offers
+    * Bringing in the right people to build this foundation takes time.
+    * It's not quick, it's not easy, and in the beginning, it's not scalable. It's about developing personal relationships, building trust, and most importantly, having a shared set of values that span across the company and the community.
+    * incentivization: e.g. perks/swag, top contributor programs, community feedback, and community culture+values.
 * Carrie Melissa Jones, Charles Vogl. 2020. Building Brand Communities: How Organizations Succeed by Creating Belonging.
     * Common ways authentic communities serve organizational goals:
         * Innovation
