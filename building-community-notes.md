@@ -46,10 +46,10 @@ Listed in reverse chronological order.
     * "These platforms may galvanize individuals quickly, but they don't build lasting collective institutions."
 * Holly Firestone. 2020-05-22. [Oh SNAP! A Community Incentivization Framework](https://hollyfirestone.medium.com/oh-snap-d0dfad89e79f).
     * SNAP: Status, Networking, Access, and Perks.
-        * Status: Titles, badges, identity
-        * Networking: Opportunities to network and connect with others in an exclusive group/community of people like them
-        * Access: Special access to product managers, executives, beta testing/feedback opportunities, product roadmaps
-        * Perks: Free tickets to events, swag, free training, special offers
+        * Status: Titles, badges, identity.
+        * Networking: Opportunities to network and connect with others in an exclusive group/community of people like them.
+        * Access: Special access to product managers, executives, beta testing/feedback opportunities, product roadmaps.
+        * Perks: Free tickets to events, swag, free training, special offers.
     * Bringing in the right people to build this foundation takes time.
     * It's not quick, it's not easy, and in the beginning, it's not scalable. It's about developing personal relationships, building trust, and most importantly, having a shared set of values that span across the company and the community.
     * incentivization: e.g. perks/swag, top contributor programs, community feedback, and community culture+values.
