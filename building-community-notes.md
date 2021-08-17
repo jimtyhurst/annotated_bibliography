@@ -11,6 +11,11 @@ Revised: 2021-08-13
 ## References
 Listed in reverse chronological order.
 
+* David Spinks. 2021-08-16. [[Greatest Hits] The Unbundling of Internet Communities w/ Greg Isenberg](https://pod.cmxhub.com/episodes/greg-isenberg).
+    * 3 key takeaways:
+        * The benefits of a community existing on a platform that was created specifically for their community and tailored to its mission
+        * The truth about venture capital funding in the community industry
+        * The impact of showing up for your community consistently and with deep commitment to its purpose
 * David Spinks. 2021. [The business of belonging](https://wccls.bibliocommons.com/v2/record/S143C3868941): How to make community your competitive advantage.
     * People are looking for a sense of belonging. 
     * [SPACES Model](https://cmxhub.com/the-spaces-model/): defining the business value of community:
@@ -25,6 +30,10 @@ Listed in reverse chronological order.
         2. active members
         3. power members
         4. leaders
+* [Greg Isenberg](https://latecheckout.substack.com/). 2020-11-15. [Social media predictions for 2021](https://latecheckout.substack.com/p/social-media-predictions-for-2021).
+    * Isenberg's blog posts and podcast appearances talk about "unbundling" communities, i.e. developing specific software customized for a particular community, rather than that community hosting on a generic platform like Facebook Groups.
+    * Isenberg also talks a lot about how to monetize communities.
+    * One of [his interviews](https://pando.com/2020/08/25/greg-isenberg-unbundling-internet/) provides a good overview of these topics.
 * [Create Community podcast](https://www.createcommunitypod.com/)
     * [Marsha Druker](https://twitter.com/MarshaDruker)
     * 2021-06-15: Episode 45: [Scaling Your Community With Integrity](https://www.createcommunitypod.com/episodes/ashley-barby)
