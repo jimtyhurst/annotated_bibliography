@@ -1,6 +1,6 @@
 # Community Building: Notes
 [Jim Tyhurst](https://www.jimtyhurst.com)  
-Revised: 2021-08-13
+Revised: 2021-08-17
 
 **Contents**
 
@@ -16,6 +16,8 @@ Listed in reverse chronological order.
         * The benefits of a community existing on a platform that was created specifically for their community and tailored to its mission
         * The truth about venture capital funding in the community industry
         * The impact of showing up for your community consistently and with deep commitment to its purpose
+    * Building a community is a long, slow effort, but venture capital is looking to grow fast for quick results. They do not work well together.
+    * Providing _access_ is often a great way to reward active members, e.g. preview products, meet leaders, early information, etc.
 * David Spinks. 2021. [The business of belonging](https://wccls.bibliocommons.com/v2/record/S143C3868941): How to make community your competitive advantage.
     * People are looking for a sense of belonging. 
     * [SPACES Model](https://cmxhub.com/the-spaces-model/): defining the business value of community:
@@ -40,7 +42,7 @@ Listed in reverse chronological order.
         * [Ashley Barby](https://twitter.com/ashleyhbarby)
         * Advantage of going online during COVID-19 was global reach. Many people participated in online conference from other countries.
         * Problem: Replicating the personal networking that happens in-person at a conference.
-* Sara Horowitz. 2021. Mutualism: Building the next economy from the ground up.
+* Sara Horowitz. 2021. [Mutualism: Building the next economy from the ground up](https://multcolib.bibliocommons.com/v2/record/S152C1735431).
     * Author is the founder of [Freelancers Union](https://www.freelancersunion.org/).
     * Focus on workers uniting to provide their own safety net.
     * Part 1 is a history of mutualist societies.
@@ -70,7 +72,7 @@ Listed in reverse chronological order.
         * Talent recruitment and retention
         * Advancing movements
         * Community forum
-* Jono Bacon. 2019. People powered: How communities can supercharge your business, brand, and teams.
+* Jono Bacon. 2019. [People powered: How communities can supercharge your business, brand, and teams](https://multcolib.bibliocommons.com/v2/record/S152C1430981).
     * Three community engagement models:
         * Consumers: pull together people who share a common interest.
         * Champions: actively delivering work that champions the success of the community and its members. The work is primarily done as individual contributors.
@@ -89,24 +91,24 @@ Listed in reverse chronological order.
     6. Promotion: Start small then scale.
     7. Performance: Measure everything.
 * Carrie Melissa Jones, Harmony Leanna Eichsteadt. April 2017. [CMX Guide to Community Platforms, 2nd edition](https://cmxhub.com/wp-content/uploads/2021/07/40618671-0-CMX-Guide-to-Community-Platforms.pdf).
-* Frédéric Laloux. 2016. Reinventing Organizations: An Illustrated Invitation to Join the Conversation on Next-Stage Organizations.
+* Frédéric Laloux. 2016. [Reinventing Organizations: An Illustrated Invitation to Join the Conversation on Next-Stage Organizations](https://multcolib.bibliocommons.com/v2/record/S152C3089).
     * Condensed version of the 2014 book.
     * "This illustrated version conveys the main ideas of the original book and shares many of its real-life stories in a lively, engaging way."
-* Frédéric Laloux. 2014. Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness. 1st edition.
+* Frédéric Laloux. 2014. [Reinventing Organizations: A Guide to Creating Organizations Inspired by the Next Stage of Human Consciousness](https://multcolib.bibliocommons.com/v2/record/S152C1123792). 1st edition.
     * Defines a continuum of organization types and then discusses how to move along the continuum.
     * Emphasis on self-managing, small groups of workers.
     * Gives examples, e.g. Dutch nursing organization, Buurtzorg, which performs better in many dimensions than centralized groups that claim to provide economies of scale.
     * trust vs control
-* Matthew D. Lieberman. 2013. Social: Why our brains are wired to connect.
+* Matthew D. Lieberman. 2013. [Social: Why our brains are wired to connect](https://multcolib.bibliocommons.com/v2/record/S152C1318932).
     * Three major adaptations in our brains that lead us to be more connected to the social world and better able to take advantage of these social connections to build more cohesive groups and organizations.
         * Connection: capacity to feel social pains and pleasures.
         * Mindreading: understand the actions and thoughts of those around them.
         * Harmonizing: allowing group beliefs and values to influence our own.
-* Yochai Benkler. 2011. The penguin and the leviathan: The triumph of cooperation over self-interest.
+* Yochai Benkler. 2011. [The penguin and the leviathan: The triumph of cooperation over self-interest](https://multcolib.bibliocommons.com/v2/record/S152C410309).
     * Discusses studies that have found that people will act far more cooperatively than previously believed, rather than selfish creatures, driven by their own self-interest.
     * Penguin: open source.
     * Leviathan: from Thomas Hobbes: governments must step in to control us, so that our self-interest does not destroy one another.
-* Bill Bishop. 2009. The big sort: Why the clustering of like-minded American is tearing us apart.
+* Bill Bishop. 2009. [The big sort: Why the clustering of like-minded American is tearing us apart](https://multcolib.bibliocommons.com/v2/record/S152C167808).
     * People like to be with people who are like them.
     * Examples from Don McGavran's writings on Christian missions. Churches with small groups have been especially effective at growing.
     * Discusses Portland as a self-selecting population of people moving to Portland.
