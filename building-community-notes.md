@@ -16,6 +16,8 @@ Listed in reverse chronological order.
         * The benefits of a community existing on a platform that was created specifically for their community and tailored to its mission
         * The truth about venture capital funding in the community industry
         * The impact of showing up for your community consistently and with deep commitment to its purpose
+    * Building a community is a long, slow effort, but venture capital is looking to grow fast for quick results. They do not work well together.
+    * Providing _access_ is often a great way to reward active members, e.g. preview products, meet leaders, early information, etc.
 * David Spinks. 2021. [The business of belonging](https://wccls.bibliocommons.com/v2/record/S143C3868941): How to make community your competitive advantage.
     * People are looking for a sense of belonging. 
     * [SPACES Model](https://cmxhub.com/the-spaces-model/): defining the business value of community:
@@ -40,7 +42,7 @@ Listed in reverse chronological order.
         * [Ashley Barby](https://twitter.com/ashleyhbarby)
         * Advantage of going online during COVID-19 was global reach. Many people participated in online conference from other countries.
         * Problem: Replicating the personal networking that happens in-person at a conference.
-* Sara Horowitz. 2021. Mutualism: Building the next economy from the ground up.
+* Sara Horowitz. 2021. [Mutualism: Building the next economy from the ground up](https://multcolib.bibliocommons.com/v2/record/S152C1735431).
     * Author is the founder of [Freelancers Union](https://www.freelancersunion.org/).
     * Focus on workers uniting to provide their own safety net.
     * Part 1 is a history of mutualist societies.
