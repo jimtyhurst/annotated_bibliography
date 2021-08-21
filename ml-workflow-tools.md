@@ -1,7 +1,7 @@
 # Data Pipeline Tools: An Annotated Bibliography
 
 [Jim Tyhurst](https://www.jimtyhurst.com)<br>
-2020-07-15
+2020-08-21
 
 **Table of Contents**
 
@@ -42,6 +42,11 @@ The purpose of this document is to provide a quick reference to software tools, 
 I am mostly interested in cleaning and transforming data for machine learning or statistical analysis. Therefore, I have not included any "extract, transform, load" (ETL) tools, which are typically limited to transforming data from one SQL database to another, although that certainly qualifies as a "data pipeline" also.
 
 This is a work in process and I am just getting started. Any additions or corrections would be appreciated.
+
+### Typical stages in a data pipeline
+![Structure of data pipelines](./images/ml-workflow-tools/z6-PipelineHealthcheck.png)
+
+From Shivnath Babu. 2021-08-02. Data Pipeline HealthCheck for Correctness, Performance, and Cost Efficiency. [Apache Summit 2021](https://airflowsummit.org/sessions/2021/). [Slides](https://airflowsummit.org/slides/2021/z6-PipelineHealthcheck.pdf), p. 6. [Video](https://www.youtube.com/watch?v=rvl-9cldMiU).
 
 ## Notation
 Descriptions in quotes are taken directly from the tool's documentation or web site.
