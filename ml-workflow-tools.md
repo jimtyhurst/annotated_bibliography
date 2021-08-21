@@ -1,7 +1,7 @@
 # Data Pipeline Tools: An Annotated Bibliography
 
 [Jim Tyhurst](https://www.jimtyhurst.com)<br>
-2020-07-15
+2020-08-21
 
 **Table of Contents**
 
