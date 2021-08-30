@@ -1,6 +1,6 @@
 # Working Remotely: Notes
 [Jim Tyhurst](https://www.jimtyhurst.com)<br>
-Revised: 2020-08-13
+Revised: 2021-08-30
 
 **Contents**
 
@@ -15,6 +15,20 @@ Revised: 2020-08-13
 
 
 ## References
+* James M. Citrin, Darleen DeRosa. 2021-05-21. Leading at a distance: Practical Lessons for Virtual Success.
+    * This book focuses on how leaders in large corporations should manage workers and company culture, given the increased number of remote workers.
+    * This book is a rewrite of:
+        Richard Lepsinger, Darleen DeRosa. 2010. [Virtual Team Success: A Practical Guide for Working and Leading From a Distance](https://multcolib.bibliocommons.com/v2/record/S152C803245). Lepsinger and DeRosa (2010) is listed separately below.
+    * Ch 1. What we learned from the pandemic: Our research shows remote work is here to stay.
+    * Ch 2. No trust = No team: The formula for building cohesive relationships virtually.
+    * Ch 3. What does good look like? Profile of high-performing virtual teams.
+    * Ch 4. How to RAMP up your virtual team's performance: A blueprint for success.
+    * Ch 5. Out of sight, not out of mind: How to inspire and motivate from afar.
+    * Ch 6. "You're on mute": The ultimate guide for hosting virtual meetings.
+    * Ch 7. Hiring without a handshake: Discovering successful virtual leaders.
+    * Ch 8. Surviving day one: A toolkit for remote onboarding.
+    * Ch 9. Continuous improvement: High-impact coaching and accountability at a distance.
+    * Ch 10. The culture conundrum: Building and sustaining culture virtually.
 * Jason Fried. 2013. Remote: Office not required.
     * Excellent discussion of many aspects of teams of remote workers.  
     * Available at [Multnomah County Libraries](https://multcolib.bibliocommons.com/item/show/988198152), [Washington County Libraries](https://wccls.bibliocommons.com/item/show/2108581143), [Clackamas County Libraries](https://lincc.ent.sirsi.net/client/en_US/lincc/search/detailnonmodal/ent:$002f$002fERC_8760_3941$002f0$002f8760_3941:OVERDRIVE:cc98f843-3183-48c9-a370-0f740e47be3e/ada?qu=jason+fried).
@@ -24,6 +38,19 @@ Revised: 2020-08-13
     * Economist examines how social and economic shifts are affecting communities.
     * Today there are three Americas. At one extreme are the brain hubs, cities like San Francisco, Boston, Austin, and Durham, with a well-educated labor force and a strong innovation sector. Their workers are among the most productive, creative, and best paid on the planet. At the other extreme are cities once dominated by traditional manufacturing, which are declining rapidly, losing jobs and residents. In the middle are a number of cities that could go either way.
     * Available at [Multnomah County Libraries](https://multcolib.bibliocommons.com/item/show/61909152), [Washington County Libraries](https://wccls.bibliocommons.com/item/show/3314413143), [Clackamas County Libraries](https://lincc.ent.sirsi.net/client/en_US/lincc/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:645944/ada?qu=Moretti%2C+Enrico.&d=ent%3A%2F%2FSD_ILS%2F0%2FSD_ILS%3A645944%7EILS%7E0&te=ILS&rt=false%7C%7C%7CAUTHOR%7C%7C%7CAuthor), and a few pages on Google Books [Preview](https://www.google.com/books/edition/The_New_Geography_of_Jobs/br0S54w0u_sC).
+* Richard Lepsinger, Darleen DeRosa. 2010. [Virtual Team Success: A Practical Guide for Working and Leading From a Distance](https://multcolib.bibliocommons.com/v2/record/S152C803245).
+    * Ch 1. Why virtual teams fail.
+    * Ch 2. Profiles of virtual team success - What good looks like.
+    * Ch 3. Virtual team launch kit.
+    * Ch 4. What differentiates great virtual teams - How to RAMP up your team's performance.
+        * **R**elationships
+        * **A**ccountability
+        * **M**otivation
+        * **P**rocess and **P**urpose
+    * Ch 5. How to lead virtual teams - Tips, techniques, and best practices for high performance.
+    * Ch 6. What factors really accelerate virtual team performance - The four top performance boosters.
+    * Ch 7. How to facilitate high-impact virtual meetings - Techniques that really work.
+    * Appendix: OnPoint’s Global Virtual Team Study.
 
 
 ## Business trends
