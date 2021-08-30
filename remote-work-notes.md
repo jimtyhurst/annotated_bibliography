@@ -30,6 +30,20 @@ Revised: 2020-08-13
 ### Primary sources
 Listed in reverse chronological order.
 
+* James M. Citrin, Darleen DeRosa. 2021-05-21. Leading at a distance: Practical Lessons for Virtual Success.
+    * This book focuses on how leaders in large corporations should manage workers and company culture, given the increased number of remote workers.
+    * It is a rewrite of:
+        Richard Lepsinger, Darleen DeRosa. 2010. [Virtual Team Success: A Practical Guide for Working and Leading From a Distance](https://multcolib.bibliocommons.com/v2/record/S152C803245). (See my notes below.)
+    * Ch 1. What we learned from the pandemic: Our research shows remote work is here to stay.
+    * Ch 2. No trust = No team: The formula for building cohesive relationships virtually.
+    * Ch 3. What does good look like? Profile of high-performing virtual teams.
+    * Ch 4. How to RAMP up your virtual team's performance: A blueprint for success.
+    * Ch 5. Out of sight, not out of mind: How to inspire and motivate from afar.
+    * Ch 6. "You're on mute": The ultimate guide for hosting virtual meetings.
+    * Ch 7. Hiring without a handshake: Discovering successful virtual leaders.
+    * Ch 8. Surviving day one: A toolkit for remote onboarding.
+    * Ch 9. Continuous improvement: High-impact coaching and accountability at a distance.
+    * Ch 10. The culture conundrum: Building and sustaining culture virtually.
 * Alexander W. Bartik, Zoe B. Cullen, Edward L. Glaeser, Michael Luca, Christopher T. Stanton. 2020-06. [What Jobs are Being Done at Home During the Covid-19 Crisis?](https://www.nber.org/papers/w27422) Evidence from Firm-Level Surveys. NBER Working Paper No. 27422. [PDF](https://www.nber.org/papers/w27422.pdf).
     * "more than one-third of firms that had employees switch to remote work believe that remote work will remain more common at their company even after the COVID-19 crisis ends."
     * The [Dingel and Neiman (2020)](https://www.nber.org/papers/w26948) measure of suitability for remote work does a remarkably good job of predicting the industry level patterns of remote work.
@@ -42,6 +56,19 @@ Listed in reverse chronological order.
     * "According to the [SBU](https://www.frbatlanta.org/research/surveys/business-uncertainty.aspx) results, the anticipated share of working days at home is set to triple after the pandemic ends—rising from 5.5 percent to 16.6 percent of all working days."
     * "Perhaps even more striking, firms anticipate that 10 percent of their full-time workforce will be working from home five days a week."
 * U.S. Bureau of Labor Statistics. 2019-09-24. Economic New Release. [Table 3. Workers who worked at home and how often they worked exclusively at home by selected characteristics, averages for the period 2017-2018](https://www.bls.gov/news.release/flex2.t03.htm).
+* Richard Lepsinger, Darleen DeRosa. 2010. [Virtual Team Success: A Practical Guide for Working and Leading From a Distance](https://multcolib.bibliocommons.com/v2/record/S152C803245).
+    * Ch 1. Why virtual teams fail.
+    * Ch 2. Profiles of virtual team success - What good looks like.
+    * Ch 3. Virtual team launch kit.
+    * Ch 4. What differentiates great virtual teams - How to RAMP up your team's performance.
+        * **R**elationships
+        * **A**ccountability
+        * **M**otivation
+        * **P**rocess and **P**urpose
+    * Ch 5. How to lead virtual teams - Tips, techniques, and best practices for high performance.
+    * Ch 6. What factors really accelerate virtual team performance - The four top performance boosters.
+    * Ch 7. How to facilitate high-impact virtual meetings - Techniques that really work.
+    * Appendix: OnPoint’s Global Virtual Team Study.
 
 ### Summaries and reviews
 * Claire Cain Miller. 2020-07-02. [Is the Five-Day Office Week Over?](https://www.nytimes.com/2020/07/02/upshot/is-the-five-day-office-week-over.html) NY Times.
