@@ -29,6 +29,12 @@ Revised: 2021-08-30
     * Ch 8. Surviving day one: A toolkit for remote onboarding.
     * Ch 9. Continuous improvement: High-impact coaching and accountability at a distance.
     * Ch 10. The culture conundrum: Building and sustaining culture virtually.
+* Amanda Mull. 2020-10. [Generation Work-From-Home May Never Recover: The social and economic costs borne by young people without offices](https://www.theatlantic.com/magazine/archive/2020/10/career-costs-working-from-home/615472/).
+    * Kati Peditto: "There are tons of studies on the positive benefits of teleworking, but most of that research is interviews and surveys with people who have self-selected into remote work".
+    * "people who have already built strong social and professional networks may not suffer much from the lack of face-to-face contact at the office, but for those still trying to make such ties, remote work can be alienating."
+    * "with no place to go to but just as many professional obligations, people working from home might have the flexibility to do everything except make new friends."
+    * "Even those who self-select into the work-from-home “lifestyle” report feeling distant from new professional opportunities, outside their companies as well as inside"
+    * "A dispersed workforce means that employees have to go out of their way to compare experiences with one another, and that those with relatively little power have a tougher time sensing who their allies might be."
 * Jason Fried. 2013. Remote: Office not required.
     * Excellent discussion of many aspects of teams of remote workers.  
     * Available at [Multnomah County Libraries](https://multcolib.bibliocommons.com/item/show/988198152), [Washington County Libraries](https://wccls.bibliocommons.com/item/show/2108581143), [Clackamas County Libraries](https://lincc.ent.sirsi.net/client/en_US/lincc/search/detailnonmodal/ent:$002f$002fERC_8760_3941$002f0$002f8760_3941:OVERDRIVE:cc98f843-3183-48c9-a370-0f740e47be3e/ada?qu=jason+fried).
