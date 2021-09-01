@@ -1,10 +1,19 @@
 # Community Building: Notes
 [Jim Tyhurst](https://www.jimtyhurst.com)  
-Revised: 2021-08-17
+Revised: 2021-09-01
 
 **Contents**
 
 * [References](#references)
+* [CMX Summit 2021](#cmx-summit-2021)
+    * [Lessons Learned From Growing International Communities](#lessons-learned-from-growing-international-communities)
+    * [Community-First Programming](#community-first-programming)
+    * [Mining for Gold In Communities](#mining-for-gold-in-communities)
+    * [Community-Owned, No Meetings, No Deadlines, No Full-Time Employees](#community-owned-no-meetings-no-deadlines-no-full-time-employees)
+* [Online Community Platforms](#online-community-platforms)
+    * [Hivebrite](#hivebrite)
+    * [Mighty Networks](#mighty-networks)
+    * [Wild Apricot](#wild-apricot)
 
 ---
 
@@ -112,3 +121,47 @@ Listed in reverse chronological order.
     * People like to be with people who are like them.
     * Examples from Don McGavran's writings on Christian missions. Churches with small groups have been especially effective at growing.
     * Discusses Portland as a self-selecting population of people moving to Portland.
+
+## CMX Summit 2021
+* [CMX Summit](https://cmxhub.com/summit/) is an annual conference, organized by [CMX](https://cmxhub.com/), which is a community for _community managers_.
+* #CMXSummitRise
+
+### Lessons Learned From Growing International Communities
+* Erika Batista, VP of International, [On Deck](https://www.beondeck.com/). erika@beondeck.com
+* _Abstract_: In this session, Erika will share her experiences and lessons learned from leading On Deck's international expansion and from growing The Family, one of Europe's leading tech accelerators. This session will be packed with real-world examples and tactical advice.
+* Lessons learned:
+    * Do things that don't scale, again. Early stage startups do this, but it also applies to new markets.
+    * When you launch a new market, 80% of the work is "invisible". Less about PR and more about building influence and educating the market on your value proposition.
+    * In a strong community, members are willing to do irrational things for each other (and for you). Your job is to build high trust among those members.
+    * Create ownership. Referrals are the biggest driver of growth for On Deck.
+    * Different markets will demand different things from your community.
+    * Don't get hung up on org structures. Focus on the problem you are trying to solve vs optimizing for your existing org. Solve for the next 3-6-12 months, because your org will probably change drastically in a year.
+    * The most improtant decision is who you hire to lead the markewt. Before there is a brand, people follow people. Hire for the next 18 months, because the person for the current size is not necessarily right for the next level of growth.
+
+### Community-First Programming
+* Katie Ray, Community Manager, Sales Hacker.
+* _Abstract_: Community Managers have been building programs to hopefully engage and inspire community members. But are we doing it the right way? Are we building what our members are wanting and even needing? Let's look at the different types of community programs, ways to get community members involved, and how this will evolve as we shift back into in person events.
+
+### Mining for Gold In Communities
+* Greg Isenberg, CEO/Co-Founder, Late Checkout
+* _Abstract_: In this session, Greg Isenberg will give you a page from his community playbook. Starting with a brief overview to set the stage, Greg will focus his talk on the 6-step framework he developed to unearth community "gold" and the insights he and his team use to develop unique community-based products, that users love. Participants can expect to walk away with a simple, step-by-step, actionable and proven method that they can use to build their own communities and products.
+
+### Community-Owned, No Meetings, No Deadlines, No Full-Time Employees
+* Sahil Lavingia, CEO, Gumroad
+* David Spinks, Co-founder, CMX
+* _Abstract_: The internet has enabled new ways of working, but we’re just starting to see them unfold. In this fireside chat with Gumroad's CEO, you'll learn a new way on how to make work work. You'll learn to say no. There are a lot of different ways and Gumroad is just one. Hear about becoming a minimalist entrepreneur, community crowdfunding, and changing the future.
+
+
+
+
+## Online Community Platforms
+Listed in alphabetical order.
+
+### Hivebrite
+* https://hivebrite.com/
+
+## Mighty Networks
+* https://www.mightynetworks.com/
+
+## Wild Apricot
+* https://www.wildapricot.com/
