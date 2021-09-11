@@ -1,6 +1,6 @@
 # Community Building: Notes
 [Jim Tyhurst](https://www.jimtyhurst.com)  
-Revised: 2021-09-01
+Revised: 2021-09-02
 
 **Contents**
 
@@ -10,7 +10,11 @@ Revised: 2021-09-01
     * [Community-First Programming](#community-first-programming)
     * [Mining for Gold In Communities](#mining-for-gold-in-communities)
     * [Community-Owned, No Meetings, No Deadlines, No Full-Time Employees](#community-owned-no-meetings-no-deadlines-no-full-time-employees)
+    * [Better Living Through KPIs: How to Manage Your Community Team](#better-living-through-kpis-how-to-manage-your-community-team)
+    * [Safety at Scale](#safety-at-scale)
+    * [Don't Guess: Ask! An Easy Research Approach to Kick-off Your Next Initiative](#dont-guess-ask-an-easy-research-approach-to-kick-off-your-next-initiative)
 * [Online Community Platforms](#online-community-platforms)
+    * [Circle](#circle)
     * [Hivebrite](#hivebrite)
     * [Mighty Networks](#mighty-networks)
     * [Wild Apricot](#wild-apricot)
@@ -141,27 +145,106 @@ Listed in reverse chronological order.
 ### Community-First Programming
 * Katie Ray, Community Manager, Sales Hacker.
 * _Abstract_: Community Managers have been building programs to hopefully engage and inspire community members. But are we doing it the right way? Are we building what our members are wanting and even needing? Let's look at the different types of community programs, ways to get community members involved, and how this will evolve as we shift back into in person events.
+* _community programs_: Activites that drive a sense of fellowship with others through group events, shared experiences, and conversations.
+* types:
+    * Educational: workshops, Ask Me Anything (AMA), webinars, podcasts
+    * Social: roundtables, super users, geo-specific, networking, ...
+    * Developmental: mentoring, courses, certifications
+* questions to ask yourself and your team to be sure you are planning with _community-first_ in mind:
+    * Have people asked for this? Have the right people asked for this?
+    * Make sure survey questions are not leading. Allow for true responses.
+    * Who is hosting these events? Are your super users given the chance to lead?
+* Is your community healthy? What does "healthy" look like?
 
 ### Mining for Gold In Communities
-* Greg Isenberg, CEO/Co-Founder, Late Checkout
+* Greg Isenberg, CEO/Co-Founder, Late Checkout. @gregisenberg
 * _Abstract_: In this session, Greg Isenberg will give you a page from his community playbook. Starting with a brief overview to set the stage, Greg will focus his talk on the 6-step framework he developed to unearth community "gold" and the insights he and his team use to develop unique community-based products, that users love. Participants can expect to walk away with a simple, step-by-step, actionable and proven method that they can use to build their own communities and products.
+* platforms: Discourse, Reddit, ...
+    * people find a subset of the internet 
+* the problems with community platforms today
+    * 
+* unbundling a Reddit community
+    * verticals being taken out of a specific community from a larger network like Reddit, Discourse, CraigsList, ...
+* 6 steps to get you started
+    1. Find a SubReddit
+        * redditlist.com
+        * Is it growing fast?
+        * Do you have a competitive advantage there?
+    2. Join the SubRedit
+        * Become one with the community.
+        * Immerse yourself like an anthropologist in an isolated tribe.
+        * Learn their language and their rituals.
+    3. See what they want
+        * What recommendations do they ask for?
+        * Do they keep complaining about something specific?
+        * If you were trying to achieve their goals, what would make it easier?
+    4. Create a closer space for communication
+        * Create your own gathering place.
+        * Have more personal and direct interactions.
+    5. Build something for them
+    6. Build on top of what you built
 
 ### Community-Owned, No Meetings, No Deadlines, No Full-Time Employees
 * Sahil Lavingia, CEO, Gumroad
 * David Spinks, Co-founder, CMX
 * _Abstract_: The internet has enabled new ways of working, but we’re just starting to see them unfold. In this fireside chat with Gumroad's CEO, you'll learn a new way on how to make work work. You'll learn to say no. There are a lot of different ways and Gumroad is just one. Hear about becoming a minimalist entrepreneur, community crowdfunding, and changing the future.
+* https://sahillavingia.com/work
 
+### Better Living Through KPIs: How to Manage Your Community Team
+* Lauren Clevenger, Senior Manager, Community & Developer Relations, BigCommerce. @laurenfaye512
+* _Abstract_: As Community leaders, we think about metrics all the time. We're always seeking the best practices to measure success, monitor the health of our Communities, and prove ROI and business value. However, there's one measurement that is often not part of the conversation — employee-level metrics. In this talk, Lauren will share the work she's done as a people manager to establish employee-level KPIs and connect the dots from our high-level business goals down to the individual activities and contributions that move the needle. She'll also share her recommendations and actionable tips for creating your own individual level KPIs, no matter what programs and goals your team has.
+* _Key Performance Indicator_ (KPI)
+    * teams use them as targets to measure progres toward business goals.
+    * What to measure? Business Value > Community Experience > Operations > Employee KPIs
+* Community Moderators and KPIs: create engagement
+    * Need KPIs, so moderator knows if they are doing a good job.
+    * How do I know what to focus on?
+    * Am I making any impact at all?
+* SMART = Specific. Measurable. Achievable. Relevant. Time-Bound.
+* Employee KPIs should _not_ be:
+    * shared with others. It must measure the output of only one individual.
+    * depend on outside factors. Cannot depend on factors out of the employee's control.
+    * inconsistent or infrequent. The measured activity must be part of daily or weekly tasks.
 
+### Safety at Scale
+* Greg Russo, Senior Enforcement Operations Analyst, Twitch
+    * Twitter: https://twitter.com/grrusso
+    * LinkedIn: https://linkedin.com/in/gregory-russo 
+* _Abstract_: Every online community has had to face issues like spam, trolls, and established community members who cause drama. But now moderation of online spaces has become a mainstream topic of discussion and government regulation. As your community grows and expectations about the role and responsiveness of online communities change, scalability of your approach to safety is crucial. This presentation will explore the key considerations for trust and safety practices and policies which operate at scale and common pitfalls to avoid as your community faces these new challenges.
+* symptom: hate speech, bullying, disinformation.
+* risk profile: current community and as community grows.
+* content:
+    * text, URLs
+    * video
+* start from community values and identity.
+* transparency and communication: clear rules, educate users beforehand, moderation.
+* empower users to regulate their own experience and space, e.g blocking.
+* identify and quarantine items quickly, followed by investigation workflow.
+    * objective criteria whenever possible
+* QA the moderators. Plan for escalations and appeals.
+* Anticipate legal notices, law enforcement, regulations.
+* Avoid moving too slowly on toxic behavior or subcommunities.
+
+### Don't Guess: Ask! An Easy Research Approach to Kick-off Your Next Initiative
+* Moly Milosovic, Head of Community, Jobber. [@molyem]()
+* _Abstract_: Conducting research with your community to validate your great ideas and improve on them with insights straight from the people you’re building for doesn’t have to be time-consuming or hard to pull off. The result: A better outcome, a more excited community, and bigger results. In this super dupes actionable session, Moly will share a low-intensity, high-impact research approach the Jobber community team uses to kick off a project that you can be sure will truly benefit folks. There will be case studies to prove out how it all works. This session will be aimed at folks with limited people resources who are intimidated by the idea of tackling community research. She'll share messaging you can use to reach out, ideas to get input and participation across multiple channels, and starting points for questions you can ask.
 
 
 ## Online Community Platforms
 Listed in alphabetical order.
 
+### Circle
+* https://circle.so/
+* "The modern community platform for creators: Bring together your discussions, memberships, and content. Integrate a thriving community wherever your audience is, all under your own brand."
+
 ### Hivebrite
 * https://hivebrite.com/
+* "Power your private community portal: All-in-one. Easy to set up. Highly customizable."
 
 ## Mighty Networks
 * https://www.mightynetworks.com/
+* "Build a business powered by community: Bring your community, courses, memberships, and events together in one place under your brand."
 
 ## Wild Apricot
 * https://www.wildapricot.com/
+* "Manage your organization all in one place: Powerful cloud software to help you automate and simplify membership tasks."
