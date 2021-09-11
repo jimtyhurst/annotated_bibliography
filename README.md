@@ -10,6 +10,7 @@ This repository holds brief notes that help me remember the details of technical
 * [Dyslexia](./dyslexia-notes.md): Notes.
 * [Machine Learning: Resources in Portland, Oregon, United States](https://github.com/jimtyhurst/ml-resources-Portland-OR-USA/blob/master/ml-resources-Portland-OR-USA.md): A list of groups meeting in Portland, mostly focused on machine learning, artificial intelligence, or data science.
 * [Step away from the notebook!](./R_package_structure_for_good.md): Use an R package to organize your project.
+* [{tidymodels}](./tidymodels-notes.md): Notes.
 * [Time Series in R](./time_series_in_R-notes.md): Notes.
 * [Transit Resources](./transit-notes.md): Annotated Bibliography.
 * [Working Remotely](./remote-work-notes.md): Notes.
