@@ -29,7 +29,10 @@ Revised: 2021-09-11
 ## Sample Analyses
 * Emil Hvitfeldt and Julia Silge. 2021-07-28. [Supervised Machine Learning for Text Analysis in R](https://smltar.com/).
 * Emil Hvitfeldt. [ISLR tidymodels Labs](https://emilhvitfeldt.github.io/ISLR-tidymodels-labs/index.html).
-    * [source code](https://github.com/EmilHvitfeldt/ISLR-tidymodels-labs).
+    * "This book aims to be a complement to the 2nd version of [An Introduction to Statistical Learning](https://www.statlearning.com/) book with translations of the labs into using the [tidymodels](https://www.tidymodels.org/) set of packages."
+    * [source code](https://github.com/EmilHvitfeldt/ISLR-tidymodels-labs), using the [tidyverse style guide](https://style.tidyverse.org/).
+    * I love the idea of this book, because [An Introduction to Statistical Learning](https://www.statlearning.com/) is such a great book and so widely quoted, but Hvitfeldt reinterprets the problems with {tidymodels}, providing a great way to get familiar with {tidymodels}.
+
 
 
 ## Blog Posts
@@ -38,6 +41,8 @@ Revised: 2021-09-11
 * David Robinson. 2021-07-21. [Machine learning in a hurry: what I've learned from the SLICED ML competition](http://varianceexplained.org/r/sliced-ml/).
 * Julia Silge. 2020-05-21. [Tune XGBoost with tidymodels and #TidyTuesday beach volleyball](https://juliasilge.com/blog/xgboost-tune-volleyball/)
 * Joseph Rickert. 2020-04-21. [The Case for tidymodels](https://rviews.rstudio.com/2020/04/21/the-case-for-tidymodels/).
+* Rebecca Barter. 2020-04-14. [Tidymodels: tidy machine learning in R](https://www.rebeccabarter.com/blog/2020-03-25_machine_learning/).
+    * Works through an analysis of diabetes in Pima Indians from a [{mlbench}](https://CRAN.R-project.org/package=mlbench) dataset, training a random forest model from the [{ranger}](https://cran.r-project.org/package=ranger) package to predict {pos, neg} from 8 variables.
 * Julia Silge. 2020-02-18. Hyperparameter tuning using tidymodels. [Video](https://www.youtube.com/watch?v=muf3-hrahHs).
 * Julia Silge. 2020-02-05. [#TidyTuesday and tidymodels](https://juliasilge.com/blog/intro-tidymodels/).
 * Edgar Ruiz. 2019-06-19. [A Gentle Introduction to tidymodels](https://rviews.rstudio.com/2019/06/19/a-gentle-intro-to-tidymodels/).
