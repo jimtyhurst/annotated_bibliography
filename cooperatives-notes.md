@@ -96,10 +96,9 @@ Three core principles of platform coops:
 * transparent data
 
 ### References
-* Nick Srnicek. 2017. Platform Capitalism. Polity Books. Available as paperback at: [Washington County Libraries](https://wccls.bibliocommons.com/item/show/3317072143).
 * Platform Cooperativism vs. the Sharing Economy
 Trebor Scholz. 2014-12-05. https://medium.com/@trebors/platform-cooperativism-vs-the-sharing-economy-2ea737f1b5ad
-* http://www.peers.org/ is a labor brokerage, but also a social safety net for workers in the sharing economy. Given that it mostly represents centralized, for profit upstarts, Peers is not a genuine alternative to worker-owned cooperatives.
+* Nick Srnicek. 2017. Platform Capitalism. Polity Books. Available as paperback at: [Washington County Libraries](https://wccls.bibliocommons.com/item/show/3317072143).
 * [Fairmondo](https://www.fairmondo.de/) is a co-op-based version of eBay.
 * [La'Zooz](http://lazooz.org/) "A Decentralized Transportation Platform owned by the community and utilising vehicles' unused space to create a variety of smart transportation solutions."
 * [P2P Foundation](https://p2pfoundation.net/)
