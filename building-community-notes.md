@@ -129,6 +129,7 @@ Listed in reverse chronological order.
 ## CMX Summit 2021
 * [CMX Summit](https://cmxhub.com/summit/) is an annual conference, organized by [CMX](https://cmxhub.com/), which is a community for _community managers_.
 * #CMXSummitRise
+* Video recordings: https://www.youtube.com/playlist?list=PLUC9Vz9R3tpJnbxqHs5axXZbahbGUlBB8
 
 ### Lessons Learned From Growing International Communities
 * Erika Batista, VP of International, [On Deck](https://www.beondeck.com/). erika@beondeck.com
