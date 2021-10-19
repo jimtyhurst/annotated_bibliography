@@ -23,3 +23,10 @@ Listed in reverse chronological order.
     * "Why traditional networking is not working".
 * Tiziana Casciaro, Francesca Gino, Maryam Kouchaki. 2014-10-06. [The Contaminating Effects of Building Instrumental Ties: How Networking Can Make Us Feel Dirty](https://journals.sagepub.com/doi/full/10.1177/0001839214554990). [Administrative Science Quarterly](https://journals.sagepub.com/home/asq).
 * [Dorie Clark](https://dorieclark.com/resources/articles/), Lisa Chau. 2013-04-17. [Networking Should Never Be Forced](https://www.forbes.com/sites/dorieclark/2013/04/17/networking-should-never-be-forced/). [Forbes](https://www.forbes.com/).
+
+
+---
+
+Copyright &copy; 2021 [Jim Tyhurst](https://www.jimtyhurst.com)
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
