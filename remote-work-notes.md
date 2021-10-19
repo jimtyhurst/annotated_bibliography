@@ -75,8 +75,10 @@ Listed in reverse chronological order.
     * "According to the [SBU](https://www.frbatlanta.org/research/surveys/business-uncertainty.aspx) results, the anticipated share of working days at home is set to triple after the pandemic ends—rising from 5.5 percent to 16.6 percent of all working days."
     * "Perhaps even more striking, firms anticipate that 10 percent of their full-time workforce will be working from home five days a week."
 * U.S. Bureau of Labor Statistics. 2019-09-24. Economic New Release. [Table 3. Workers who worked at home and how often they worked exclusively at home by selected characteristics, averages for the period 2017-2018](https://www.bls.gov/news.release/flex2.t03.htm).
+* Cali Ressler, Jody Thompson. 2008. [Why Work Sucks and How to Fix It](https://multcolib.bibliocommons.com/v2/record/S152C1041809): No Schedules, No Meetings, No Joke - the Simple Change That Can Make Your Job Terrific.
 
 ### Summaries and reviews
+* Cal Newport. 2021-07-09. [How to Achieve Sustainable Remote Work](https://www.newyorker.com/culture/cultural-comment/how-to-achieve-sustainable-remote-work): Companies must move away from surveillance and visible busyness, and toward defined outcomes and trust. [The New Yorker](https://www.newyorker.com/).
 * Claire Cain Miller. 2020-07-02. [Is the Five-Day Office Week Over?](https://www.nytimes.com/2020/07/02/upshot/is-the-five-day-office-week-over.html) NY Times.
     * "employers predicted that post-pandemic, [27 percent](https://www.frbatlanta.org/blogs/macroblog/2020/05/28/firms-expect-working-from-home-to-triple) of their full-time employees would continue working from home, most for a few days a week."
     * "[Other surveys of firms](https://www.nber.org/papers/w27422) have shown that they expect at least 40 percent of employees to keep working remotely."
