@@ -1,6 +1,6 @@
 # Working Remotely: Notes
 [Jim Tyhurst](https://www.jimtyhurst.com)<br>
-Revised: 2021-08-30
+Revised: 2021-11-21
 
 **Contents**
 
