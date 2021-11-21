@@ -15,6 +15,17 @@ Revised: 2021-08-30
 
 
 ## References
+* [Jonathan Turner](https://www.agilealliance.org/author/8027426). 2021. [One Year of Remote Mob Programming](https://www.agilealliance.org/resources/experience-reports/one-year-of-remote-mob-programming/). Agile Alliance [Experience Report](https://www.agilealliance.org/resources/experience-reports/).
+    * This short article explains how the author's team handled some problems of mob programming remotely.
+    * He concludes, "Given the right tools and conditions, remote mob programming is as effective as in-person mob programming."
+    * "Remote mob programming pairs well with technical and other practices, such as test driven development, continuous integration, push button deployments, limiting work in process, and eliminating waste."
+* Gleb Tsipursky. 2021-10-14. [Remote Work Can Be Better for Innovation Than In-Person Meetings: Seven steps for more inclusive and productive virtual brainstorming](https://www.scientificamerican.com/article/remote-work-can-be-better-for-innovation-than-in-person-meetings/). Scientific American.
+    * "asynchronous virtual brainstorming" overcomes problems from in-person brainstorming.
+    * Leaders should not fool themselves that using traditional in-person brainstorming will result in maximizing innovation.
+    * Tsipursky describes a 7-step process for asynchronous brainstorming that provides more and better ideas than traditional brainstorming, maximizing the number of novel ideas, and therefore gaining an innovation advantage.
+    * Adrian Furnham. 2003-01-06. [The Brainstorming Myth](https://onlinelibrary.wiley.com/doi/abs/10.1111/1467-8616.00154). Business Strategy Review. Summarizes psychology studies of the effectiveness of traditional brainstorming. Tsipursky summarizes many of the issues identified in Furnham's article.
+* Jack Kelly. 2021-09-13. [Why You Should Be Skeptical Of The Microsoft Study Saying Remote Work ‘Siloed’ Employees And Made The Company Less ‘Dynamic’](https://www.forbes.com/sites/jackkelly/2021/09/13/why-you-should-be-skeptical-of-the-microsoft-study-saying-remote-work-siloed-employees-and-made-the-company-less-dynamic/). [Forbes](https://www.forbes.com/).
+* Alberto S. Sliveira Jr. 2021-05. [Building and managing high-performance distributed teams](https://learning.oreilly.com/library/view/building-and-managing/9781484270554/). [Apress](https://www.apress.com/us/book/9781484270547).
 * James M. Citrin, Darleen DeRosa. 2021-05-21. Leading at a distance: Practical Lessons for Virtual Success.
     * This book focuses on how leaders in large corporations should manage workers and company culture, given the increased number of remote workers.
     * This book is a rewrite of:
@@ -35,8 +46,17 @@ Revised: 2021-08-30
     * "with no place to go to but just as many professional obligations, people working from home might have the flexibility to do everything except make new friends."
     * "Even those who self-select into the work-from-home “lifestyle” report feeling distant from new professional opportunities, outside their companies as well as inside"
     * "A dispersed workforce means that employees have to go out of their way to compare experiences with one another, and that those with relatively little power have a tougher time sensing who their allies might be."
+* Samantha Slade. 2018. [Going horizontal: Creating a non-hierarchical organization one practice at a time](https://multcolib.bibliocommons.com/v2/record/S152C1661566).
+    * This is not specifically about remote work, but the concepts of organizational structure and the 7 practices are especially relevant to organizations that work remotely.
+        1. Autonomy: Claim your personal leadership.
+        2. Purpose: The invisible leader.
+        3. Meetings: Sharing the responsibilities and accountability.
+        4. Transparency: Open is effective and efficient.
+        5. Decision making: Sharing the power.
+        6. Learning and development: Self-directed and collectively held.
+        7. Relationships and conflicts: Tending to them together.
 * Jason Fried. 2013. Remote: Office not required.
-    * Excellent discussion of many aspects of teams of remote workers.  
+    * Excellent discussion of many aspects of teams of remote workers.
     * Available at [Multnomah County Libraries](https://multcolib.bibliocommons.com/item/show/988198152), [Washington County Libraries](https://wccls.bibliocommons.com/item/show/2108581143), [Clackamas County Libraries](https://lincc.ent.sirsi.net/client/en_US/lincc/search/detailnonmodal/ent:$002f$002fERC_8760_3941$002f0$002f8760_3941:OVERDRIVE:cc98f843-3183-48c9-a370-0f740e47be3e/ada?qu=jason+fried).
 * Johanna Rothman, Mark Kirby. 2019. [From Chaos to Successful Distributed Agile Teams: Collaborate to Deliver](https://www.jrothman.com/books/from-chaos-to-successful-distributed-agile-teams-collaborate-to-deliver/).
 * [Shape My Work](https://shapemywork.com/) wiki about remote Agile.
@@ -78,6 +98,7 @@ Listed in reverse chronological order.
 * Cali Ressler, Jody Thompson. 2008. [Why Work Sucks and How to Fix It](https://multcolib.bibliocommons.com/v2/record/S152C1041809): No Schedules, No Meetings, No Joke - the Simple Change That Can Make Your Job Terrific.
 
 ### Summaries and reviews
+* Cal Newport. 2021-09-27. [Is Going to the Office a Broken Way of Working? A conversation with Chris Herd, who foresees a future in which most companies are remote-first.](https://www-newyorker-com.cdn.ampproject.org/c/s/www.newyorker.com/culture/office-space/is-going-to-the-office-a-broken-way-of-working/amp). [The New Yorker](https://www.newyorker.com/).
 * Cal Newport. 2021-07-09. [How to Achieve Sustainable Remote Work](https://www.newyorker.com/culture/cultural-comment/how-to-achieve-sustainable-remote-work): Companies must move away from surveillance and visible busyness, and toward defined outcomes and trust. [The New Yorker](https://www.newyorker.com/).
 * Claire Cain Miller. 2020-07-02. [Is the Five-Day Office Week Over?](https://www.nytimes.com/2020/07/02/upshot/is-the-five-day-office-week-over.html) NY Times.
     * "employers predicted that post-pandemic, [27 percent](https://www.frbatlanta.org/blogs/macroblog/2020/05/28/firms-expect-working-from-home-to-triple) of their full-time employees would continue working from home, most for a few days a week."
