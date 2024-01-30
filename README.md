@@ -5,7 +5,7 @@ This repository holds brief notes that help me remember the details of technical
 **Index**
 
 * [10 Git Commands for Collaborating](https://github.com/jimtyhurst/git-10-commands/blob/main/10-Git-Commands-for-Collaborating.pdf): Learn Just Enough Git and GitHub to Contribute to an Open Source Project.
-* [AI in Education](./AI_in_Education.md): Notes.
+* [AI in Education](./AI_in_Education-notes.md): Notes.
 * [Building Community](./building-community-notes.md): Annotated Bibliography.
 * [Data Pipeline Tools](./ml-workflow-tools.md): Annotated Bibliography.
 * [Dyslexia](./dyslexia-notes.md): Notes.

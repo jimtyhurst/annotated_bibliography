@@ -12,27 +12,40 @@
 
 
 
-* Oregon Department of Education: Generative Artificial Intelligence (AI) in K-12 classrooms
-    * https://www.oregon.gov/ode/educator-resources/teachingcontent/Documents/ODE_Generative_Artificial_Intelligence_(AI)_in_K-12_Classrooms_2023.pdf
+* Oregon Department of Education
+    * Digital Learning: Resources for Oregon's educators
+        * https://www.oregon.gov/ode/educator-resources/teachingcontent/
+    * Generative Artificial Intelligence (AI) in K-12 classrooms
+        * https://www.oregon.gov/ode/educator-resources/teachingcontent/Documents/ODE_Generative_Artificial_Intelligence_(AI)_in_K-12_Classrooms_2023.pdf
+    * Developing policy and protocols for the use of Generative AI in K-12 classrooms
+        * https://www.oregon.gov/ode/educator-resources/teachingcontent/Documents/ODE_Developing_Policy_and_Protocols_for_the_use_of_Generative_AI_in_K-12_Classrooms_2023.pdf
+    * Resources for the educational use of Generative AI in K-12 classrooms.
+        * https://www.oregon.gov/ode/educator-resources/teachingcontent/Documents/ODE_Resources_for_the_Educational_Use_of_Generative_AI_in_K-12_Classrooms_2023.pdf
 * Encode Justice: What we do
     * Includes a very long list of references to other sites and material.
     * https://encodejustice.org/#what-we-do
-* Student Privacy Compass
-    * https://studentprivacycompass.org/introducingspc/
+* Stanford University: Classroom-Ready Resources About AI For Teaching (CRAFT)
+    * "CRAFT is a collection of co-designed free AI Literacy resources about AI for high school teachers, to help students explore, understand, question, and critique AI."
+    * https://craft.stanford.edu/
 * TeachAI
-    * "Empowering educators to teach with and _about_ AI."
+    * "Empowering educators to teach _with_ and _about_ AI."
     * https://www.teachai.org/
     * AI Guidance For Schools Toolkit
         * https://www.teachai.org/toolkit
+* Student Privacy Compass
+    * https://studentprivacycompass.org/introducingspc/
+* ISTE: Artificial Intelligence in Education
+    * Includes "_Hands-On AI Projects for the Classroom_ guides to provide educators with a variety of activities to teach students about AI across various grade levels and subject areas."
+    * https://iste.org/ai
 
 <h2>The AI Education Movement: Youth, Schools, and Everyone Else</h2>
 
 
 2024-01-30
 
-Chris, Organizer, Portland's Techno-Activism Meetup
+Chris, Organizer, [Portland's Techno-Activism Meetup](https://www.meetup.com/Portlands-Techno-Activism-3rd-Mondays/events/297918117).
 
-Maansi Singh, Sahana Srinivasan, and Julianne Huang from Encode Justice Oregon.
+Maansi Singh, Sahana Srinivasan, and Julianne Huang from [Encode Justice](https://encodejustice.org) Oregon.
 
 <h3>Abstract</h3>
 
@@ -76,7 +89,7 @@ Bias
 
 
 
-* Group Attribution BIas: generalization from someone sampled who is not representative of the overall population.
+* Group Attribution Bias: generalization from someone sampled who is not representative of the overall population.
 * Selection Bias: distribution of sample does not represent distribution of entire population.
 * Negative Attributes/Behaviors towards specific ethnicities/genders.
 * Can affect:
@@ -87,30 +100,30 @@ Negative impacts of algorithms on learning process
 
 
 
-* overdependence
+* Overdependence
     * rely too heavily on AI tools
     * reduces motivation to think independently
-* reduced human interaction
-* potential for errors
+* Reduced human interaction.
+* Potential for errors.
 
 Who is involved in this conversation?
 
 
 
 * students, parents, faculty
-* We are concerned about the corporations from which systems are sourced.
+* We need to consider the corporations from which systems are sourced.
 
 How to make these tools safer and more effective?
 
 
 
-* currently: human supervision
+* Currently: human supervision by teachers.
 * Use platforms that have been designed for school
     * e.g. Quizlet, Duolingo are transparent about collection, storage, and use of data.
 * Teachers need sufficient knowledge about AI
     * They need to understand responsible/ethical usage of AI.
 
-Oregon Chapter
+Oregon Chapter of Encode Justice
 
 
 
@@ -125,6 +138,6 @@ Q&A
 
 
 
-* Who are members of the Oregon chapter? students mainly.
-* Can students opt out of a specific technology? Yes.
-* Good summary of technology. Do they have any experience implementing AI systems? Yes, some classroom experience with AI projects.
+* Who are members of the Oregon chapter? [high school students mostly.]
+* Can students opt out of a specific technology? e.g. if teacher provides Quizlet cards for study. [Yes.]
+* Good summary of technology. Do they have any experience implementing AI systems? [Yes, some classroom experience with AI projects.]
