@@ -15,6 +15,9 @@ Revised: 2021-11-21
 
 
 ## References
+* Keith Melnick. 2021-11-29. [Our company went all in on remote work. Here's what worked (and didn't)](https://www.fastcompany.com/90698811/our-company-went-all-in-on-remote-work-heres-what-worked-and-didnt). [Fast Company Magazine](https://www.fastcompany.com/).
+    * "The CEO of [The Zebra](https://www.thezebra.com/) oversaw a fundraising round, the move to unicorn status, and is still hiring despite the pandemic. Here's what he learned about forced fun vs. the value of 15-minute Zoom calls."
+    * "We tested a program that mirrored our office in a virtual setting for employees to meet in this digital world and mingle." This did not work. It felt awkward. But 15-minute "speed dating style" Zoom calls have been effective.
 * [Jonathan Turner](https://www.agilealliance.org/author/8027426). 2021. [One Year of Remote Mob Programming](https://www.agilealliance.org/resources/experience-reports/one-year-of-remote-mob-programming/). Agile Alliance [Experience Report](https://www.agilealliance.org/resources/experience-reports/).
     * This short article explains how the author's team handled some problems of mob programming remotely.
     * He concludes, "Given the right tools and conditions, remote mob programming is as effective as in-person mob programming."
